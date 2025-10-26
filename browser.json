@@ -1,0 +1,28 @@
+{ "mcpServers": {
+    "duckduckgo-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "duckduckgo-mcp-server"
+      ]
+    },
+    "airbnb": {
+      "command": "npx",
+      "args": ["-y", "@openbnb/mcp-server-airbnb"]
+    },
+    "yfinance": {
+      "command": "npx",
+      "args": [
+        "@onori/yfinance-mcp-server"
+      ]
+    },
+    "apify": {
+      "command": "npx",
+      "args": [
+          "mcp-remote",
+          "https://mcp.apify.com/?tools=nmdmnd/yahoo-finance",
+          "--header",
+          "Authorization: Bearer APIFY_TOKEN_REMOVED"
+      ]
+  }
+  }}
