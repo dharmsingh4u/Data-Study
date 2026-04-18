@@ -1,0 +1,22 @@
+// Agent Context Compression Flow
+digraph {
+	LLM [label=LLM color=lightblue shape=box style=filled]
+	AGENT [label=Agent color=lightgrey shape=box style=filled]
+	TOOL [label="TavilySearchResults
+(Large Output)" color=orange shape=ellipse style=filled]
+	FS [label="FilesystemMiddleware
+(Write to Disk / Reference)" color=lightgreen shape=box style=filled]
+	SUM [label="Summarization
+(Read File + Summarize)" color=yellow shape=box style=filled]
+	USER [label="User Query" color=pink shape=diamond style=filled]
+	REPLY [label="Agent Reply
+(Summary + File Ref)" color=lightcyan shape=box style=filled]
+	USER -> AGENT [label="User input"]
+	AGENT -> TOOL [label="Call Tool"]
+	TOOL -> FS [label="Large Output"]
+	FS -> SUM [label="Optional Read & Summarize"]
+	SUM -> LLM [label="Compressed Prompt"]
+	FS -> LLM [label="Reference Only (if no summarization)"]
+	LLM -> AGENT [label="LLM Response"]
+	AGENT -> REPLY [label="Final Reply to User"]
+}

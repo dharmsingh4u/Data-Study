@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import pandas as pd; df=pd.read_excel\\('Calude-input.xlsx'\\); print\\(df.head\\(5\\)\\); print\\(df.columns.tolist\\(\\)\\); print\\(df.shape\\)\")",
+      "Bash(python -c ':*)",
+      "Bash(MAX_ROWS=5 python run_lookup.py)"
+    ]
+  }
+}
