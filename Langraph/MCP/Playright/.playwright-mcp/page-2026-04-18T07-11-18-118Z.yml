@@ -1,0 +1,372 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - paragraph [ref=e8]:
+      - text: Welcome to Expedia.com.
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - text: Continue to the
+          - strong [ref=e11]: Singapore site
+          - text: at
+        - link "Expedia.com.sg" [ref=e12] [cursor=pointer]:
+          - /url: https://www.expedia.com.sg/
+        - text: .
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - link "Skip to main content" [ref=e17] [cursor=pointer]:
+          - /url: "#main_content"
+          - generic [ref=e18]: Skip to main content
+        - banner [ref=e19]:
+          - generic [ref=e23]:
+            - link "Expedia logo" [ref=e24] [cursor=pointer]:
+              - /url: https://www.expedia.com/
+              - img "Expedia logo" [ref=e25]
+            - button "Shop travel" [ref=e30] [cursor=pointer]:
+              - generic [ref=e31]: Shop travel
+              - img "Shop travel" [ref=e32]
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - button "USD United States" [ref=e36] [cursor=pointer]:
+                  - generic [ref=e37]: USD
+                  - img "United States" [ref=e38]
+              - listitem [ref=e39]:
+                - link "List your property" [ref=e40] [cursor=pointer]:
+                  - /url: https://apps.expediapartnercentral.com/en_US/list?utm_medium=referral&utm_source=wwwexpediacom-en_US&utm_campaign=Brand.DTI&utm_contentewd=pwa-header-btn&siteId=1&tpid=1&eapid=0&langId=1033&utm_term=Brand.DTI&lasttouchMktgcode=Brand.DTI
+              - listitem [ref=e41]:
+                - link "Support" [ref=e42] [cursor=pointer]:
+                  - /url: /helpcenter/
+              - listitem [ref=e43]:
+                - link "Trips" [ref=e44] [cursor=pointer]:
+                  - /url: /trips
+              - listitem [ref=e45]:
+                - link "Communication Center" [ref=e46] [cursor=pointer]:
+                  - /url: /inbox/notifications
+                  - img "Communication Center" [ref=e48]
+              - listitem [ref=e51]:
+                - generic [ref=e52]:
+                  - button "Sign in" [expanded] [ref=e55] [cursor=pointer]
+                  - generic [ref=e57]:
+                    - generic [ref=e59]: Unlock instant savings with Member Prices
+                    - list [ref=e60]:
+                      - listitem [ref=e61]:
+                        - link "Sign in" [ref=e63] [cursor=pointer]:
+                          - /url: /login?&uurl=e3id%3Dredr%26rurl%3D%2F
+                      - listitem [ref=e64]:
+                        - link "Learn more about One Key" [ref=e65] [cursor=pointer]:
+                          - /url: /welcome-one-key
+                    - separator [ref=e66]
+                    - list [ref=e67]:
+                      - listitem [ref=e68]:
+                        - link "Feedback" [ref=e70] [cursor=pointer]:
+                          - /url: /p/info-other/feedback.htm
+                          - generic [ref=e71]: Feedback
+      - generic [ref=e73]:
+        - main [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - generic [ref=e77]:
+                - figure [ref=e78]
+                - generic [ref=e81]:
+                  - heading "The one place you go to go places" [level=1] [ref=e82]:
+                    - generic [ref=e83]: The one place you go to go places
+                  - generic [ref=e90]:
+                    - tablist [ref=e92]:
+                      - tab "Stays" [selected] [ref=e93] [cursor=pointer]:
+                        - generic [ref=e95]: Stays
+                      - tab "Flights" [ref=e96] [cursor=pointer]:
+                        - generic [ref=e98]: Flights
+                      - tab "Cars" [ref=e99] [cursor=pointer]:
+                        - generic [ref=e101]: Cars
+                      - tab "Packages" [ref=e102] [cursor=pointer]:
+                        - generic [ref=e104]: Packages
+                      - tab "Things to do" [ref=e105] [cursor=pointer]:
+                        - generic [ref=e107]: Things to do
+                      - tab "Cruises" [ref=e108] [cursor=pointer]:
+                        - generic [ref=e110]: Cruises
+                      - listitem [ref=e111]
+                    - generic [ref=e116]:
+                      - generic [ref=e123]:
+                        - generic: Where to?
+                        - textbox "Where to?" [ref=e124]
+                        - img
+                      - generic [ref=e130]:
+                        - generic: Dates
+                        - button "Dates, Sat, Apr 25 - Fri, May 1" [ref=e131] [cursor=pointer]: Sat, Apr 25 - Fri, May 1
+                        - img
+                      - generic [ref=e135]:
+                        - generic: Travelers
+                        - button "Travelers, 2 travelers, 1 room" [ref=e136] [cursor=pointer]: 2 travelers, 1 room
+                        - img
+                      - generic [ref=e142]:
+                        - checkbox "Add a flight to Bundle & Save*" [ref=e143] [cursor=pointer]
+                        - paragraph [ref=e146] [cursor=pointer]: Add a flight to Bundle & Save*
+                      - button "Search" [ref=e148] [cursor=pointer]
+              - generic [ref=e158]:
+                - generic [ref=e161]:
+                  - img [ref=e164]
+                  - generic [ref=e168]: Book early and save
+                - generic [ref=e171]: Plan ahead to get 20%+ off select stays.
+                - link "Book now" [ref=e174] [cursor=pointer]:
+                  - /url: https://www.expedia.com/deals/early-booking
+            - generic [ref=e179]:
+              - generic [ref=e181]:
+                - generic [ref=e182]:
+                  - heading "Last-minute weekend deals" [level=4] [ref=e183]
+                  - generic [ref=e184]: Minimum 20% off deals for your next weekend getaway!
+                - link "See all deals" [ref=e186] [cursor=pointer]:
+                  - /url: https://www.expedia.com/clp/XtvM6jr
+              - generic [ref=e189]:
+                - generic [ref=e190]:
+                  - group "1 out of 4" [ref=e191]:
+                    - generic [ref=e193]:
+                      - generic [ref=e194]:
+                        - generic [ref=e197]:
+                          - heading "Gallery Carousel" [level=3] [ref=e198]
+                          - generic [ref=e199]:
+                            - figure [ref=e201]:
+                              - img [ref=e203]
+                            - figure [ref=e205]:
+                              - img "Interior" [ref=e207]
+                            - figure [ref=e209]:
+                              - img [ref=e211]
+                          - generic:
+                            - button "Show previous image" [ref=e212] [cursor=pointer]:
+                              - img "Show previous image" [ref=e213]
+                            - button "Show next image" [ref=e215] [cursor=pointer]:
+                              - img "Show next image" [ref=e216]
+                        - link "Save OZO Medini Malaysia to a trip" [ref=e221] [cursor=pointer]:
+                          - img [ref=e222]
+                          - img [ref=e224]
+                      - heading "OZO Medini Malaysia" [level=6] [ref=e226]
+                      - generic [ref=e227]: Iskandar Puteri
+                      - generic [ref=e228]:
+                        - generic [ref=e230]: "9.4"
+                        - generic [ref=e231]: Exceptional
+                        - generic [ref=e232]: (8 reviews)
+                      - generic [ref=e234]:
+                        - generic [ref=e236]: $52 off
+                        - generic [ref=e238]:
+                          - generic [ref=e242]: $72 nightly
+                          - generic [ref=e243]:
+                            - generic [ref=e245]:
+                              - generic [ref=e246]: The price is $161 total
+                              - generic [ref=e248]: $161 total
+                            - button "Price was $213, see more information about Standard Rate." [ref=e249] [cursor=pointer]:
+                              - generic [ref=e251]:
+                                - generic [ref=e252]: Price was $213, see more information about Standard Rate.
+                                - deletion [ref=e255]: $213
+                        - generic [ref=e258]:
+                          - generic [ref=e259]: Total with taxes and fees
+                          - generic [ref=e262]:
+                            - img [ref=e263]
+                            - text: Total with taxes and fees
+                      - link "OZO Medini Malaysia" [ref=e265] [cursor=pointer]:
+                        - /url: https://www.expedia.com/Iskandar-Puteri-Hotels-Ozo-Medini-Malaysia.h105983352.Hotel-Information?startDate=2026-04-24&endDate=2026-04-26&guestRating=40
+                        - generic [ref=e266]: OZO Medini Malaysia
+                  - group "2 out of 4" [ref=e267]:
+                    - generic [ref=e269]:
+                      - generic [ref=e270]:
+                        - generic [ref=e273]:
+                          - heading "Gallery Carousel" [level=3] [ref=e274]
+                          - generic [ref=e275]:
+                            - figure [ref=e277]:
+                              - img [ref=e279]
+                            - figure [ref=e281]:
+                              - img "Exterior" [ref=e283]
+                            - figure [ref=e285]:
+                              - img [ref=e287]
+                          - generic:
+                            - button "Show previous image" [ref=e288] [cursor=pointer]:
+                              - img "Show previous image" [ref=e289]
+                            - button "Show next image" [ref=e291] [cursor=pointer]:
+                              - img "Show next image" [ref=e292]
+                        - link "Save Ayola Signature Ocarina Batam to a trip" [ref=e297] [cursor=pointer]:
+                          - img [ref=e298]
+                          - img [ref=e300]
+                      - heading "Ayola Signature Ocarina Batam" [level=6] [ref=e302]
+                      - generic [ref=e303]: Batam
+                      - generic [ref=e304]:
+                        - generic [ref=e306]: "10.0"
+                        - generic [ref=e307]: Exceptional
+                        - generic [ref=e308]: (1 review)
+                      - generic [ref=e310]:
+                        - generic [ref=e312]: $18 off
+                        - generic [ref=e314]:
+                          - generic [ref=e318]: $30 nightly
+                          - generic [ref=e319]:
+                            - generic [ref=e321]:
+                              - generic [ref=e322]: The price is $73 total
+                              - generic [ref=e324]: $73 total
+                            - button "Price was $91, see more information about Standard Rate." [ref=e325] [cursor=pointer]:
+                              - generic [ref=e327]:
+                                - generic [ref=e328]: Price was $91, see more information about Standard Rate.
+                                - deletion [ref=e331]: $91
+                        - generic [ref=e334]:
+                          - generic [ref=e335]: Total with taxes and fees
+                          - generic [ref=e338]:
+                            - img [ref=e339]
+                            - text: Total with taxes and fees
+                      - link "Ayola Signature Ocarina Batam" [ref=e341] [cursor=pointer]:
+                        - /url: https://www.expedia.com/Batam-Hotels-Ayola-Signature-Ocarina-Batam.h120407917.Hotel-Information?startDate=2026-04-24&endDate=2026-04-26&guestRating=40
+                        - generic [ref=e342]: Ayola Signature Ocarina Batam
+                  - group "3 out of 4" [ref=e343]:
+                    - generic [ref=e345]:
+                      - generic [ref=e346]:
+                        - generic [ref=e349]:
+                          - heading "Gallery Carousel" [level=3] [ref=e350]
+                          - generic [ref=e351]:
+                            - figure [ref=e353]:
+                              - img [ref=e355]
+                            - figure [ref=e357]:
+                              - img "Sea View Presidential Suite | Bed sheets" [ref=e359]
+                            - figure [ref=e361]:
+                              - img [ref=e363]
+                          - generic:
+                            - button "Show previous image" [ref=e364] [cursor=pointer]:
+                              - img "Show previous image" [ref=e365]
+                            - button "Show next image" [ref=e367] [cursor=pointer]:
+                              - img "Show next image" [ref=e368]
+                        - link "Save Bintan Exotica Resort By Waringin Hospitality to a trip" [ref=e373] [cursor=pointer]:
+                          - img [ref=e374]
+                          - img [ref=e376]
+                      - heading "Bintan Exotica Resort By Waringin Hospitality" [level=6] [ref=e378]
+                      - generic [ref=e379]: Bintan
+                      - generic [ref=e380]:
+                        - generic [ref=e382]: "8.8"
+                        - generic [ref=e383]: Excellent
+                        - generic [ref=e384]: (21 reviews)
+                      - generic [ref=e385]:
+                        - generic [ref=e387]: $90 off
+                        - generic [ref=e389]:
+                          - generic [ref=e393]: $58 nightly
+                          - generic [ref=e394]:
+                            - generic [ref=e396]:
+                              - generic [ref=e397]: The price is $140 total
+                              - generic [ref=e399]: $140 total
+                            - button "Price was $230, see more information about Standard Rate." [ref=e400] [cursor=pointer]:
+                              - generic [ref=e402]:
+                                - generic [ref=e403]: Price was $230, see more information about Standard Rate.
+                                - deletion [ref=e406]: $230
+                        - generic [ref=e409]:
+                          - generic [ref=e410]: Total with taxes and fees
+                          - generic [ref=e413]:
+                            - img [ref=e414]
+                            - text: Total with taxes and fees
+                      - link "Bintan Exotica Resort By Waringin Hospitality" [ref=e416] [cursor=pointer]:
+                        - /url: https://www.expedia.com/Bintan-Hotels-Bintan-Exotica-Resort.h94090172.Hotel-Information?startDate=2026-04-24&endDate=2026-04-26&guestRating=40
+                        - generic [ref=e417]: Bintan Exotica Resort By Waringin Hospitality
+                  - group [ref=e418]:
+                    - generic [ref=e420]:
+                      - generic [ref=e421]:
+                        - generic [ref=e424]:
+                          - heading [level=3] [ref=e425]: Gallery Carousel
+                          - generic [ref=e426]:
+                            - figure [ref=e428]:
+                              - img [ref=e430]
+                            - figure [ref=e432]:
+                              - img [ref=e434]
+                            - figure [ref=e436]:
+                              - img [ref=e438]
+                          - button [ref=e439] [cursor=pointer]:
+                            - img [ref=e440]
+                          - button [ref=e442] [cursor=pointer]:
+                            - img [ref=e443]
+                        - link [ref=e448] [cursor=pointer]:
+                          - img [ref=e449]
+                          - img [ref=e451]
+                      - heading [level=6] [ref=e453]: Amerald Resort Hotel Desaru
+                      - generic [ref=e454]: Bandar Penawar
+                      - generic [ref=e455]:
+                        - generic [ref=e457]: "8.0"
+                        - generic [ref=e458]: Very good
+                        - generic [ref=e459]: (120 reviews)
+                      - generic [ref=e461]:
+                        - generic [ref=e463]: $84 off
+                        - generic [ref=e465]:
+                          - generic [ref=e469]: $87 nightly
+                          - generic [ref=e470]:
+                            - generic [ref=e472]:
+                              - generic [ref=e473]: The price is $210 total
+                              - generic [ref=e475]: $210 total
+                            - button [ref=e476] [cursor=pointer]:
+                              - generic [ref=e478]:
+                                - generic [ref=e479]: Price was $293, see more information about Standard Rate.
+                                - deletion [ref=e482]: $293
+                        - generic [ref=e485]:
+                          - generic [ref=e486]: Total with taxes and fees
+                          - generic [ref=e489]:
+                            - img [ref=e490]
+                            - text: Total with taxes and fees
+                      - link [ref=e492] [cursor=pointer]:
+                        - /url: https://www.expedia.com/Bandar-Penawar-Hotels-Amerald-Resort-Hotel-Desaru.h33117635.Hotel-Information?startDate=2026-04-24&endDate=2026-04-26&guestRating=40
+                        - generic [ref=e493]: Amerald Resort Hotel Desaru
+                - generic:
+                  - button:
+                    - img
+                  - button "Next card" [ref=e494] [cursor=pointer]:
+                    - img "Next card" [ref=e495]
+            - generic [ref=e497]:
+              - generic [ref=e502]:
+                - generic [ref=e504]:
+                  - generic [ref=e505]: Ad
+                  - generic [ref=e506]: Ad
+                - generic [ref=e507]:
+                  - figure [ref=e508]:
+                    - link "Discover Alaska in full cruise luxury advertisement, Open in same window" [ref=e509] [cursor=pointer]:
+                      - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstgc0hY_jkcCzI7C8Z1FHkgr5rYOmHINDhhN2ioHEanC4lMT7kMise_6jx9oTwr_GovCtDJdUiqfVeikgvpszM5UBax3XLbMOGs6AiPMdD3tY3GL0qn6YHq6MgFOZ_hcjRHAYO1KznyFMFEN_2_cdenWgj_WwAfyR6WzOYbYG3oT-DoQcZk1y38ymy1HSA4oVO4KLuXEbpGT6sJ5-SC-HKiFmwtcd6cUmgtBwOGxaqdzSsC1P8Y4QaUvFj_rsO7oYC3H4wWJ6LA20_P4-TrrTfMqsmlkC3n9LJilc3eIWplEW4tzLcb7WzB3PV2p9Vz9dewJTEHenK33fil-Z8MYAJ8CZ5VsOLRdBdAx06GPHL9Mkehj4BP2yKp0XtEx_XK&sai=AMfl-YRFo0ZNpWbzQxIQl4DvCWhl_YrO0eJH-TAtW1O7cWqxREQh8vkHWIqKHJjpum5cJVMdx5885k3-aUaEhLCffkTRNzJrl2T10hhmF1FqOIG4ASXIZaewu3iBTfKAxIwl9i8twWHJn6ZjC7Ilo_nMK7yXym_78AJ-UTX7IgBFQCfEIN9sS9cLazwvP7wW5e_4vNeHb2Mu8h8h4yKU9hd0L2BKsxNSA9YXXAws70vl7mvJTgJxIbnfcY6p2rA6cYqn3GVGMT-BqpipDDJ1WRGovzGsRhvYrefgb4tXnXs2SXiDaGxEdvB5w8E79bFZUAOS3nJcLZpvywbrzJKG1vS1uQ&sig=Cg0ArKJSzHPEFbhuitBREAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.expedia.com/lp/b/ms-b-co-op-en-alaska-cruise?siteid=1&langid=1033&cache=false
+                      - generic [ref=e510]: Discover Alaska in full cruise luxury advertisement, Open in same window
+                    - img "Ad" [ref=e513]
+                  - generic [ref=e514]:
+                    - img "Advertiser Logo" [ref=e516]
+                    - heading "Discover Alaska in full cruise luxury" [level=2] [ref=e517]
+                    - generic [ref=e518]: Breathtaking natural beauty at discounted prices. Choose your Alaskan cruise.
+                - link "Discover Alaska in full cruise luxury advertisement, Open in same window" [ref=e519] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstgc0hY_jkcCzI7C8Z1FHkgr5rYOmHINDhhN2ioHEanC4lMT7kMise_6jx9oTwr_GovCtDJdUiqfVeikgvpszM5UBax3XLbMOGs6AiPMdD3tY3GL0qn6YHq6MgFOZ_hcjRHAYO1KznyFMFEN_2_cdenWgj_WwAfyR6WzOYbYG3oT-DoQcZk1y38ymy1HSA4oVO4KLuXEbpGT6sJ5-SC-HKiFmwtcd6cUmgtBwOGxaqdzSsC1P8Y4QaUvFj_rsO7oYC3H4wWJ6LA20_P4-TrrTfMqsmlkC3n9LJilc3eIWplEW4tzLcb7WzB3PV2p9Vz9dewJTEHenK33fil-Z8MYAJ8CZ5VsOLRdBdAx06GPHL9Mkehj4BP2yKp0XtEx_XK&sai=AMfl-YRFo0ZNpWbzQxIQl4DvCWhl_YrO0eJH-TAtW1O7cWqxREQh8vkHWIqKHJjpum5cJVMdx5885k3-aUaEhLCffkTRNzJrl2T10hhmF1FqOIG4ASXIZaewu3iBTfKAxIwl9i8twWHJn6ZjC7Ilo_nMK7yXym_78AJ-UTX7IgBFQCfEIN9sS9cLazwvP7wW5e_4vNeHb2Mu8h8h4yKU9hd0L2BKsxNSA9YXXAws70vl7mvJTgJxIbnfcY6p2rA6cYqn3GVGMT-BqpipDDJ1WRGovzGsRhvYrefgb4tXnXs2SXiDaGxEdvB5w8E79bFZUAOS3nJcLZpvywbrzJKG1vS1uQ&sig=Cg0ArKJSzHPEFbhuitBREAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.expedia.com/lp/b/ms-b-co-op-en-alaska-cruise?siteid=1&langid=1033&cache=false
+                  - generic [ref=e520]: Discover Alaska in full cruise luxury advertisement, Open in same window
+              - generic [ref=e531]:
+                - generic [ref=e535]:
+                  - generic [ref=e537]:
+                    - heading "Bundle & Save" [level=2] [ref=e541]
+                    - generic [ref=e546]: Save whether you book your trip all at once, or over time
+                  - link "Get started" [ref=e549] [cursor=pointer]:
+                    - /url: https://www.expedia.com/product/bundle-and-save/
+                - generic [ref=e553]:
+                  - generic [ref=e555]:
+                    - heading "One-stop travel shop" [level=2] [ref=e559]
+                    - generic [ref=e564]: Book flights, hotels, homes, cars and more - all in one place
+                  - link "Start planning" [ref=e567] [cursor=pointer]:
+                    - /url: https://www.expedia.com/deals
+                - generic [ref=e571]:
+                  - generic [ref=e573]:
+                    - heading "One Key rewards" [level=2] [ref=e577]
+                    - generic [ref=e582]: Unlock instant savings and earn OneKeyCash to spend on future travel
+                  - link "Join for free" [ref=e585] [cursor=pointer]:
+                    - /url: https://www.expedia.com/welcome-one-key
+              - generic [ref=e593]:
+                - generic [ref=e604]:
+                  - generic [ref=e607]: Featured
+                  - heading "Your ticket to the World Cup" [level=2] [ref=e611]
+                  - generic [ref=e613]: Lock in match seats and build your trip all in one place.
+                  - link "Get tickets" [ref=e618] [cursor=pointer]:
+                    - /url: https://www.expedia.com/event-tickets/world-cup
+                - generic [ref=e629]:
+                  - generic [ref=e632]: Promotion
+                  - 'heading "Vacation homes: save 15% or more" [level=2] [ref=e636]'
+                  - generic [ref=e638]: Your summer getaway starts now. Plan ahead to get 15%+ off select family-friendly vacation homes.
+                  - link "Book now" [ref=e643] [cursor=pointer]:
+                    - /url: https://www.expedia.com/deals/early-booking#pid-vOM4BSy
+        - button "Help" [ref=e646] [cursor=pointer]:
+          - img [ref=e647]
+          - generic [ref=e650]: Help
+        - heading "Chat window" [level=1] [ref=e651]
+  - generic [ref=e652]: Now showing Gallery Carousel, OZO Medini Malaysia, Gallery Carousel, Ayola Signature Ocarina Batam, Gallery Carousel, Bintan Exotica Resort By Waringin Hospitality
+  - region "Cookie banner" [ref=e653]:
+    - alertdialog "Privacy" [ref=e654]:
+      - paragraph [ref=e659]:
+        - text: This site uses cookies and similar tracking technology. As disclosed in our Privacy Statement, we and our partners may collect personal information and other data. By continuing to use our website, you accept our
+        - link "Privacy Statement" [ref=e660] [cursor=pointer]:
+          - /url: /lp/b/lg-privacypolicy
+        - text: and
+        - link "Terms of Service" [ref=e661] [cursor=pointer]:
+          - /url: /lp/b/terms-of-service
+        - text: .
+      - button "Close" [ref=e663] [cursor=pointer]

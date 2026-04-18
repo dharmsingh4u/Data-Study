@@ -1,0 +1,772 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-SG
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwikoI378PaTAxVEGoYAHbnJBOEQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: flights Singapore to Delhi flights Singapore to Delhi
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dflights%2BSingapore%2Bto%2BDelhi&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&aep=1&ntc=1&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ2J8OegQIDRAI
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Flights" [ref=e89] [cursor=pointer]:
+              - /url: /travel/flights?sca_esv=1b2e90cde7e2044e&output=search&q=flights+Singapore+to+Delhi&source=lnms&mode_promoted=true&impression_in_search=true&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&ved=1t:200715&ictx=111
+              - generic [ref=e91]: Flights
+          - listitem [ref=e92]:
+            - link "Images" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&q=flights+Singapore+to+Delhi&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQtKgLegQIExAB
+              - generic [ref=e95]: Images
+          - listitem [ref=e96]:
+            - link "News" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&q=flights+Singapore+to+Delhi&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ0pQJegQIEBAB
+              - generic [ref=e99]: News
+          - listitem [ref=e100]:
+            - link "Forums" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&q=flights+Singapore+to+Delhi&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQs6gLegQIERAB
+              - generic [ref=e103]: Forums
+          - listitem [ref=e104]:
+            - link "Shopping" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr230XRHbcVpeJXrW3eYbYk1qEA0wu8_dAjug13SSP-B53NFDD7CJ9lWBvVvEs5jlObtAeNjQbqVmVkIEb5bsVcLMlKbrs63G4SGVmyFyJN9I_sLAeFvVBAzL_NZbSsGEf2X-GZz7Jm7vmYaKiuus_1phufuSklpNCExtUamf8a1wrFrkOMQ&q=flights+Singapore+to+Delhi&ved=1t:220175&ictx=111
+              - generic [ref=e107]: Shopping
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e124]
+    - generic [ref=e129]:
+      - generic [ref=e134]:
+        - generic [ref=e139]:
+          - heading "Flights to New Delhi" [level=2] [ref=e141]
+          - button "More options for Flights to New Delhi" [ref=e147] [cursor=pointer]:
+            - img "More options for Flights to New Delhi" [ref=e148]:
+              - img [ref=e150]
+        - navigation [ref=e155]:
+          - tab "Flight Status" [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]:
+              - generic: Flight Status
+          - tab "Flights" [selected] [ref=e158] [cursor=pointer]:
+            - generic [ref=e159]:
+              - generic: Flights
+          - tab "Airports" [ref=e160] [cursor=pointer]:
+            - generic [ref=e161]:
+              - generic: Airports
+      - main [ref=e163]:
+        - tabpanel [ref=e177]:
+          - generic [ref=e181]:
+            - generic [ref=e185]:
+              - heading "Flight prices" [level=2] [ref=e188]
+              - generic [ref=e193]:
+                - generic [ref=e196]:
+                  - generic [ref=e198]:
+                    - img [ref=e200]
+                    - combobox "Singapore (SIN),Enter an origin" [ref=e202]: Singapore (SIN)
+                  - generic [ref=e205]:
+                    - img [ref=e207]
+                    - combobox "New Delhi, India (DEL),Enter a destination" [ref=e210]: New Delhi, India (DEL)
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - img [ref=e215]
+                    - textbox "Departure date . Enter a date or use the arrow keys to change the current date." [ref=e218]:
+                      - /placeholder: "Departure date "
+                      - text: Fri, 15 May
+                    - img [ref=e221] [cursor=pointer]
+                    - img [ref=e225] [cursor=pointer]
+                  - generic [ref=e227]:
+                    - img [ref=e229]
+                    - textbox "Return date . Enter a date or use the arrow keys to change the current date." [ref=e232]:
+                      - /placeholder: "Return date "
+                      - text: Sat, 23 May
+                    - img [ref=e235] [cursor=pointer]
+                    - img [ref=e239] [cursor=pointer]
+                - generic [ref=e244]:
+                  - combobox "Change seating class." [ref=e247] [cursor=pointer]:
+                    - generic [ref=e249]:
+                      - generic [ref=e250]: Economy
+                      - img [ref=e252]
+                  - combobox "Change ticket type." [ref=e256] [cursor=pointer]:
+                    - generic [ref=e258]:
+                      - generic [ref=e259]: Round trip
+                      - img [ref=e261]
+                  - button "Nonstop" [ref=e263] [cursor=pointer]:
+                    - generic [ref=e265]: Nonstop
+                  - button "Less emissions" [ref=e266] [cursor=pointer]:
+                    - generic [ref=e268]: Less emissions
+                - menu "Compare prices for 8-day trips by departure date" [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272]: from $448
+                  - generic [ref=e275]: Apr
+                  - menuitem "Prices from $498. Depart Sunday, 19 April. Return Monday, 27 April." [ref=e278]
+                  - generic [ref=e280]: "19"
+                  - generic [ref=e281]: S
+                  - menuitem "Prices from $494. Depart Monday, 20 April. Return Tuesday, 28 April." [ref=e282]
+                  - generic [ref=e284]: "20"
+                  - generic [ref=e285]: M
+                  - menuitem "Prices from $526. Depart Tuesday, 21 April. Return Wednesday, 29 April." [ref=e286]
+                  - generic [ref=e288]: "21"
+                  - generic [ref=e289]: T
+                  - menuitem "Prices from $552. Depart Wednesday, 22 April. Return Thursday, 30 April." [ref=e290]
+                  - generic [ref=e292]: "22"
+                  - generic [ref=e293]: W
+                  - menuitem "Prices from $574. Depart Thursday, 23 April. Return Friday, 1 May." [ref=e294]
+                  - generic [ref=e296]: "23"
+                  - generic [ref=e297]: T
+                  - menuitem "Prices from $551. Depart Friday, 24 April. Return Saturday, 2 May." [ref=e298]
+                  - generic [ref=e300]: "24"
+                  - generic [ref=e301]: F
+                  - menuitem "Prices from $605. Depart Saturday, 25 April. Return Sunday, 3 May." [ref=e302]
+                  - generic [ref=e304]: "25"
+                  - generic [ref=e305]: S
+                  - menuitem "Prices from $549. Depart Sunday, 26 April. Return Monday, 4 May." [ref=e306]
+                  - generic [ref=e308]: "26"
+                  - generic [ref=e309]: S
+                  - menuitem "Prices from $467. Depart Monday, 27 April. Return Tuesday, 5 May." [ref=e310]
+                  - generic [ref=e312]: "27"
+                  - generic [ref=e313]: M
+                  - menuitem "Prices from $580. Depart Tuesday, 28 April. Return Wednesday, 6 May." [ref=e314]
+                  - generic [ref=e316]: "28"
+                  - generic [ref=e317]: T
+                  - menuitem "Prices from $533. Depart Wednesday, 29 April. Return Thursday, 7 May." [ref=e318]
+                  - generic [ref=e320]: "29"
+                  - generic [ref=e321]: W
+                  - menuitem "Prices from $588. Depart Thursday, 30 April. Return Friday, 8 May." [ref=e322]
+                  - generic [ref=e324]: "30"
+                  - generic [ref=e325]: T
+                  - generic [ref=e326]: May
+                  - menuitem "Prices from $524. Depart Friday, 1 May. Return Saturday, 9 May." [ref=e328]
+                  - generic [ref=e330]: "1"
+                  - generic [ref=e331]: F
+                  - menuitem "Prices from $534. Depart Saturday, 2 May. Return Sunday, 10 May." [ref=e332]
+                  - generic [ref=e334]: "2"
+                  - generic [ref=e335]: S
+                  - menuitem "Prices from $518. Depart Sunday, 3 May. Return Monday, 11 May." [ref=e336]
+                  - generic [ref=e338]: "3"
+                  - generic [ref=e339]: S
+                  - menuitem "Prices from $459. Depart Monday, 4 May. Return Tuesday, 12 May." [ref=e340]
+                  - generic [ref=e342]: "4"
+                  - generic [ref=e343]: M
+                  - menuitem "Prices from $485. Depart Tuesday, 5 May. Return Wednesday, 13 May." [ref=e344]
+                  - generic [ref=e346]: "5"
+                  - generic [ref=e347]: T
+                  - menuitem "Prices from $433. Depart Wednesday, 6 May. Return Thursday, 14 May." [ref=e348]
+                  - generic [ref=e350]: "6"
+                  - generic [ref=e351]: W
+                  - menuitem "Prices from $467. Depart Thursday, 7 May. Return Friday, 15 May." [ref=e352]
+                  - generic [ref=e354]: "7"
+                  - generic [ref=e355]: T
+                  - menuitem "Prices from $501. Depart Friday, 8 May. Return Saturday, 16 May." [ref=e356]
+                  - generic [ref=e358]: "8"
+                  - generic [ref=e359]: F
+                  - menuitem "Prices from $501. Depart Saturday, 9 May. Return Sunday, 17 May." [ref=e360]
+                  - generic [ref=e362]: "9"
+                  - generic [ref=e363]: S
+                  - menuitem "Prices from $509. Depart Sunday, 10 May. Return Monday, 18 May." [ref=e364]
+                  - generic [ref=e366]: "10"
+                  - generic [ref=e367]: S
+                  - menuitem "Prices from $442. Depart Monday, 11 May. Return Tuesday, 19 May." [ref=e368]
+                  - generic [ref=e370]: "11"
+                  - generic [ref=e371]: M
+                  - menuitem "Prices from $477. Depart Tuesday, 12 May. Return Wednesday, 20 May." [ref=e372]
+                  - generic [ref=e374]: "12"
+                  - generic [ref=e375]: T
+                  - menuitem "Prices from $470. Depart Wednesday, 13 May. Return Thursday, 21 May." [ref=e376]
+                  - generic [ref=e378]: "13"
+                  - generic [ref=e379]: W
+                  - menuitem "Prices from $505. Depart Thursday, 14 May. Return Friday, 22 May." [ref=e380]
+                  - generic [ref=e382]: "14"
+                  - generic [ref=e383]: T
+                  - menuitem "Prices from $448. Depart Friday, 15 May. Return Saturday, 23 May." [ref=e384]
+                  - generic [ref=e386]: "15"
+                  - generic [ref=e387]: F
+                  - menuitem "Prices from $464. Depart Saturday, 16 May. Return Sunday, 24 May." [ref=e388]
+                  - generic [ref=e390]: "16"
+                  - generic [ref=e391]: S
+                  - menuitem "Prices from $460. Depart Sunday, 17 May. Return Monday, 25 May." [ref=e392]
+                  - generic [ref=e394]: "17"
+                  - generic [ref=e395]: S
+                  - menuitem "Prices from $419. Depart Monday, 18 May. Return Tuesday, 26 May." [ref=e396]
+                  - generic [ref=e398]: "18"
+                  - generic [ref=e399]: M
+                  - menuitem "Prices from $490. Depart Tuesday, 19 May. Return Wednesday, 27 May." [ref=e400]
+                  - generic [ref=e402]: "19"
+                  - generic [ref=e403]: T
+                  - menuitem "Prices from $487. Depart Wednesday, 20 May. Return Thursday, 28 May." [ref=e404]
+                  - generic [ref=e406]: "20"
+                  - generic [ref=e407]: W
+                  - menuitem "Prices from $487. Depart Thursday, 21 May. Return Friday, 29 May." [ref=e408]
+                  - generic [ref=e410]: "21"
+                  - generic [ref=e411]: T
+                  - menuitem "Prices from $501. Depart Friday, 22 May. Return Saturday, 30 May." [ref=e412]
+                  - generic [ref=e414]: "22"
+                  - generic [ref=e415]: F
+                  - menuitem "Prices from $546. Depart Saturday, 23 May. Return Sunday, 31 May." [ref=e416]
+                  - generic [ref=e418]: "23"
+                  - generic [ref=e419]: S
+                  - menuitem "Prices from $526. Depart Sunday, 24 May. Return Monday, 1 June." [ref=e420]
+                  - generic [ref=e422]: "24"
+                  - generic [ref=e423]: S
+                  - menuitem "Prices from $442. Depart Monday, 25 May. Return Tuesday, 2 June." [ref=e424]
+                  - generic [ref=e426]: "25"
+                  - generic [ref=e427]: M
+                  - menuitem "Prices from $519. Depart Tuesday, 26 May. Return Wednesday, 3 June." [ref=e428]
+                  - generic [ref=e430]: "26"
+                  - generic [ref=e431]: T
+                  - menuitem "Prices from $517. Depart Wednesday, 27 May. Return Thursday, 4 June." [ref=e432]
+                  - generic [ref=e434]: "27"
+                  - generic [ref=e435]: W
+                  - menuitem "Prices from $526. Depart Thursday, 28 May. Return Friday, 5 June." [ref=e436]
+                  - generic [ref=e438]: "28"
+                  - generic [ref=e439]: T
+                  - menuitem "Prices from $536. Depart Friday, 29 May. Return Saturday, 6 June." [ref=e440]
+                  - generic [ref=e442]: "29"
+                  - generic [ref=e443]: F
+                  - menuitem "Prices from $533. Depart Saturday, 30 May. Return Sunday, 7 June." [ref=e444]
+                  - generic [ref=e446]: "30"
+                  - generic [ref=e447]: S
+                  - menuitem "Prices from $534. Depart Sunday, 31 May. Return Monday, 8 June." [ref=e448]
+                  - generic [ref=e450]: "31"
+                  - generic [ref=e451]: S
+                  - generic [ref=e452]: Jun
+                  - menuitem "Prices from $519. Depart Monday, 1 June. Return Tuesday, 9 June." [ref=e454]
+                  - generic [ref=e456]: "1"
+                  - generic [ref=e457]: M
+                  - menuitem "Prices from $517. Depart Tuesday, 2 June. Return Wednesday, 10 June." [ref=e458]
+                  - generic [ref=e460]: "2"
+                  - generic [ref=e461]: T
+                  - menuitem "Prices from $436. Depart Wednesday, 3 June. Return Thursday, 11 June." [ref=e462]
+                  - generic [ref=e464]: "3"
+                  - generic [ref=e465]: W
+                  - menuitem "Prices from $505. Depart Thursday, 4 June. Return Friday, 12 June." [ref=e466]
+                  - generic [ref=e468]: "4"
+                  - generic [ref=e469]: T
+                  - menuitem "Prices from $477. Depart Friday, 5 June. Return Saturday, 13 June." [ref=e470]
+                  - generic [ref=e472]: "5"
+                  - generic [ref=e473]: F
+                  - menuitem "Prices from $477. Depart Saturday, 6 June. Return Sunday, 14 June." [ref=e474]
+                  - generic [ref=e476]: "6"
+                  - generic [ref=e477]: S
+                  - menuitem "Prices from $473. Depart Sunday, 7 June. Return Monday, 15 June." [ref=e478]
+                  - generic [ref=e480]: "7"
+                  - generic [ref=e481]: S
+                  - menuitem "Prices from $469. Depart Monday, 8 June. Return Tuesday, 16 June." [ref=e482]
+                  - generic [ref=e484]: "8"
+                  - generic [ref=e485]: M
+                  - menuitem "Prices from $523. Depart Tuesday, 9 June. Return Wednesday, 17 June." [ref=e486]
+                  - generic [ref=e488]: "9"
+                  - generic [ref=e489]: T
+                  - menuitem "Prices from $469. Depart Wednesday, 10 June. Return Thursday, 18 June." [ref=e490]
+                  - generic [ref=e492]: "10"
+                  - generic [ref=e493]: W
+                  - menuitem "Prices from $505. Depart Thursday, 11 June. Return Friday, 19 June." [ref=e494]
+                  - generic [ref=e496]: "11"
+                  - generic [ref=e497]: T
+                  - menuitem "Prices from $477. Depart Friday, 12 June. Return Saturday, 20 June." [ref=e498]
+                  - generic [ref=e500]: "12"
+                  - generic [ref=e501]: F
+                  - menuitem "Prices from $524. Depart Saturday, 13 June. Return Sunday, 21 June." [ref=e502]
+                  - generic [ref=e504]: "13"
+                  - generic [ref=e505]: S
+                  - menuitem "Prices from $524. Depart Sunday, 14 June. Return Monday, 22 June." [ref=e506]
+                  - generic [ref=e508]: "14"
+                  - generic [ref=e509]: S
+                  - menuitem "Prices from $451. Depart Monday, 15 June. Return Tuesday, 23 June." [ref=e510]
+                  - generic [ref=e512]: "15"
+                  - generic [ref=e513]: M
+                  - menuitem "Prices from $451. Depart Tuesday, 16 June. Return Wednesday, 24 June." [ref=e514]
+                  - generic [ref=e516]: "16"
+                  - generic [ref=e517]: T
+                  - menuitem "Prices from $451. Depart Wednesday, 17 June. Return Thursday, 25 June." [ref=e518]
+                  - generic [ref=e520]: "17"
+                  - generic [ref=e521]: W
+                  - menuitem "Prices from $472. Depart Thursday, 18 June. Return Friday, 26 June." [ref=e522]
+                  - generic [ref=e524]: "18"
+                  - generic [ref=e525]: T
+                  - menuitem "Prices from $463. Depart Friday, 19 June. Return Saturday, 27 June." [ref=e526]
+                  - generic [ref=e528]: "19"
+                  - generic [ref=e529]: F
+                  - menuitem "Prices from $448. Depart Saturday, 20 June. Return Sunday, 28 June." [ref=e530]
+                  - generic [ref=e532]: "20"
+                  - generic [ref=e533]: S
+                  - menuitem "Prices from $451. Depart Sunday, 21 June. Return Monday, 29 June." [ref=e534]
+                  - generic [ref=e536]: "21"
+                  - generic [ref=e537]: S
+                  - menuitem "Prices from $448. Depart Monday, 22 June. Return Tuesday, 30 June." [ref=e538]
+                  - generic [ref=e540]: "22"
+                  - generic [ref=e541]: M
+                  - menuitem "Prices from $444. Depart Tuesday, 23 June. Return Wednesday, 1 July." [ref=e542]
+                  - generic [ref=e544]: "23"
+                  - generic [ref=e545]: T
+                  - menuitem "Prices from $444. Depart Wednesday, 24 June. Return Thursday, 2 July." [ref=e546]
+                  - generic [ref=e548]: "24"
+                  - generic [ref=e549]: W
+                  - menuitem "Prices from $444. Depart Thursday, 25 June. Return Friday, 3 July." [ref=e550]
+                  - generic [ref=e552]: "25"
+                  - generic [ref=e553]: T
+                  - menuitem "Prices from $444. Depart Friday, 26 June. Return Saturday, 4 July." [ref=e554]
+                  - generic [ref=e556]: "26"
+                  - generic [ref=e557]: F
+                  - menuitem "Prices from $444. Depart Saturday, 27 June. Return Sunday, 5 July." [ref=e558]
+                  - generic [ref=e560]: "27"
+                  - generic [ref=e561]: S
+                  - menuitem "Prices from $403. Depart Sunday, 28 June. Return Monday, 6 July." [ref=e562]
+                  - generic [ref=e564]: "28"
+                  - generic [ref=e565]: S
+                  - menuitem "Prices from $403. Depart Monday, 29 June. Return Tuesday, 7 July." [ref=e566]
+                  - generic [ref=e568]: "29"
+                  - generic [ref=e569]: M
+                  - menuitem "Prices from $487. Depart Tuesday, 30 June. Return Wednesday, 8 July." [ref=e570]
+                  - generic [ref=e572]: "30"
+                  - generic [ref=e573]: T
+                  - generic [ref=e574]: Jul
+                  - menuitem "Prices from $403. Depart Wednesday, 1 July. Return Thursday, 9 July." [ref=e576]
+                  - generic [ref=e578]: "1"
+                  - generic [ref=e579]: W
+                  - menuitem "Prices from $489. Depart Thursday, 2 July. Return Friday, 10 July." [ref=e580]
+                  - generic [ref=e582]: "2"
+                  - generic [ref=e583]: T
+                  - menuitem "Prices from $454. Depart Friday, 3 July. Return Saturday, 11 July." [ref=e584]
+                  - generic [ref=e586]: "3"
+                  - generic [ref=e587]: F
+                  - menuitem "Prices from $456. Depart Saturday, 4 July. Return Sunday, 12 July." [ref=e588]
+                  - generic [ref=e590]: "4"
+                  - generic [ref=e591]: S
+                  - menuitem "Prices from $473. Depart Sunday, 5 July. Return Monday, 13 July." [ref=e592]
+                  - generic [ref=e594]: "5"
+                  - generic [ref=e595]: S
+                  - menuitem "Prices from $403. Depart Monday, 6 July. Return Tuesday, 14 July." [ref=e596]
+                  - generic [ref=e598]: "6"
+                  - generic [ref=e599]: M
+                  - menuitem "Prices from $388. Depart Tuesday, 7 July. Return Wednesday, 15 July." [ref=e600]
+                  - generic [ref=e602]: "7"
+                  - generic [ref=e603]: T
+                  - menuitem "Prices from $403. Depart Wednesday, 8 July. Return Thursday, 16 July." [ref=e604]
+                  - generic [ref=e606]: "8"
+                  - generic [ref=e607]: W
+                  - menuitem "Prices from $424. Depart Thursday, 9 July. Return Friday, 17 July." [ref=e608]
+                  - generic [ref=e610]: "9"
+                  - generic [ref=e611]: T
+                  - menuitem "Prices from $424. Depart Friday, 10 July. Return Saturday, 18 July." [ref=e612]
+                  - generic [ref=e614]: "10"
+                  - generic [ref=e615]: F
+                  - menuitem "Prices from $456. Depart Saturday, 11 July. Return Sunday, 19 July." [ref=e616]
+                  - generic [ref=e618]: "11"
+                  - generic [ref=e619]: S
+                  - menuitem "Prices from $403. Depart Sunday, 12 July. Return Monday, 20 July." [ref=e620]
+                  - generic [ref=e622]: "12"
+                  - generic [ref=e623]: S
+                  - menuitem "Prices from $403. Depart Monday, 13 July. Return Tuesday, 21 July." [ref=e624]
+                  - generic [ref=e626]: "13"
+                  - generic [ref=e627]: M
+                  - menuitem "Prices from $388. Depart Tuesday, 14 July. Return Wednesday, 22 July." [ref=e628]
+                  - generic [ref=e630]: "14"
+                  - generic [ref=e631]: T
+                  - menuitem "Prices from $403. Depart Wednesday, 15 July. Return Thursday, 23 July." [ref=e632]
+                  - generic [ref=e634]: "15"
+                  - generic [ref=e635]: W
+                  - menuitem "Prices from $388. Depart Thursday, 16 July. Return Friday, 24 July." [ref=e636]
+                  - generic [ref=e638]: "16"
+                  - generic [ref=e639]: T
+                  - menuitem "Prices from $457. Depart Friday, 17 July. Return Saturday, 25 July." [ref=e640]
+                  - generic [ref=e642]: "17"
+                  - generic [ref=e643]: F
+                  - menuitem "Prices from $456. Depart Saturday, 18 July. Return Sunday, 26 July." [ref=e644]
+                  - generic [ref=e646]: "18"
+                  - generic [ref=e647]: S
+                  - menuitem "Prices from $403. Depart Sunday, 19 July. Return Monday, 27 July." [ref=e648]
+                  - generic [ref=e650]: "19"
+                  - generic [ref=e651]: S
+                  - button [ref=e653]:
+                    - img [ref=e656]
+                  - button [ref=e658]:
+                    - img [ref=e661]
+                - generic [ref=e665]:
+                  - link "Multiple airlines 5h 50m+ Connecting from $448" [ref=e666] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhooEgoyMDI2LTA1LTE1agwIAhIIL20vMDZ0MnRyDAgCEggvbS8wZGx2MBooEgoyMDI2LTA1LTIzagwIAhIIL20vMGRsdjByDAgCEggvbS8wNnQydHpoQ2pSSVltRlBWbE0zU0hGM1ltOUJTVjlPZGtGQ1J5MHRMUzB0TFMwdExXOTVZM2d5TjBGQlFVRkJSMjVxVFRKM1ExZ3lXV3RCRWdKaktob0xDSURlQWhBQ0dnTlRSMFE0TUhER2t3ST0&ved=1t:2773&ictx=111
+                    - generic [ref=e668]: Multiple airlines
+                    - generic [ref=e669]: 5h 50m+
+                    - generic [ref=e670]: Connecting
+                    - generic [ref=e671]: from $448
+                  - link "Air India 6h 0m Nonstop from $458" [ref=e672] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJBSWoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMGRsdjAaLBIKMjAyNi0wNS0yMzICQUlqDAgCEggvbS8wZGx2MHIMCAISCC9tLzA2dDJ0emhDalJJWW1GUFZsTTNTSEYzWW05QlNWOU9ka0ZDUnkwdExTMHRMUzB0TFc5NVkzZ3lOMEZCUVVGQlIyNXFUVEozUTFneVdXdEJFZ051UVVrYUN3am81UUlRQWhvRFUwZEVPREJ3MlprQw&ved=1t:2773&ictx=111
+                    - generic [ref=e674]: Air India
+                    - generic [ref=e675]: 6h 0m
+                    - generic [ref=e676]: Nonstop
+                    - generic [ref=e677]: from $458
+                  - link "IndiGo 5h 50m Nonstop from $531" [ref=e678] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgI2RWoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMGRsdjAaLBIKMjAyNi0wNS0yMzICNkVqDAgCEggvbS8wZGx2MHIMCAISCC9tLzA2dDJ0emhDalJJWW1GUFZsTTNTSEYzWW05QlNWOU9ka0ZDUnkwdExTMHRMUzB0TFc5NVkzZ3lOMEZCUVVGQlIyNXFUVEozUTFneVdXdEJFZ051TmtVYUN3anNuZ01RQWhvRFUwZEVPREJ3ek1ZQw&ved=1t:2773&ictx=111
+                    - generic [ref=e680]: IndiGo
+                    - generic [ref=e681]: 5h 50m
+                    - generic [ref=e682]: Nonstop
+                    - generic [ref=e683]: from $531
+                  - link "Malaysia Airlines 8h 25m+ Connecting from $577" [ref=e684] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJNSGoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMGRsdjAaLBIKMjAyNi0wNS0yMzICTUhqDAgCEggvbS8wZGx2MHIMCAISCC9tLzA2dDJ0emhDalJJWW1GUFZsTTNTSEYzWW05QlNWOU9ka0ZDUnkwdExTMHRMUzB0TFc5NVkzZ3lOMEZCUVVGQlIyNXFUVEozUTFneVdXdEJFZ05qVFVnYUN3amt3Z01RQWhvRFUwZEVPREJ3OHVJQw&ved=1t:2773&ictx=111
+                    - generic [ref=e686]: Malaysia Airlines
+                    - generic [ref=e687]: 8h 25m+
+                    - generic [ref=e688]: Connecting
+                    - generic [ref=e689]: from $577
+                - link "Show flights on Google Flights" [ref=e692] [cursor=pointer]:
+                  - separator [ref=e693]
+                  - generic [ref=e694]:
+                    - generic [ref=e695]: Show flights
+                    - img [ref=e697]
+            - generic [ref=e702]:
+              - heading "Flight Status" [level=2] [ref=e705]
+              - tabpanel [ref=e709]:
+                - generic [ref=e710]:
+                  - tablist [ref=e711]:
+                    - tab "Fri, 17 Apr" [ref=e712]: Fri, 17 Apr
+                    - tab "Sat, 18 Apr" [selected] [ref=e713]
+                    - tab "Sun, 19 Apr" [ref=e714]
+                    - tab "Mon, 20 Apr" [ref=e715]: Mon, 20 Apr
+                  - generic:
+                    - button
+                  - generic:
+                    - button
+                - tabpanel "Sat, 18 Apr"
+                - generic [ref=e721]:
+                  - generic [ref=e723]:
+                    - button "8:25 am AI 2381 to New Delhi DEL Arrived" [ref=e730] [cursor=pointer]:
+                      - generic [ref=e733]:
+                        - generic [ref=e734]:
+                          - generic [ref=e735]: 8:25 am
+                          - generic [ref=e736]: AI 2381
+                        - generic [ref=e737]:
+                          - generic [ref=e738]: to New Delhi DEL
+                          - generic [ref=e740]: Arrived
+                      - img [ref=e743]
+                    - button "10:30 am AI 2119 to New Delhi DEL Arriving late" [ref=e752] [cursor=pointer]:
+                      - generic [ref=e755]:
+                        - generic [ref=e756]:
+                          - generic [ref=e757]: 10:30 am
+                          - generic [ref=e758]: AI 2119
+                        - generic [ref=e759]:
+                          - generic [ref=e760]: to New Delhi DEL
+                          - generic [ref=e762]: Arriving late
+                      - img [ref=e765]
+                  - link "Show all flight updates" [ref=e770] [cursor=pointer]:
+                    - generic [ref=e772]:
+                      - separator [ref=e773]
+                      - generic [ref=e774]:
+                        - generic [ref=e775]: Show all flight updates
+                        - img [ref=e777]
+            - generic [ref=e780]:
+              - heading "Web results" [level=2] [ref=e781]
+              - generic [ref=e782]:
+                - generic [ref=e785]:
+                  - link "Cheap flights from Singapore Changi to Delhi Indira ... skyscanner.com.sg https://www.skyscanner.com.sg › ... › Singapore Changi" [ref=e787] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/routes/sin/del/singapore-changi-to-delhi-indira-gandhi-international.html
+                    - heading "Cheap flights from Singapore Changi to Delhi Indira ..." [level=3] [ref=e788]
+                    - generic [ref=e793]:
+                      - generic [ref=e795]: skyscanner.com.sg
+                      - generic [ref=e797]: https://www.skyscanner.com.sg › ... › Singapore Changi
+                  - button "About this result" [ref=e798] [cursor=pointer]:
+                    - img [ref=e801]
+                - generic [ref=e804]:
+                  - generic [ref=e805]:
+                    - emphasis [ref=e806]: Air India, Jet Airways, and Singapore Airlines provide daily flights from Singapore to Delhi
+                    - text: . The standard duration for direct flights is around 6 hours and 10 ...
+                  - link "Read more" [ref=e807] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/routes/sin/del/singapore-changi-to-delhi-indira-gandhi-international.html#:~:text=Air%20India%2C%20Jet%20Airways%2C%20and,6%20hours%20and%2010%20minutes.
+                - generic [ref=e809]: Starting from $152.00
+            - generic [ref=e812]:
+              - generic [ref=e815]:
+                - link "Singapore to Delhi Flights, Ticket Price from SGD ... Air India https://www.airindia.com › Book Flights" [ref=e817] [cursor=pointer]:
+                  - /url: https://www.airindia.com/en-sg/book-flights/singapore-to-delhi-flights
+                  - heading "Singapore to Delhi Flights, Ticket Price from SGD ..." [level=3] [ref=e818]
+                  - generic [ref=e823]:
+                    - generic [ref=e825]: Air India
+                    - generic [ref=e827]: https://www.airindia.com › Book Flights
+                - button "About this result" [ref=e828] [cursor=pointer]:
+                  - img [ref=e831]
+              - generic [ref=e835]:
+                - emphasis [ref=e836]: Book Singapore to Delhi flights with Air India
+                - text: "& get flight tickets from SGD 212. Use AISAVER to get up to ₹1000 off on air tickets and experience luxury ..."
+              - generic [ref=e839]:
+                - generic [ref=e840]:
+                  - img "Rated 4.8 out of 5, (137,000) user reviews" [ref=e841]:
+                    - text: "4.8"
+                    - img [ref=e842]
+                    - text: (137,000)
+                  - text: ·
+                - text: Free
+            - generic [ref=e847]:
+              - generic [ref=e850]:
+                - link "Flights from Singapore to Delhi Singapore Airlines https://www.singaporeair.com › ... › Flights to India" [ref=e852] [cursor=pointer]:
+                  - /url: https://www.singaporeair.com/en-sg/flights-from-singapore-to-delhi
+                  - heading "Flights from Singapore to Delhi" [level=3] [ref=e853]
+                  - generic [ref=e858]:
+                    - generic [ref=e860]: Singapore Airlines
+                    - generic [ref=e862]: https://www.singaporeair.com › ... › Flights to India
+                - button "About this result" [ref=e863] [cursor=pointer]:
+                  - img [ref=e866]
+              - generic [ref=e870]:
+                - text: Discover the
+                - emphasis [ref=e871]: best flight rates from Singapore to Delhi
+                - text: . Travel in comfort with award-winning inflight services and state-of-the-art amenities.
+              - generic [ref=e873]: Starting from $439.30
+            - generic [ref=e876]:
+              - generic [ref=e879]:
+                - link "Cheap flight deals from Singapore to New Delhi cheapflights.com.sg https://www.cheapflights.com.sg › Asia › India" [ref=e881] [cursor=pointer]:
+                  - /url: https://www.cheapflights.com.sg/flights-to-Delhi/Singapore-City/
+                  - heading "Cheap flight deals from Singapore to New Delhi" [level=3] [ref=e882]
+                  - generic [ref=e887]:
+                    - generic [ref=e889]: cheapflights.com.sg
+                    - generic [ref=e891]: https://www.cheapflights.com.sg › Asia › India
+                - button "About this result" [ref=e892] [cursor=pointer]:
+                  - img [ref=e895]
+              - generic [ref=e898]:
+                - generic [ref=e899]:
+                  - emphasis [ref=e900]: Singapore to New Delhi flights typically cost between S$ 421 and S$ 294 in July
+                  - text: . The cheapest return flight price found within the last 3 ...
+                - link "Read more" [ref=e901] [cursor=pointer]:
+                  - /url: https://www.cheapflights.com.sg/flights-to-Delhi/Singapore-City/#:~:text=Singapore%20to%20New%20Delhi%20flights,Multiple%20Airlines%20(13%20Jul%2D17%20Jul).
+              - generic [ref=e903]: Starting from $170.82
+            - generic [ref=e906]:
+              - generic [ref=e909]:
+                - link "Singapore to Delhi Flight Schedule, Time Duration & Status MakeMyTrip https://www.makemytrip.com › international-flights › sin..." [ref=e911] [cursor=pointer]:
+                  - /url: https://www.makemytrip.com/international-flights/singapore-delhi-flight-schedule.html
+                  - heading "Singapore to Delhi Flight Schedule, Time Duration & Status" [level=3] [ref=e912]
+                  - generic [ref=e917]:
+                    - generic [ref=e919]: MakeMyTrip
+                    - generic [ref=e921]: https://www.makemytrip.com › international-flights › sin...
+                - button "About this result" [ref=e922] [cursor=pointer]:
+                  - img [ref=e925]
+              - generic [ref=e929]:
+                - text: Check latest & updated
+                - emphasis [ref=e930]: Singapore (SIN) to Delhi (DEL) Flight Schedule, Time Duration, Status
+                - text: ", book cheap air tickets online at MakeMyTrip.com."
+            - generic [ref=e933]:
+              - generic [ref=e936]:
+                - link "Book Flights from Singapore (SIN) to Delhi (DEL) Saudia https://www.saudia.com › Home › Flights › To India" [ref=e938] [cursor=pointer]:
+                  - /url: https://www.saudia.com/en-sg/flight-deals-from-singapore-to-delhi
+                  - heading "Book Flights from Singapore (SIN) to Delhi (DEL)" [level=3] [ref=e939]
+                  - generic [ref=e944]:
+                    - generic [ref=e946]: Saudia
+                    - generic [ref=e948]: https://www.saudia.com › Home › Flights › To India
+                - button "About this result" [ref=e949] [cursor=pointer]:
+                  - img [ref=e952]
+              - generic [ref=e955]:
+                - generic [ref=e956]:
+                  - text: You can use the 'Find the cheapest flights' section on the page to view all the
+                  - emphasis [ref=e957]: flights from Singapore to Delhi over the next 365 days
+                  - text: ", with the cheapest ..."
+                - link "Read more" [ref=e958] [cursor=pointer]:
+                  - /url: https://www.saudia.com/en-sg/flight-deals-from-singapore-to-delhi#:~:text=Can%20I%20carry%20extra%20baggage
+            - generic [ref=e961]:
+              - generic [ref=e964]:
+                - link "Singapore to Delhi Flights IndiGo https://www.goindigo.in › Flights › International Flights" [ref=e966] [cursor=pointer]:
+                  - /url: https://www.goindigo.in/international-flights/singapore-to-delhi-flights.html
+                  - heading "Singapore to Delhi Flights" [level=3] [ref=e967]
+                  - generic [ref=e972]:
+                    - generic [ref=e974]: IndiGo
+                    - generic [ref=e976]: https://www.goindigo.in › Flights › International Flights
+                - button "About this result" [ref=e977] [cursor=pointer]:
+                  - img [ref=e980]
+              - generic [ref=e984]:
+                - text: Book Singapore to Delhi flight tickets at cheapest price.
+                - emphasis [ref=e985]: Airfares at ₹13496
+                - text: and avail IndiGo flight offers, 10% discount and cashback on goIndiGo.in ...
+            - generic [ref=e988]:
+              - generic [ref=e991]:
+                - link "Cheap Flights from Singapore to Delhi SriLankan Airlines https://www.srilankan.com › ... › To India" [ref=e993] [cursor=pointer]:
+                  - /url: https://www.srilankan.com/en-sg/flights-from-singapore-to-delhi
+                  - heading "Cheap Flights from Singapore to Delhi" [level=3] [ref=e994]
+                  - generic [ref=e999]:
+                    - generic [ref=e1001]: SriLankan Airlines
+                    - generic [ref=e1003]: https://www.srilankan.com › ... › To India
+                - button "About this result" [ref=e1004] [cursor=pointer]:
+                  - img [ref=e1007]
+              - generic [ref=e1010]:
+                - generic [ref=e1011]:
+                  - text: SriLankan Airlines Best
+                  - emphasis [ref=e1012]: Flight
+                  - text: Deals from
+                  - emphasis [ref=e1013]: Singapore to Delhi
+                  - text: starting at SGD883*. Round-trip. expand_more. 1 Passenger, Economy. expand_more. From
+                  - emphasis [ref=e1014]: Singapore
+                  - text: "- ..."
+                - link "Read more" [ref=e1015] [cursor=pointer]:
+                  - /url: https://www.srilankan.com/en-sg/flights-from-singapore-to-delhi#:~:text=SriLankan%20Airlines%20Best%20Flight%20Deals,Singapore%20%2D%20Singapore%20(SIN)
+              - generic [ref=e1017]: Starting from $882.40
+            - generic [ref=e1020]:
+              - generic [ref=e1023]:
+                - link "Flights to Delhi (DEL), India Singapore Airlines https://www.singaporeair.com › ... › Flights to India" [ref=e1025] [cursor=pointer]:
+                  - /url: https://www.singaporeair.com/en-sg/flights-to-delhi
+                  - heading "Flights to Delhi (DEL), India" [level=3] [ref=e1026]
+                  - generic [ref=e1031]:
+                    - generic [ref=e1033]: Singapore Airlines
+                    - generic [ref=e1035]: https://www.singaporeair.com › ... › Flights to India
+                - button "About this result" [ref=e1036] [cursor=pointer]:
+                  - img [ref=e1039]
+              - generic [ref=e1042]:
+                - generic [ref=e1043]:
+                  - text: Best
+                  - emphasis [ref=e1044]: flight
+                  - text: fares to
+                  - emphasis [ref=e1045]: Delhi
+                  - text: ·
+                  - emphasis [ref=e1046]: Singapore
+                  - text: (SIN)to.
+                  - emphasis [ref=e1047]: Delhi
+                  - text: "(DEL). 12 May 26 (Tue) - 09 Jun 26 (Tue). From. SGD 473*. Seen: 20 hrs ago. Round-trip. /. Economy. Book ..."
+                - link "Read more" [ref=e1048] [cursor=pointer]:
+                  - /url: https://www.singaporeair.com/en-sg/flights-to-delhi#:~:text=Best%20flight%20fares%20to%20Delhi&text=Singapore%20(SIN)to,Book%20now
+              - generic [ref=e1050]: Starting from $439.30
+            - generic [ref=e1053]:
+              - generic [ref=e1056]:
+                - link "Find Cheap Flights from Singapore to New Delhi (SIN - DEL) Google https://www.google.com › Flights › From Singapore" [ref=e1058] [cursor=pointer]:
+                  - /url: https://www.google.com/travel/flights/flights-from-singapore-to-new-delhi.html?gl=SG&hl=en
+                  - heading "Find Cheap Flights from Singapore to New Delhi (SIN - DEL)" [level=3] [ref=e1059]
+                  - generic [ref=e1064]:
+                    - generic [ref=e1066]: Google
+                    - generic [ref=e1068]: https://www.google.com › Flights › From Singapore
+                - button "About this result" [ref=e1069] [cursor=pointer]:
+                  - img [ref=e1072]
+              - generic [ref=e1075]:
+                - generic [ref=e1076]:
+                  - text: Popular airlines from Singapore to New Delhi ·
+                  - emphasis [ref=e1077]: Air India. Nonstop. from SGD 460
+                  - text: ". Typical price: SGD 270–630 · Singapore Airlines. Nonstop. from SGD 482 · IndiGo."
+                - link "Read more" [ref=e1078] [cursor=pointer]:
+                  - /url: https://www.google.com/travel/flights/flights-from-singapore-to-new-delhi.html?gl=SG&hl=en#:~:text=Popular%20airlines%20from%20Singapore%20to,New%20Delhi&text=Air%20India,from%20SGD%20460&text=Singapore%20Airlines,from%20SGD%20482&text=IndiGo
+            - generic [ref=e1086]:
+              - heading "People also search for" [level=2] [ref=e1088]
+              - generic [ref=e1090]:
+                - generic [ref=e1091]:
+                  - link "Singapore to Delhi flight ticket price" [ref=e1095] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Delhi+flight+ticket+price&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAg7EAE
+                    - generic [ref=e1096]:
+                      - generic [ref=e1101]: Singapore to Delhi flight ticket price
+                      - img [ref=e1105]
+                  - link "Singapore to Delhi flight status today" [ref=e1110] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Delhi+flight+status+today&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAhXEAE
+                    - generic [ref=e1111]:
+                      - generic [ref=e1116]: Singapore to Delhi flight status today
+                      - img [ref=e1120]
+                  - link "Flights singapore to delhi today" [ref=e1125] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Flights+singapore+to+delhi+today&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAhYEAE
+                    - generic [ref=e1126]:
+                      - generic [ref=e1131]: Flights singapore to delhi today
+                      - img [ref=e1135]
+                  - link "International flights singapore to delhi" [ref=e1140] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=International+flights+singapore+to+delhi&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAhWEAE
+                    - generic [ref=e1141]:
+                      - generic [ref=e1146]: International flights singapore to delhi
+                      - img [ref=e1150]
+                - generic [ref=e1152]:
+                  - link "Flights singapore to delhi price" [ref=e1156] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Flights+singapore+to+delhi+price&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAhSEAE
+                    - generic [ref=e1157]:
+                      - generic [ref=e1162]: Flights singapore to delhi price
+                      - img [ref=e1166]
+                  - link "Singapore to Delhi flight time today" [ref=e1171] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Delhi+flight+time+today&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAhJEAE
+                    - generic [ref=e1172]:
+                      - generic [ref=e1177]: Singapore to Delhi flight time today
+                      - img [ref=e1181]
+                  - link "Singapore to Delhi Air India" [ref=e1186] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Delhi+Air+India&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAg-EAE
+                    - generic [ref=e1187]:
+                      - generic [ref=e1192]: Singapore to Delhi Air India
+                      - img [ref=e1196]
+                  - link "Singapore to Delhi flight ticket price IndiGo" [ref=e1201] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Delhi+flight+ticket+price+IndiGo&sa=X&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ1QJ6BAg8EAE
+                    - generic [ref=e1202]:
+                      - generic [ref=e1207]: Singapore to Delhi flight ticket price IndiGo
+                      - img [ref=e1211]
+        - navigation [ref=e1215]:
+          - heading "Page navigation" [level=1] [ref=e1216]
+          - text: "1"
+          - link "Page 2" [ref=e1219] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=10&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAE
+            - text: "2"
+          - link "Page 3" [ref=e1221] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=20&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAG
+            - text: "3"
+          - link "Page 4" [ref=e1223] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=30&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAI
+            - text: "4"
+          - link "Page 5" [ref=e1225] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=40&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAK
+            - text: "5"
+          - link "Page 6" [ref=e1227] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=50&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAM
+            - text: "6"
+          - link "Page 7" [ref=e1229] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=60&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAO
+            - text: "7"
+          - link "Page 8" [ref=e1231] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=70&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAQ
+            - text: "8"
+          - link "Page 9" [ref=e1233] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=80&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAS
+            - text: "9"
+          - link "Page 10" [ref=e1235] [cursor=pointer]:
+            - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=90&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8tMDegQIKRAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e1237]:
+            - link "Next" [ref=e1238] [cursor=pointer]:
+              - /url: /search?q=flights+Singapore+to+Delhi&sca_esv=1b2e90cde7e2044e&ei=bDPjaaS6AsS0mLQPuZOTiA4&start=10&sa=N&sstk=Af77f_cQ2oI-vmGK0jbCbCMFGOsRQzEe-tCV-NvTzNSDdQNG84QzeDG0IMsDBrRM8ZDYOfi3NXwfuQSEfuxfd8VusZDh-z63PwH8zA&ved=2ahUKEwikoI378PaTAxVEGoYAHbnJBOEQ8NMDegQIKRAW
+              - generic [ref=e1240]: Next
+        - navigation
+    - contentinfo [ref=e1242]:
+      - heading "Footer links" [level=1] [ref=e1243]
+      - generic [ref=e1247]:
+        - generic [ref=e1249]:
+          - text: Singapore
+          - generic [ref=e1251]:
+            - button "Bedok - Based on your past activity" [ref=e1253] [cursor=pointer]:
+              - generic [ref=e1254]: Bedok
+              - generic [ref=e1256]:
+                - text: "-"
+                - generic [ref=e1257]: Based on your past activity
+            - text: "-"
+            - button "Update location" [ref=e1259] [cursor=pointer]: Update location
+        - generic [ref=e1262]:
+          - link "Help" [ref=e1263] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-SG&fg=1
+          - link "Send feedback" [ref=e1264] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1265] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-SG&fg=1
+          - link "Terms" [ref=e1266] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-SG&fg=1

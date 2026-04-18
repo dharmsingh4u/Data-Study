@@ -1,0 +1,240 @@
+- generic [ref=e5]:
+  - main [ref=e6]:
+    - heading [level=1] [ref=e7]: Compare and book cheap flight tickets from anywhere, to everywhere
+    - generic [ref=e9]:
+      - generic [ref=e11]:
+        - link "Skyscanner home" [ref=e12] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]
+        - generic [ref=e15]:
+          - link "Help" [ref=e17] [cursor=pointer]:
+            - /url: https://help.skyscanner.net/hc/en-gb?skyCurrency=currency_sgd&skyLanguage=lang_en&skyMarket=sg_skyscanner
+            - generic [ref=e18]: Help
+          - button "Regional settings" [ref=e20] [cursor=pointer]:
+            - img [ref=e21]
+          - link "Saved flights, hotels and cars" [ref=e24] [cursor=pointer]:
+            - /url: /profile/saved
+            - img [ref=e25]
+          - button "Log in or sign up" [ref=e27] [cursor=pointer]:
+            - img [ref=e28]
+            - generic [ref=e30]: Log in
+      - tablist [ref=e32]:
+        - tab "Flights" [selected] [ref=e34] [cursor=pointer]:
+          - img [ref=e36]
+          - generic [ref=e39]: Flights
+        - tab "Hotels" [ref=e41] [cursor=pointer]:
+          - img [ref=e43]
+          - generic [ref=e45]: Hotels
+        - tab "Cars" [ref=e47] [cursor=pointer]:
+          - img [ref=e49]
+          - generic [ref=e52]: Cars
+      - heading "Millions of cheap flights. One simple search." [level=2] [ref=e53]
+      - generic [ref=e54]:
+        - generic [ref=e56]:
+          - button "Select trip type, Return selected" [ref=e58] [cursor=pointer]:
+            - generic [ref=e59]: Return
+            - img [ref=e61]
+          - generic [ref=e63]: Return selected
+        - generic [ref=e65]:
+          - generic [ref=e67]:
+            - group "origin" [ref=e68]:
+              - generic [ref=e69]: origin
+              - generic [ref=e70]:
+                - generic [ref=e73] [cursor=pointer]:
+                  - generic [ref=e74]: From
+                  - generic [ref=e75]: Enter the city you're flying from, or choose from the options below
+                  - combobox "Singapore (Any)" [ref=e77]
+                - generic [ref=e78]: selected
+              - generic [ref=e79]:
+                - checkbox "Add nearby airports" [ref=e80] [cursor=pointer]
+                - text: Add nearby airports
+            - generic [ref=e81]:
+              - checkbox "Direct flights" [ref=e82] [cursor=pointer]
+              - text: Direct flights
+          - generic [ref=e83]:
+            - button "Swap origin and destination" [ref=e86]:
+              - img [ref=e88]
+            - group "destination" [ref=e93]:
+              - generic [ref=e94]: destination
+              - generic [ref=e95]:
+                - generic [ref=e98] [cursor=pointer]:
+                  - generic [ref=e99]: To
+                  - generic [ref=e100]: . Enter your destination, or choose from the options below
+                  - combobox "Country, city or airport" [ref=e102]
+                - generic [ref=e103]: selected
+              - generic [ref=e104]:
+                - checkbox "Add nearby airports" [ref=e105] [cursor=pointer]
+                - text: Add nearby airports
+          - generic [ref=e106]:
+            - button "Please select your departure date" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110]: Depart
+              - generic [ref=e111]: Add date
+            - button "Add date. Or skip if you're travelling one way." [ref=e115] [cursor=pointer]:
+              - generic [ref=e116]: Return
+              - generic [ref=e117]: Add date
+          - generic [ref=e119]:
+            - button "Travellers and cabin class 1 Adult, Economy" [ref=e121] [cursor=pointer]:
+              - generic [ref=e122]: Travellers and cabin class
+              - generic [ref=e123]: 1 Adult, Economy
+            - generic [ref=e124]: Travellers and cabin class, 1 Adult, Economy
+            - generic [ref=e126]:
+              - checkbox "Add a hotel" [checked] [ref=e127] [cursor=pointer]
+              - text: Add a hotel
+          - button "Search" [ref=e129] [cursor=pointer]
+    - generic [ref=e130]:
+      - generic [ref=e133]:
+        - link "Hotels" [ref=e135] [cursor=pointer]:
+          - /url: https://www.skyscanner.com.sg/hotels
+          - generic [ref=e137]: Hotels
+        - link "Cars" [ref=e139] [cursor=pointer]:
+          - /url: https://www.skyscanner.com.sg/carhire
+          - generic [ref=e141]: Cars
+        - link "Explore everywhere" [ref=e143] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e145]: Explore everywhere
+      - link "An Indian Adventure. Embark on a journey from Agra to Jaipur with Accidentally Wes Anderson. Start Exploring" [ref=e148] [cursor=pointer]:
+        - generic [ref=e150]:
+          - heading [level=2] [ref=e151]: An Indian Adventure
+          - paragraph [ref=e152]: Embark on a journey from Agra to Jaipur with Accidentally Wes Anderson
+          - button [ref=e153]: Start Exploring
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - heading "Booking flights with Skyscanner" [level=2] [ref=e157]
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - button "How does Skyscanner work?" [ref=e162] [cursor=pointer]:
+                  - generic [ref=e163]:
+                    - heading "How does Skyscanner work?" [level=3] [ref=e165]
+                    - img [ref=e168]
+                - button "How can I find the cheapest flight using Skyscanner?" [ref=e172] [cursor=pointer]:
+                  - generic [ref=e173]:
+                    - heading "How can I find the cheapest flight using Skyscanner?" [level=3] [ref=e175]
+                    - img [ref=e178]
+                - button "Where should I book a flight to right now?" [ref=e182] [cursor=pointer]:
+                  - generic [ref=e183]:
+                    - heading "Where should I book a flight to right now?" [level=3] [ref=e185]
+                    - img [ref=e188]
+                - button "Do I book my flight with Skyscanner?" [ref=e192] [cursor=pointer]:
+                  - generic [ref=e193]:
+                    - heading "Do I book my flight with Skyscanner?" [level=3] [ref=e195]
+                    - img [ref=e198]
+                - button "What happens after I have booked my flight?" [ref=e202] [cursor=pointer]:
+                  - generic [ref=e203]:
+                    - heading "What happens after I have booked my flight?" [level=3] [ref=e205]
+                    - img [ref=e208]
+              - generic [ref=e210]:
+                - button "Does Skyscanner do hotels too?" [ref=e213] [cursor=pointer]:
+                  - generic [ref=e214]:
+                    - heading "Does Skyscanner do hotels too?" [level=3] [ref=e216]
+                    - img [ref=e219]
+                - button "What about car hire?" [ref=e223] [cursor=pointer]:
+                  - generic [ref=e224]:
+                    - heading "What about car hire?" [level=3] [ref=e226]
+                    - img [ref=e229]
+                - button "What’s a Price Alert?" [ref=e233] [cursor=pointer]:
+                  - generic [ref=e234]:
+                    - heading "What’s a Price Alert?" [level=3] [ref=e236]
+                    - img [ref=e239]
+                - button "Can I book a flexible flight ticket?" [ref=e243] [cursor=pointer]:
+                  - generic [ref=e244]:
+                    - heading "Can I book a flexible flight ticket?" [level=3] [ref=e246]
+                    - img [ref=e249]
+                - button "Can I book flights that emit less CO₂?" [ref=e253] [cursor=pointer]:
+                  - generic [ref=e254]:
+                    - heading "Can I book flights that emit less CO₂?" [level=3] [ref=e256]
+                    - img [ref=e259]
+          - button "Our international sites" [ref=e264] [cursor=pointer]:
+            - generic [ref=e265]:
+              - heading "Our international sites" [level=3] [ref=e267]
+              - img [ref=e270]
+        - generic [ref=e272]:
+          - heading "Start planning your adventure" [level=3] [ref=e274]
+          - generic [ref=e278]:
+            - checkbox "City" [checked] [ref=e279] [cursor=pointer]
+            - checkbox "Country" [ref=e280] [cursor=pointer]
+            - checkbox "Airport" [ref=e281] [cursor=pointer]
+            - checkbox "Region" [ref=e282] [cursor=pointer]
+            - checkbox "More travel options" [ref=e283] [cursor=pointer]
+          - generic [ref=e284]:
+            - generic [ref=e285]:
+              - link "Cheap hotels in Kunming" [ref=e287] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/hotels/china/kunming-hotels/ci-27543907
+              - link "Return plane tickets to Bangkok" [ref=e289] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/flights-to/bkkt/cheap-flights-to-bangkok.html
+              - link "Cheap return flights to Seoul" [ref=e291] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/flights-to/sela/cheap-flights-to-seoul.html
+              - link "Book hotels deals in Tokyo" [ref=e293] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/hotels/japan/tokyo-hotels/ci-27542089
+              - link "Cheap car hire in Reykjavik" [ref=e295] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/car-hire-in/car-hire-in-reykjavik/27543786.html
+              - link "Istanbul car hire" [ref=e297] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/car-hire-in/car-hire-in-istanbul/27542903.html
+              - link "Book hotels in Hong Kong" [ref=e299] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/hotels/china/hong-kong-hotels/ci-27542065
+              - link "Osaka car hire" [ref=e301] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/car-hire-in/car-hire-in-osaka/27542908.html
+              - link "Cheap hotels in Hanoi" [ref=e303] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/hotels/vietnam/hanoi-hotels/ci-27541992
+            - generic [ref=e305]:
+              - button "Previous page" [disabled] [ref=e306]:
+                - img [ref=e308]
+              - generic [ref=e311]:
+                - button "1"
+                - button "2" [ref=e312]
+                - button "3" [ref=e313]
+                - button "4" [ref=e314]
+                - button "5" [ref=e315]
+                - button "6" [ref=e316]
+                - button "7" [ref=e317]
+                - button "8" [ref=e318]
+                - button "9" [ref=e319]
+                - button "10" [ref=e320]
+              - button "Next page" [ref=e321] [cursor=pointer]:
+                - img [ref=e323]
+  - contentinfo [ref=e325]:
+    - generic [ref=e326]:
+      - button "Regional settings. Language English (United Kingdom). Singapore Dollar. Select to change." [ref=e329] [cursor=pointer]:
+        - generic [ref=e330]:
+          - text: Singapore·English (UK)·
+          - generic [ref=e331]:
+            - generic [ref=e332]: $
+            - text: SGD
+      - generic [ref=e333]:
+        - link "Help" [ref=e334] [cursor=pointer]:
+          - /url: https://help.skyscanner.net/hc/en-gb?skyCurrency=currency_sgd&skyLanguage=lang_en&skyMarket=sg_skyscanner
+        - link "Privacy Settings" [ref=e335] [cursor=pointer]:
+          - /url: /privacy-settings
+        - link "Log in" [ref=e336] [cursor=pointer]:
+          - /url: /profile
+      - generic [ref=e337]:
+        - link "Cookie policy" [ref=e338] [cursor=pointer]:
+          - /url: https://www.skyscanner.com.sg/media/cookie-policy
+        - link "Privacy policy" [ref=e339] [cursor=pointer]:
+          - /url: https://www.skyscanner.com.sg/media/privacy-policy
+        - link "Terms of service" [ref=e340] [cursor=pointer]:
+          - /url: /terms-of-service
+        - link "Company Details" [ref=e341] [cursor=pointer]:
+          - /url: /company-details
+      - generic [ref=e342]:
+        - button "Explore" [ref=e345] [cursor=pointer]:
+          - generic [ref=e346]:
+            - generic [ref=e347]: Explore
+            - img [ref=e350]
+        - button "Company" [ref=e354] [cursor=pointer]:
+          - generic [ref=e355]:
+            - generic [ref=e356]: Company
+            - img [ref=e359]
+        - button "Partners" [ref=e363] [cursor=pointer]:
+          - generic [ref=e364]:
+            - generic [ref=e365]: Partners
+            - img [ref=e368]
+        - button "Trips" [ref=e372] [cursor=pointer]:
+          - generic [ref=e373]:
+            - generic [ref=e374]: Trips
+            - img [ref=e377]
+        - button "International Sites" [ref=e381] [cursor=pointer]:
+          - generic [ref=e382]:
+            - generic [ref=e383]: International Sites
+            - img [ref=e386]
+    - generic [ref=e389]: © Skyscanner Ltd 2002 – 2026

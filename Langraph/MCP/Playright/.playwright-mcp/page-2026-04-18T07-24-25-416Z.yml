@@ -1,0 +1,670 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-SG
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwi726Oj7_aTAxW9oysGHXeAFugQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: cheapest flights Singapore to Bali today cheapest flights Singapore to Bali today
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dcheapest%2Bflights%2BSingapore%2Bto%2BBali%2Btoday%26sei%3DpjHjaf_6JNu3ruEPuuHLoAs&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&aep=1&ntc=1&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ2J8OegQICxAI
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Flights" [ref=e89] [cursor=pointer]:
+              - /url: /travel/flights?sca_esv=1b2e90cde7e2044e&output=search&q=cheapest+flights+Singapore+to+Bali+today&source=lnms&mode_promoted=true&impression_in_search=true&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&ved=1t:200715&ictx=111
+              - generic [ref=e91]: Flights
+          - listitem [ref=e92]:
+            - link "News" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&q=cheapest+flights+Singapore+to+Bali+today&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ0pQJegQIFxAB
+              - generic [ref=e95]: News
+          - listitem [ref=e96]:
+            - link "Forums" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&q=cheapest+flights+Singapore+to+Bali+today&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQs6gLegQIFBAB
+              - generic [ref=e99]: Forums
+          - listitem [ref=e100]:
+            - link "Images" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&q=cheapest+flights+Singapore+to+Bali+today&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQtKgLegQIFRAB
+              - generic [ref=e103]: Images
+          - listitem [ref=e104]:
+            - link "Short videos" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=1b2e90cde7e2044e&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr2zhQHyD2apbcJnRLSwkKHwlTB4cUaT7THDjbWc5fbiZFBLgf2whnfptQj83lJnzdZ2kTqEePL_TtwPy4z9oUUQpfCZb6LnjJDAWh3nRhZoMuJEK0oDmZ0OPU7dcTHBOpDRKTGp2l-ijntZYOwSWVMud0fqpiBI-cKfIJJ485JhqZwsfTNA&q=cheapest+flights+Singapore+to+Bali+today&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQs6gLegQIExAB
+              - generic [ref=e107]: Short videos
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e124]
+    - generic [ref=e129]:
+      - region "Ads" [ref=e132]:
+        - generic [ref=e133]:
+          - heading "Sponsored results" [level=2] [ref=e139]
+          - generic [ref=e140]:
+            - generic [ref=e146]:
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - link "Cheap Flights To Denpasar - Bali Last-Minute Deals Skyscanner https://www.skyscanner.com.sg › flights-to › denpasar" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/flights-to/dps/cheap-flights-to-bali-denpasar-airport.html
+                    - heading "Cheap Flights To Denpasar - Bali Last-Minute Deals" [level=3] [ref=e155]
+                    - generic [ref=e161]:
+                      - generic [ref=e163]: Skyscanner
+                      - generic [ref=e164]: https://www.skyscanner.com.sg › flights-to › denpasar
+                  - button "Why this ad?" [ref=e167] [cursor=pointer]:
+                    - img [ref=e169]
+                - generic [ref=e174]:
+                  - emphasis [ref=e175]: Prices
+                  - text: you can trust. No hidden fees. No hidden charges. Save with Skyscanner. Search
+                  - emphasis [ref=e176]: flights
+                  - text: ...
+                - generic [ref=e178]:
+                  - img "Rated4.5out of5" [ref=e180]
+                  - generic [ref=e182]:
+                    - link "Rating" [ref=e183] [cursor=pointer]:
+                      - /url: https://www.google.com/shopping/ratings/account/metrics?q=skyscanner.com.sg&c=SG&v=19
+                    - text: "for skyscanner.com.sg: 4.5 - 260 reviews"
+                - generic [ref=e185]:
+                  - text: ‎
+                  - link "Singapore to Bali Flights" [ref=e186] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAEQDhoCamY&ae=2&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAAYASADEgIjKfD_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_71&sig=AOD64_0kc6FJzP-82xJMdQ_2CMuKvuwXhw&adurl=&q=
+                  - text: · ‎
+                  - link "From $99 Return" [ref=e187] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAEQEhoCamY&ae=2&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAAYASAEEgJebvD_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_71&sig=AOD64_2dUqWX7w-ajdo6pCFGoFg4t2KBaw&adurl=&q=
+                  - text: · ‎
+                  - link "Denpasar Flights" [ref=e188] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/flights-to/DPS
+                  - text: · ‎
+                  - link "Search Everywhere" [ref=e189] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/transport/flights-from/sg
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - link "Cheapest Flight Singapore Bali - Save Up to 50% Traveloka https://www.traveloka.com › singapore › bali" [ref=e197] [cursor=pointer]:
+                    - /url: https://www.traveloka.com/en-sg/flight/route/Singapore-Bali-Denpasar.SIN.DPS
+                    - heading "Cheapest Flight Singapore Bali - Save Up to 50%" [level=3] [ref=e198]
+                    - generic [ref=e204]:
+                      - generic [ref=e206]: Traveloka
+                      - generic [ref=e207]: https://www.traveloka.com › singapore › bali
+                  - button "Why this ad?" [ref=e210] [cursor=pointer]:
+                    - img [ref=e212]
+                - generic [ref=e217]:
+                  - text: Find the Latest
+                  - emphasis [ref=e218]: Flight
+                  - text: Tickets Promotions and
+                  - emphasis [ref=e219]: Deals
+                  - text: . Book Now & Save at Traveloka. Don't Worry No Loss Using Traveloka, Refund/Reschedule Available! Fast and Easy Booking. Customer service 24/7. Multiple Payment Methods. Destinations...
+                - generic [ref=e221]:
+                  - text: ‎
+                  - link "Fly from Singapore to Bali" [ref=e222] [cursor=pointer]:
+                    - /url: https://www.traveloka.com/en-sg/flight/route/Singapore-Bali-Denpasar.SIN.DPS
+                  - text: · ‎
+                  - link "Save Up to 50%" [ref=e223] [cursor=pointer]:
+                    - /url: https://www.traveloka.com/en-sg/flight/route/Singapore-Bali-Denpasar.SIN.DPS
+                  - text: · ‎
+                  - link "Book Scoot Flights" [ref=e224] [cursor=pointer]:
+                    - /url: https://www.traveloka.com/en-sg/flight/airline/scoot.tr
+                  - text: · ‎
+                  - 'link "Luxe for Less: S$100 Off" [ref=e225] [cursor=pointer]':
+                    - /url: https://www.traveloka.com/en-sg/promotion/luxe-for-less
+              - generic [ref=e231]:
+                - generic [ref=e232]:
+                  - link "Last Minute Flights - Unsold Seats -75% Flight-Fare.com https://www.flight-fare.com › cheap › flights" [ref=e233] [cursor=pointer]:
+                    - /url: https://www.flight-fare.com/
+                    - heading "Last Minute Flights - Unsold Seats -75%" [level=3] [ref=e234]
+                    - generic [ref=e240]:
+                      - generic [ref=e242]: Flight-Fare.com
+                      - generic [ref=e243]: https://www.flight-fare.com › cheap › flights
+                  - button "Why this ad?" [ref=e246] [cursor=pointer]:
+                    - img [ref=e248]
+                - generic [ref=e253]:
+                  - text: The
+                  - emphasis [ref=e254]: Cheapest Flights
+                  - text: ", Discounted"
+                  - emphasis [ref=e255]: Flights
+                  - text: ", and Travel Last Minute"
+                  - emphasis [ref=e256]: Deals
+                  - text: .
+                - generic [ref=e258]:
+                  - text: ‎
+                  - link "Last Minute Deals" [ref=e259] [cursor=pointer]:
+                    - /url: https://flight-fare.com/?LastMinuteDeals=1
+                  - text: · ‎
+                  - link "75% Off Flight to bali indonesia" [ref=e260] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAEQDxoCamY&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAAYAyAGEgLRwPD_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_32&sig=AOD64_0cD40obFVO4O73lQc17XG8cb2rRw&adurl=&q=
+                  - text: · ‎
+                  - link "75% Off Cheap Flight Tickets" [ref=e261] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAEQERoCamY&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAAYAyAHEgLkZ_D_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_32&sig=AOD64_2adHAV9rfW9Xaw7y_fGPp8_if0dQ&adurl=&q=
+                  - text: · ‎
+                  - link "One Way Flights" [ref=e262] [cursor=pointer]:
+                    - /url: https://flight-fare.com/?OneWay=1
+                - generic [ref=e263]:
+                  - generic [ref=e264]:
+                    - link "New York" [ref=e265] [cursor=pointer]:
+                      - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAEQCBoCamY&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAAYAyADEgLjK_D_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_32&sig=AOD64_3L9tY8qXXCGvxYcxQIn24Xkl1tVQ&nis=4&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQhacBegQIERAV&adurl=
+                    - generic [ref=e266]:
+                      - text: "-"
+                      - generic [ref=e267]: US$39.00
+                    - text: "- New York City"
+                  - generic [ref=e268]: ·
+                  - button "More" [ref=e270] [cursor=pointer]: More
+              - generic [ref=e277]:
+                - generic [ref=e278]:
+                  - link "Cheap Flights from Singapore Changi Airport to Bali 2026 from S$ 119 Trip.com https://sg.trip.com" [ref=e279] [cursor=pointer]:
+                    - /url: https://sg.trip.com/flights/airport-sin-city-dps/
+                    - heading "Cheap Flights from Singapore Changi Airport to Bali 2026 from S$ 119" [level=3] [ref=e280]
+                    - generic [ref=e286]:
+                      - generic [ref=e288]: Trip.com
+                      - generic [ref=e289]: https://sg.trip.com
+                  - button "Why this ad?" [ref=e292] [cursor=pointer]:
+                    - img [ref=e294]
+                - generic [ref=e299]:
+                  - text: You can easily find
+                  - emphasis [ref=e300]: cheap flights
+                  - text: / LCC plane tickets from
+                  - emphasis [ref=e301]: Singapore
+                  - text: Changi Airport in
+                  - emphasis [ref=e302]: Singapore to Bali
+                  - text: . Compare
+                  - emphasis [ref=e303]: airfares
+                  - text: and book tickets with lowest price on different airlines in real time 24 hours. Save your... View Our
+                  - emphasis [ref=e304]: Deals
+                  - text: . Easy & Fast Booking.
+                - generic [ref=e306]:
+                  - img "Rated4.4out of5" [ref=e308]
+                  - generic [ref=e310]:
+                    - link "Rating" [ref=e311] [cursor=pointer]:
+                      - /url: https://www.google.com/shopping/ratings/account/metrics?q=trip.com&c=SG&v=19
+                    - text: "for trip.com: 4.4 - 5,275 reviews"
+            - button "Hide sponsored results" [ref=e312] [cursor=pointer]:
+              - separator [ref=e313]
+              - generic [ref=e314]:
+                - generic [ref=e315]: Hide sponsored results
+                - img [ref=e317]
+      - generic [ref=e323]:
+        - generic [ref=e328]:
+          - heading "Flights to Bali" [level=2] [ref=e330]
+          - button "More options for Flights to Bali" [ref=e336] [cursor=pointer]:
+            - img "More options for Flights to Bali" [ref=e337]:
+              - img [ref=e339]
+        - navigation [ref=e344]:
+          - tab "Flights" [selected] [ref=e345] [cursor=pointer]:
+            - generic [ref=e346]:
+              - generic: Flights
+          - tab "Airports" [ref=e347] [cursor=pointer]:
+            - generic [ref=e348]:
+              - generic: Airports
+      - main [ref=e350]:
+        - tabpanel [ref=e364]:
+          - generic [ref=e368]:
+            - generic [ref=e372]:
+              - heading "Flight prices" [level=2] [ref=e375]
+              - generic [ref=e380]:
+                - generic [ref=e383]:
+                  - generic [ref=e385]:
+                    - img [ref=e387]
+                    - combobox "Singapore (SIN),Enter an origin" [ref=e389]: Singapore (SIN)
+                  - generic [ref=e392]:
+                    - img [ref=e394]
+                    - combobox "Bali, Indonesia (all airports),Enter a destination" [ref=e397]: Bali, Indonesia (all airports)
+                - generic [ref=e399]:
+                  - generic [ref=e400]:
+                    - img [ref=e402]
+                    - textbox "Departure date . Enter a date or use the arrow keys to change the current date." [ref=e405]:
+                      - /placeholder: "Departure date "
+                      - text: Sat, 18 Apr
+                    - img [ref=e408] [cursor=pointer]
+                    - img [ref=e412] [cursor=pointer]
+                  - generic [ref=e414]:
+                    - img [ref=e416]
+                    - textbox "Return date . Enter a date or use the arrow keys to change the current date." [ref=e419]:
+                      - /placeholder: "Return date "
+                      - text: Wed, 22 Apr
+                    - img [ref=e422] [cursor=pointer]
+                    - img [ref=e426] [cursor=pointer]
+                - generic [ref=e431]:
+                  - combobox "Change seating class." [ref=e434] [cursor=pointer]:
+                    - generic [ref=e436]:
+                      - generic [ref=e437]: Economy
+                      - img [ref=e439]
+                  - combobox "Change ticket type." [ref=e443] [cursor=pointer]:
+                    - generic [ref=e445]:
+                      - generic [ref=e446]: Round trip
+                      - img [ref=e448]
+                  - button "Nonstop" [ref=e450] [cursor=pointer]:
+                    - generic [ref=e452]: Nonstop
+                  - button "Less emissions" [ref=e453] [cursor=pointer]:
+                    - generic [ref=e455]: Less emissions
+                - generic [ref=e458]:
+                  - link "Multiple airlines 2h 55m Nonstop from $242" [ref=e459] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhorEgoyMDI2LTA0LTE4agwIAhIIL20vMDZ0MnRyDwgDEgsvZy8xMjFoeGgxahorEgoyMDI2LTA0LTIyag8IAxILL2cvMTIxaHhoMWpyDAgCEggvbS8wNnQydHpoQ2pSSVFqWXhXRXRZYUdoNk9HTkJTRkpOZGxGQ1J5MHRMUzB0TFMwdExXOXJjbU15TUVGQlFVRkJSMjVxVFdGalNVbGZkMEZCRWdKdUtob0xDSWk5QVJBQ0dnTlRSMFE0TUhEc2xBRT0&ved=1t:2773&ictx=111
+                    - generic [ref=e461]: Multiple airlines
+                    - generic [ref=e462]: 2h 55m
+                    - generic [ref=e463]: Nonstop
+                    - generic [ref=e464]: from $242
+                  - link "Jetstar 2h 55m Nonstop from $250" [ref=e465] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhovEgoyMDI2LTA0LTE4MgJKUWoMCAISCC9tLzA2dDJ0cg8IAxILL2cvMTIxaHhoMWoaLxIKMjAyNi0wNC0yMjICSlFqDwgDEgsvZy8xMjFoeGgxanIMCAISCC9tLzA2dDJ0emhDalJJUWpZeFdFdFlhR2g2T0dOQlNGSk5kbEZDUnkwdExTMHRMUzB0TFc5cmNtTXlNRUZCUVVGQlIyNXFUV0ZqU1VsZmQwRkJFZ051U2xFYUN3aW93d0VRQWhvRFUwZEVPREJ3NHBrQg&ved=1t:2773&ictx=111
+                    - generic [ref=e467]: Jetstar
+                    - generic [ref=e468]: 2h 55m
+                    - generic [ref=e469]: Nonstop
+                    - generic [ref=e470]: from $250
+                  - link "Singapore Airlines 2h 35m Nonstop from $391" [ref=e471] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhovEgoyMDI2LTA0LTE4MgJTUWoMCAISCC9tLzA2dDJ0cg8IAxILL2cvMTIxaHhoMWoaLxIKMjAyNi0wNC0yMjICU1FqDwgDEgsvZy8xMjFoeGgxanIMCAISCC9tLzA2dDJ0emhDalJJUWpZeFdFdFlhR2g2T0dOQlNGSk5kbEZDUnkwdExTMHRMUzB0TFc5cmNtTXlNRUZCUVVGQlIyNXFUV0ZqU1VsZmQwRkJFZ051VTFFYUN3aThzUUlRQWhvRFUwZEVPREJ3di9BQg&ved=1t:2773&ictx=111
+                    - generic [ref=e473]: Singapore Airlines
+                    - generic [ref=e474]: 2h 35m
+                    - generic [ref=e475]: Nonstop
+                    - generic [ref=e476]: from $391
+                  - link "KLM 2h 35m Nonstop from $404" [ref=e477] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=1b2e90cde7e2044e&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhovEgoyMDI2LTA0LTE4MgJLTGoMCAISCC9tLzA2dDJ0cg8IAxILL2cvMTIxaHhoMWoaLxIKMjAyNi0wNC0yMjICS0xqDwgDEgsvZy8xMjFoeGgxanIMCAISCC9tLzA2dDJ0emhDalJJUWpZeFdFdFlhR2g2T0dOQlNGSk5kbEZDUnkwdExTMHRMUzB0TFc5cmNtTXlNRUZCUVVGQlIyNXFUV0ZqU1VsZmQwRkJFZ051UzB3YUN3alF1d0lRQWhvRFUwZEVPREJ3dnZnQg&ved=1t:2773&ictx=111
+                    - generic [ref=e479]: KLM
+                    - generic [ref=e480]: 2h 35m
+                    - generic [ref=e481]: Nonstop
+                    - generic [ref=e482]: from $404
+                - link "Show flights on Google Flights" [ref=e485] [cursor=pointer]:
+                  - separator [ref=e486]
+                  - generic [ref=e487]:
+                    - generic [ref=e488]: Show flights
+                    - img [ref=e490]
+            - generic [ref=e493]:
+              - heading "Web results" [level=2] [ref=e494]
+              - generic [ref=e495]:
+                - generic [ref=e498]:
+                  - link "Cheap flight deals from Singapore to Bali cheapflights.com.sg https://www.cheapflights.com.sg › Asia › Indonesia" [ref=e500] [cursor=pointer]:
+                    - /url: https://www.cheapflights.com.sg/flights-to-Bali/Singapore-City/
+                    - heading "Cheap flight deals from Singapore to Bali" [level=3] [ref=e501]
+                    - generic [ref=e506]:
+                      - generic [ref=e508]: cheapflights.com.sg
+                      - generic [ref=e510]: https://www.cheapflights.com.sg › Asia › Indonesia
+                  - button "About this result" [ref=e511] [cursor=pointer]:
+                    - img [ref=e514]
+                - generic [ref=e518]:
+                  - emphasis [ref=e519]: Book flights from Changi (SIN) to Bali starting at S$ 108
+                  - text: . Search real-time flight deals from Singapore to Bali on Cheapflights.com.sg.
+                - generic [ref=e521]: Starting from $108.08
+            - generic [ref=e524]:
+              - generic [ref=e527]:
+                - link "Find Cheap Flights from Singapore to Bali Google https://www.google.com › Flights › From Singapore" [ref=e529] [cursor=pointer]:
+                  - /url: https://www.google.com/travel/flights/flights-from-singapore-to-bali.html?gl=SG&hl=en
+                  - heading "Find Cheap Flights from Singapore to Bali" [level=3] [ref=e530]
+                  - generic [ref=e535]:
+                    - generic [ref=e537]: Google
+                    - generic [ref=e539]: https://www.google.com › Flights › From Singapore
+                - button "About this result" [ref=e540] [cursor=pointer]:
+                  - img [ref=e543]
+              - generic [ref=e547]:
+                - text: Use Google Flights to find cheap flights from Singapore to Bali,
+                - emphasis [ref=e548]: starting at SGD 196
+                - text: ", and book tickets for your next trip."
+            - generic [ref=e551]:
+              - generic [ref=e554]:
+                - link "Cheap flights from Singapore Changi to Bali (Denpasar) skyscanner.com.sg https://www.skyscanner.com.sg › ... › Singapore Changi" [ref=e556] [cursor=pointer]:
+                  - /url: https://www.skyscanner.com.sg/routes/sin/dps/singapore-changi-to-bali-denpasar.html
+                  - heading "Cheap flights from Singapore Changi to Bali (Denpasar)" [level=3] [ref=e557]
+                  - generic [ref=e562]:
+                    - generic [ref=e564]: skyscanner.com.sg
+                    - generic [ref=e566]: https://www.skyscanner.com.sg › ... › Singapore Changi
+                - button "About this result" [ref=e567] [cursor=pointer]:
+                  - img [ref=e570]
+              - generic [ref=e573]:
+                - generic [ref=e574]:
+                  - text: Denpasar.$119 per passenger.Departing Sat, 18 Apr.One-way
+                  - emphasis [ref=e575]: flight
+                  - text: with Jetstar.Outbound direct
+                  - emphasis [ref=e576]: flight
+                  - text: with Jetstar departs from
+                  - emphasis [ref=e577]: Singapore
+                  - text: Changi on Sat, 18 Apr, ...
+                - link "Read more" [ref=e578] [cursor=pointer]:
+                  - /url: https://www.skyscanner.com.sg/routes/sin/dps/singapore-changi-to-bali-denpasar.html#:~:text=Sat%2C%2018%20AprSIN%20%2D%20DPS
+              - generic [ref=e580]: Starting from $104.00
+            - generic [ref=e583]:
+              - generic [ref=e586]:
+                - link "Cheap Flights from Singapore to Bali KAYAK https://www.kayak.sg › ... › Asia › Indonesia" [ref=e588] [cursor=pointer]:
+                  - /url: https://www.kayak.sg/flight-routes/Singapore-Changi-SIN/Bali-IDBA
+                  - heading "Cheap Flights from Singapore to Bali" [level=3] [ref=e589]
+                  - generic [ref=e594]:
+                    - generic [ref=e596]: KAYAK
+                    - generic [ref=e598]: https://www.kayak.sg › ... › Asia › Indonesia
+                - button "About this result" [ref=e599] [cursor=pointer]:
+                  - img [ref=e602]
+              - generic [ref=e606]:
+                - emphasis [ref=e607]: Find flights to Bali from S$ 108
+                - text: . Fly from Singapore on Jetstar, TransNusa, Scoot and more. Search for Bali flights on KAYAK now to find the best deal.
+              - generic [ref=e609]: Starting from $108.11
+            - generic [ref=e612]:
+              - generic [ref=e615]:
+                - link "Get cheap flights from Singapore to Bali! AirAsia https://www.airasia.com › Flights › Bali" [ref=e617] [cursor=pointer]:
+                  - /url: https://www.airasia.com/flights/from-singapore-sin-to-bali-dps/
+                  - heading "Get cheap flights from Singapore to Bali!" [level=3] [ref=e618]
+                  - generic [ref=e623]:
+                    - generic [ref=e625]: AirAsia
+                    - generic [ref=e627]: https://www.airasia.com › Flights › Bali
+                - button "About this result" [ref=e628] [cursor=pointer]:
+                  - img [ref=e631]
+              - generic [ref=e635]:
+                - emphasis [ref=e636]: Get the cheapest flights from Singapore - Bali
+                - text: only on AirAsia official website. Check the flight schedule from Singapore - Bali and book now!
+              - link "cheapest flights Singapore to Bali today from www.airasia.com" [ref=e639] [cursor=pointer]:
+                - /url: https://www.airasia.com/flights/from-singapore-sin-to-bali-dps/
+                - img "cheapest flights Singapore to Bali today from www.airasia.com" [ref=e641]
+            - generic [ref=e644]:
+              - generic [ref=e647]:
+                - link "Flights from Singapore to Denpasar Bali Singapore Airlines https://www.singaporeair.com › ... › Flights to Indonesia" [ref=e649] [cursor=pointer]:
+                  - /url: https://www.singaporeair.com/en-sg/flights-from-singapore-to-denpasar-bali
+                  - heading "Flights from Singapore to Denpasar Bali" [level=3] [ref=e650]
+                  - generic [ref=e655]:
+                    - generic [ref=e657]: Singapore Airlines
+                    - generic [ref=e659]: https://www.singaporeair.com › ... › Flights to Indonesia
+                - button "About this result" [ref=e660] [cursor=pointer]:
+                  - img [ref=e663]
+              - generic [ref=e666]:
+                - generic [ref=e667]:
+                  - emphasis [ref=e668]: Premium class flight offers from Singapore to Denpasar Bali
+                  - text: ; 08 Jun 26 (Mon) - 11 Jun 26 (Thu) · SGD 956 ; 17 Jun 26 (Wed) - 24 Jun 26 (Wed) · SGD 957 ; 17 Jun 26 ( ...
+                - link "Read more" [ref=e669] [cursor=pointer]:
+                  - /url: https://www.singaporeair.com/en-sg/flights-from-singapore-to-denpasar-bali#:~:text=Premium%20class%20flight%20offers%20from,Singapore%20to%20Denpasar%20Bali&text=08%20Jun%2026%20(Mon)%20%2D,11%20Jun%2026%20(Thu)&text=SGD%20956*&text=*Fares%20displayed%20have%20been%20collected&text=*Fares%20displayed%20have%20been%20collected&text=*Fares%20displayed%20have%20been%20collected
+              - generic [ref=e671]: Starting from $265.20
+            - generic [ref=e674]:
+              - generic [ref=e677]:
+                - 'link "S$106 - Cheap Flights to Bali : Book ... - Expedia Singapore Expedia https://www.expedia.com.sg › Destinations-In-Bali.d602..." [ref=e679] [cursor=pointer]':
+                  - /url: https://www.expedia.com.sg/Destinations-In-Bali.d602651.Flight-Destinations
+                  - 'heading "S$106 - Cheap Flights to Bali : Book ... - Expedia Singapore" [level=3] [ref=e680]'
+                  - generic [ref=e685]:
+                    - generic [ref=e687]: Expedia
+                    - generic [ref=e689]: https://www.expedia.com.sg › Destinations-In-Bali.d602...
+                - button "About this result" [ref=e690] [cursor=pointer]:
+                  - img [ref=e693]
+              - generic [ref=e697]:
+                - text: Find cheap flights to Bali from S$106.
+                - emphasis [ref=e698]: Expedia offers a huge selection of cheap flights to Bali
+                - text: . Compare and save by booking your last minute cheap flight ...
+              - link "cheapest flights Singapore to Bali today from www.expedia.com.sg" [ref=e701] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Destinations-In-Bali.d602651.Flight-Destinations
+                - img "cheapest flights Singapore to Bali today from www.expedia.com.sg" [ref=e703]
+              - generic [ref=e705]: Starting from $106.00
+            - generic [ref=e708]:
+              - heading "People also ask" [level=2] [ref=e710]
+              - generic [ref=e711]:
+                - button "What is the cheapest month to fly to Bali?" [ref=e717] [cursor=pointer]:
+                  - generic [ref=e719]: What is the cheapest month to fly to Bali?
+                  - img [ref=e722]
+                - button "Which airline flies from Singapore to Bali?" [ref=e731] [cursor=pointer]:
+                  - generic [ref=e733]: Which airline flies from Singapore to Bali?
+                  - img [ref=e736]
+                - button "When to buy cheap flights to Bali?" [ref=e745] [cursor=pointer]:
+                  - generic [ref=e747]: When to buy cheap flights to Bali?
+                  - img [ref=e750]
+                - button "When to buy the cheapest Singapore flight tickets?" [ref=e759] [cursor=pointer]:
+                  - generic [ref=e761]: When to buy the cheapest Singapore flight tickets?
+                  - img [ref=e764]
+            - generic [ref=e768]:
+              - heading "Web results" [level=2] [ref=e769]
+              - generic [ref=e770]:
+                - generic [ref=e773]:
+                  - link "Singapore to Bali (SIN-DPS) Cheap Flights from S ... Trip.com Singapore https://sg.trip.com › ... › Bali Province › Flights to Bali" [ref=e775] [cursor=pointer]:
+                    - /url: https://sg.trip.com/flights/singapore-to-bali/airfares-sin-dps/
+                    - heading "Singapore to Bali (SIN-DPS) Cheap Flights from S ..." [level=3] [ref=e776]
+                    - generic [ref=e781]:
+                      - generic [ref=e783]: Trip.com Singapore
+                      - generic [ref=e785]: https://sg.trip.com › ... › Bali Province › Flights to Bali
+                  - button "About this result" [ref=e786] [cursor=pointer]:
+                    - img [ref=e789]
+                - generic [ref=e793]:
+                  - text: Book
+                  - emphasis [ref=e794]: Singapore
+                  - text: "-"
+                  - emphasis [ref=e795]: Bali flights
+                  - text: starting at S$ 121. Compare
+                  - emphasis [ref=e796]: prices
+                  - text: in real-time. Fast routes, flexible dates, lowest fare guarantee. Reserve your seat
+                  - emphasis [ref=e797]: today
+                  - text: "!"
+                - generic [ref=e800]: $121.00 to $197.00
+            - generic [ref=e803]:
+              - generic [ref=e806]:
+                - link "Flights from Singapore to Bali (Denpasar) Flyscoot https://www.flyscoot.com › ... › Flights › To Indonesia" [ref=e808] [cursor=pointer]:
+                  - /url: https://www.flyscoot.com/flights/en-sg/flights-from-singapore-to-bali-denpasar
+                  - heading "Flights from Singapore to Bali (Denpasar)" [level=3] [ref=e809]
+                  - generic [ref=e814]:
+                    - generic [ref=e816]: Flyscoot
+                    - generic [ref=e818]: https://www.flyscoot.com › ... › Flights › To Indonesia
+                - button "About this result" [ref=e819] [cursor=pointer]:
+                  - img [ref=e822]
+              - generic [ref=e825]:
+                - generic [ref=e826]:
+                  - emphasis [ref=e827]: Flights
+                  - text: from
+                  - emphasis [ref=e828]: Singapore
+                  - text: (SIN) to
+                  - emphasis [ref=e829]: Bali
+                  - text: (Denpasar) (DPS) on Scoot from SGD185*.
+                - link "Read more" [ref=e830] [cursor=pointer]:
+                  - /url: https://www.flyscoot.com/flights/en-sg/flights-from-singapore-to-bali-denpasar#:~:text=Flights%20from%20Singapore%20(SIN)%20to,(DPS)%20on%20Scoot%20from%20SGD185*
+              - generic [ref=e832]: Starting from $184.57
+            - generic [ref=e835]:
+              - generic [ref=e838]:
+                - link "Cheap Flight Tickets to Bali / Denpasar from Singapore Traveloka https://www.traveloka.com › en-sg › flight › route › Si..." [ref=e840] [cursor=pointer]:
+                  - /url: https://www.traveloka.com/en-sg/flight/route/Singapore-Bali-Denpasar.SIN.DPS
+                  - heading "Cheap Flight Tickets to Bali / Denpasar from Singapore" [level=3] [ref=e841]
+                  - generic [ref=e846]:
+                    - generic [ref=e848]: Traveloka
+                    - generic [ref=e850]: https://www.traveloka.com › en-sg › flight › route › Si...
+                - button "About this result" [ref=e851] [cursor=pointer]:
+                  - img [ref=e854]
+              - generic [ref=e857]:
+                - generic [ref=e858]:
+                  - text: On average,
+                  - emphasis [ref=e859]: tickets start from S$ 120 one-way
+                  - text: . Prices tend to rise during peak travel seasons, such as the holidays between December and January or school ...
+                - link "Read more" [ref=e860] [cursor=pointer]:
+                  - /url: https://www.traveloka.com/en-sg/flight/route/Singapore-Bali-Denpasar.SIN.DPS#:~:text=See%20more
+              - generic [ref=e862]: Starting from $114.38
+            - generic [ref=e870]:
+              - heading "People also search for" [level=2] [ref=e872]
+              - generic [ref=e874]:
+                - generic [ref=e875]:
+                  - link "Cheapest flights singapore to bali today singapore airlines" [ref=e879] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Cheapest+flights+singapore+to+bali+today+singapore+airlines&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhAEAE
+                    - generic [ref=e880]:
+                      - generic [ref=e885]: Cheapest flights singapore to bali today singapore airlines
+                      - img [ref=e889]
+                  - link "Singapore to Bali flight ticket price" [ref=e894] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+flight+ticket+price&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhdEAE
+                    - generic [ref=e895]:
+                      - generic [ref=e900]: Singapore to Bali flight ticket price
+                      - img [ref=e904]
+                  - link "Singapore to Bali flight status today" [ref=e909] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+flight+status+today&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAheEAE
+                    - generic [ref=e910]:
+                      - generic [ref=e915]: Singapore to Bali flight status today
+                      - img [ref=e919]
+                  - link "Singapore to Bali flight time" [ref=e924] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+flight+time&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhbEAE
+                    - generic [ref=e925]:
+                      - generic [ref=e930]: Singapore to Bali flight time
+                      - img [ref=e934]
+                - generic [ref=e936]:
+                  - link "Singapore to Bali ferry" [ref=e940] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+ferry&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhWEAE
+                    - generic [ref=e941]:
+                      - generic [ref=e946]: Singapore to Bali ferry
+                      - img [ref=e950]
+                  - link "Singapore to Bali flight schedule" [ref=e955] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+flight+schedule&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhREAE
+                    - generic [ref=e956]:
+                      - generic [ref=e961]: Singapore to Bali flight schedule
+                      - img [ref=e965]
+                  - link "Singapore to Bali - google flights" [ref=e970] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Singapore+to+Bali+-+google+flights&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhMEAE
+                    - generic [ref=e971]:
+                      - generic [ref=e976]: Singapore to Bali - google flights
+                      - img [ref=e980]
+                  - link "Flight to Bali from Singapore" [ref=e985] [cursor=pointer]:
+                    - /url: /search?sca_esv=1b2e90cde7e2044e&q=Flight+to+Bali+from+Singapore&sa=X&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ1QJ6BAhCEAE
+                    - generic [ref=e986]:
+                      - generic [ref=e991]: Flight to Bali from Singapore
+                      - img [ref=e995]
+            - region "Ads" [ref=e999]:
+              - generic [ref=e1000]:
+                - heading "Sponsored results" [level=2] [ref=e1006]
+                - generic [ref=e1007]:
+                  - generic [ref=e1013]:
+                    - generic [ref=e1018]:
+                      - generic [ref=e1019]:
+                        - link "Cheap Flights Today - Singapore to Bali Agoda.com https://www.agoda.com › flights › deals" [ref=e1020] [cursor=pointer]:
+                          - /url: https://www.agoda.com/flights
+                          - heading "Cheap Flights Today - Singapore to Bali" [level=3] [ref=e1021]
+                          - generic [ref=e1027]:
+                            - generic [ref=e1029]: Agoda.com
+                            - generic [ref=e1030]: https://www.agoda.com › flights › deals
+                        - button "Why this ad?" [ref=e1033] [cursor=pointer]:
+                          - img [ref=e1035]
+                      - generic [ref=e1040]:
+                        - text: Tickets
+                        - emphasis [ref=e1041]: Bali
+                        - text: "- Find your perfect"
+                        - emphasis [ref=e1042]: flight
+                        - text: with great fares and easy booking. More
+                        - emphasis [ref=e1043]: flight
+                        - text: choices, clear...
+                      - generic [ref=e1045]:
+                        - generic [ref=e1046]: "Deal:"
+                        - link "Up to 8% off First Flight Booking" [ref=e1047] [cursor=pointer]:
+                          - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAIQAhoCamY&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAMYASABEgKg9vD_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_32&sig=AOD64_1mlmMpwjQ5VQHPp3msJAX8ElFmSQ&nis=4&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQgtsBegQIbhAP&adurl=
+                      - generic [ref=e1052]: 1M+ visits in past month
+                    - generic [ref=e1057]:
+                      - generic [ref=e1058]:
+                        - link "Flights to DPS Airport - Roundtrip Starting from S$149 Expedia https://www.expedia.com.sg" [ref=e1059] [cursor=pointer]:
+                          - /url: https://www.expedia.com.sg/Cheap-Flights-To-Ngurah-Rai-Intl.d5460036.Travel-Guide-Flights
+                          - heading "Flights to DPS Airport - Roundtrip Starting from S$149" [level=3] [ref=e1060]
+                          - generic [ref=e1066]:
+                            - generic [ref=e1068]: Expedia
+                            - generic [ref=e1069]: https://www.expedia.com.sg
+                        - button "Why this ad?" [ref=e1072] [cursor=pointer]:
+                          - img [ref=e1074]
+                      - generic [ref=e1079]:
+                        - emphasis [ref=e1080]: Flights
+                        - text: to DPS Airport, Denpasar. View
+                        - emphasis [ref=e1081]: Deals
+                        - text: and Book Now on Expedia. Search by Change...
+                      - generic [ref=e1083]:
+                        - img "Rated4.2out of5" [ref=e1085]
+                        - generic [ref=e1087]:
+                          - link "Rating" [ref=e1088] [cursor=pointer]:
+                            - /url: https://www.google.com/shopping/ratings/account/metrics?q=expedia.com.sg&c=SG&v=19
+                          - text: "for expedia.com.sg: 4.2 - 1,184 reviews"
+                      - generic [ref=e1090]:
+                        - text: ‎
+                        - link "Last Minute Deals" [ref=e1091] [cursor=pointer]:
+                          - /url: https://www.expedia.com.sg/g/c/lastminute?locale=en_SG&siteid=14&sl=lmd&semcid=%7B_semcid%7D
+                        - text: · ‎
+                        - link "One-Way as Low as S$106" [ref=e1092] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwiMk6qj7_aTAxXMi8IIHa83OAgYACICCAIQBxoCamY&co=1&ase=2&gclid=EAIaIQobChMIjJOqo-_2kwMVzIvCCB2vNzgIEAMYAiAFEgKMpvD_BwE&cid=CAASuwHkaF-f4clPHZhJRWGCXXL7IdILkM7kn7EMy7Qkn-gIsP2UZvfm8spwgKqNNkYUZ8J358cNu-a7tvXKnYfQw0mmU2oWJwigx_ntS6STvtxzUcRfMuo9RSOdid-5g4fqJHixDpsFtRQKrRmchyUuCpQrbCeJG5Cf6I1vpMBKeuS1AYvIH0L0u0EvBMJNLcdGv2EKLQoiN8cUAR37AvDm5CbqZ8ElwdzUVMZNWtk-uQZJ9LFptzuyCYT5zzWI&cce=2&category=acrcp_v1_32&sig=AOD64_0E4H0Dil5Ns0bXMGNhp5mfp9nQqA&adurl=&q=
+                        - text: · ‎
+                        - link "One-Way Flights" [ref=e1093] [cursor=pointer]:
+                          - /url: https://www.expedia.com.sg/%7B_destprefix%7D%7B_regionid%7D%7B_pagetypeflight%7D?locale=en_SG&siteid=14&sl=owf
+                        - text: · ‎
+                        - link "Round Trip Flights" [ref=e1094] [cursor=pointer]:
+                          - /url: https://www.expedia.com.sg/%7B_destprefix%7D%7B_regionid%7D%7B_pagetypeflight%7D?locale=en_SG&siteid=14&sl=rtf
+                        - text: · ‎
+                        - link "Flight Deals" [ref=e1095] [cursor=pointer]:
+                          - /url: https://www.expedia.com.sg/%7B_destprefix%7D%7B_regionid%7D%7B_pagetypeflight%7D?locale=en_SG&siteid=14&sl=fld
+                  - button "Hide sponsored results" [ref=e1096] [cursor=pointer]:
+                    - separator [ref=e1097]
+                    - generic [ref=e1098]:
+                      - generic [ref=e1099]: Hide sponsored results
+                      - img [ref=e1101]
+        - navigation [ref=e1105]:
+          - heading "Page navigation" [level=1] [ref=e1106]
+          - text: "1"
+          - link "Page 2" [ref=e1109] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=10&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAE
+            - text: "2"
+          - link "Page 3" [ref=e1111] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=20&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAG
+            - text: "3"
+          - link "Page 4" [ref=e1113] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=30&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAI
+            - text: "4"
+          - link "Page 5" [ref=e1115] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=40&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAK
+            - text: "5"
+          - link "Page 6" [ref=e1117] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=50&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAM
+            - text: "6"
+          - link "Page 7" [ref=e1119] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=60&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAO
+            - text: "7"
+          - link "Page 8" [ref=e1121] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=70&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAQ
+            - text: "8"
+          - link "Page 9" [ref=e1123] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=80&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAS
+            - text: "9"
+          - link "Page 10" [ref=e1125] [cursor=pointer]:
+            - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=90&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8tMDegQINxAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e1127]:
+            - link "Next" [ref=e1128] [cursor=pointer]:
+              - /url: /search?q=cheapest+flights+Singapore+to+Bali+today&sca_esv=1b2e90cde7e2044e&ei=pzHjafvrGb3HruEP94DawA4&start=10&sa=N&sstk=Af77f_euyAKqLjPs0oWQzuyYTgxg9OukUZ9wMRoqtZqL-8mbCTskOiAZO4-FqnDcTzWboOu1nQCXDafNpOL-vfbGGaU9O2jalaFbSA&ved=2ahUKEwi726Oj7_aTAxW9oysGHXeAFugQ8NMDegQINxAW
+              - generic [ref=e1130]: Next
+        - navigation
+      - complementary [ref=e1131]
+    - contentinfo [ref=e1132]:
+      - heading "Footer links" [level=1] [ref=e1133]
+      - generic [ref=e1137]:
+        - generic [ref=e1139]:
+          - text: Singapore
+          - generic [ref=e1141]:
+            - button "Bedok - From your IP address" [ref=e1143] [cursor=pointer]:
+              - generic [ref=e1144]: Bedok
+              - generic [ref=e1146]:
+                - text: "-"
+                - generic [ref=e1147]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e1149] [cursor=pointer]: Update location
+        - generic [ref=e1152]:
+          - link "Help" [ref=e1153] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-SG&fg=1
+          - link "Send feedback" [ref=e1154] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1155] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-SG&fg=1
+          - link "Terms" [ref=e1156] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-SG&fg=1

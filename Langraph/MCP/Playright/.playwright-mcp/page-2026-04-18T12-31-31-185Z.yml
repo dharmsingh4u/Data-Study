@@ -1,0 +1,762 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-SG
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4QPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: hotels in Sydney under 100 dollars per night hotels in Sydney under 100 dollars per night
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dhotels%2Bin%2BSydney%2Bunder%2B100%2Bdollars%2Bper%2Bnight&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&aep=1&ntc=1&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q2J8OegQIDhAI
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Images" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&q=hotels+in+Sydney+under+100+dollars+per+night&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4QtKgLegQIEBAB
+              - generic [ref=e91]: Images
+          - listitem [ref=e92]:
+            - link "Forums" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&q=hotels+in+Sydney+under+100+dollars+per+night&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Qs6gLegQIERAB
+              - generic [ref=e95]: Forums
+          - listitem [ref=e96]:
+            - link "Shopping" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&q=hotels+in+Sydney+under+100+dollars+per+night&ved=1t:220175&ictx=111
+              - generic [ref=e99]: Shopping
+          - listitem [ref=e100]:
+            - link "News" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&q=hotels+in+Sydney+under+100+dollars+per+night&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q0pQJegQIFhAB
+              - generic [ref=e103]: News
+          - listitem [ref=e104]:
+            - link "Videos" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ8Bm9ga8Kr1fo9To-B7HQDE04Hl7Vp8k5YVfuFlDhvbzUbHWkhiLALEIiZ6Oz_x4ClgqF4XdQ0r73L-jW3FSZrEdkBnByXHlMkRFdSsiWbSSByGxektNTSU5KHnXUM6Pi1DxJJyr4pfAUi05KTX4GpDLLCAvQ&q=hotels+in+Sydney+under+100+dollars+per+night&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4QtKgLegQIGBAB
+              - generic [ref=e107]: Videos
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e124]
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - region "Ads" [ref=e134]:
+          - generic [ref=e135]:
+            - heading "Sponsored results" [level=2] [ref=e141]
+            - generic [ref=e142]:
+              - generic [ref=e148]:
+                - generic [ref=e154]:
+                  - generic [ref=e155]:
+                    - link "Best Sydney Hotel Deals | Book Boutique Hotels In Sydney Booking.com https://www.booking.com" [ref=e156] [cursor=pointer]:
+                      - /url: https://www.booking.com/luxury/city/au/sydney.en-gb.html
+                      - heading "Best Sydney Hotel Deals | Book Boutique Hotels In Sydney" [level=3] [ref=e157]
+                      - generic [ref=e163]:
+                        - generic [ref=e165]: Booking.com
+                        - generic [ref=e166]: https://www.booking.com
+                    - button "Why this ad?" [ref=e169] [cursor=pointer]:
+                      - img [ref=e171]
+                  - generic [ref=e175]: Choose from a wide range of properties which Booking.com offers. Choose From a Wide Range of Properties Which Booking.com Offers.
+                  - generic [ref=e177]:
+                    - text: ‎
+                    - link "Hotels at Great Prices" [ref=e178] [cursor=pointer]:
+                      - /url: http://www.booking.com/go.html?slc=gp;aid=2443168;label=
+                    - text: · ‎
+                    - link "Top Luxury Hotels In Sydney" [ref=e179] [cursor=pointer]:
+                      - /url: /aclk?sa=L&pf=1&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQDRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYASADEgK2ovD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_32&sig=AOD64_08-a_TkQXz6L3e5vVuRak1Et6shw&adurl=https://www.booking.com/luxury/city/au/sydney.en-gb.html%3Faid%3D2443168%26label%3Dgoogle-oonmyWalkP5nRIRrzeK3rgS780390982737:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-8106551384:lp9062546:li:dec:dm:cid22892020742:agid191467852212%26gad_source%3D1%26gad_campaignid%3D22892020742%26gbraid%3D0AAAAAD_Ls1IgzUgefp_snirYPJqeMgftc%26gclid%3DEAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYASADEgK2ovD_BwE&q=
+                    - text: · ‎
+                    - link "Near Central Business District" [ref=e180] [cursor=pointer]:
+                      - /url: /aclk?sa=L&pf=1&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQDxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYASAEEgJ9AfD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_32&sig=AOD64_0_MZHKeyOzte8tYOkqSU5-0v5lBQ&adurl=https://www.booking.com/luxury/city/au/sydney.en-gb.html%3Faid%3D2443168%26label%3Dgoogle-oonmyWalkP5nRIRrzeK3rgS780390982737:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-8106551384:lp9062546:li:dec:dm:cid22892020742:agid191467852212%26gad_source%3D1%26gad_campaignid%3D22892020742%26gbraid%3D0AAAAAD_Ls1IgzUgefp_snirYPJqeMgftc%26gclid%3DEAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYASAEEgJ9AfD_BwE&q=
+                    - text: · ‎
+                    - link "Book Now" [ref=e181] [cursor=pointer]:
+                      - /url: http://www.booking.com/go.html?slc=bn;aid=2443168;label=
+                  - generic [ref=e186]: 1M+ visits in past month
+                - generic [ref=e192]:
+                  - link "Image from agoda.com" [ref=e194] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQDBoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAiADEgIcZvD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_35&sig=AOD64_1F86MCTKGM5Wc3m6VGwNm-kYmDMw&q=&nis=4&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Qh78CegQIFxAB&adurl=
+                    - img "Image from agoda.com" [ref=e196]
+                  - generic [ref=e197]:
+                    - link "Cheap Hotel Sydney CBD | Lowest Price Guarantee Agoda.com https://www.agoda.com › sydney_cbd › hotel" [ref=e198] [cursor=pointer]:
+                      - /url: https://www.agoda.com/
+                      - heading "Cheap Hotel Sydney CBD | Lowest Price Guarantee" [level=3] [ref=e200]
+                      - generic [ref=e206]:
+                        - generic [ref=e208]: Agoda.com
+                        - generic [ref=e209]: https://www.agoda.com › sydney_cbd › hotel
+                    - button "Why this ad?" [ref=e212] [cursor=pointer]:
+                      - img [ref=e214]
+                  - generic [ref=e219]:
+                    - text: Cheap
+                    - emphasis [ref=e220]: Hotel Sydney
+                    - text: CBD - Best Prices Guaranteed with Deals, Special Member Prices. Cheap
+                    - emphasis [ref=e221]: Hotel Sydney
+                    - text: CBD - Read Reviews from Verified Guests to Get the Real Story. Special Rates.
+                  - generic [ref=e223]:
+                    - text: ‎
+                    - link "Last Minute Deals" [ref=e224] [cursor=pointer]:
+                      - /url: https://www.agoda.com/en-us/index.html
+                    - text: · ‎
+                    - link "Hotels in Sydney Cbd" [ref=e225] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQEBoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAiAEEgKSEfD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_35&sig=AOD64_3C_ZdaA3HCNU_jVl0C-JmvkDtMdQ&adurl=&q=
+                    - text: · ‎
+                    - link "Special Rates in Sydney Cbd" [ref=e226] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQEhoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAiAFEgLv-vD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_35&sig=AOD64_1yO6Vi6CeqpDsAPunyRQKiumr-wA&adurl=&q=
+                    - text: · ‎
+                    - link "Hotel and Flight Package" [ref=e227] [cursor=pointer]:
+                      - /url: https://www.agoda.com/en-us/packages
+                - generic [ref=e233]:
+                  - link "Image from trip.com" [ref=e235] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQDhoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAyADEgJXePD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_71&sig=AOD64_2e5TK_BHEpHBY_f2qtUSle_QVUXA&q=&nis=4&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Qh78CegQIFRAB&adurl=
+                    - img "Image from trip.com" [ref=e237]
+                  - generic [ref=e238]:
+                    - link "Sydney CBD Hotels | Book hotels in Sydney Trip.com https://sg.trip.com › hotel-deals › sydney" [ref=e239] [cursor=pointer]:
+                      - /url: https://sg.trip.com/hotels/sydney-hotels-list-501/
+                      - heading "Sydney CBD Hotels | Book hotels in Sydney" [level=3] [ref=e241]
+                      - generic [ref=e247]:
+                        - generic [ref=e249]: Trip.com
+                        - generic [ref=e250]: https://sg.trip.com › hotel-deals › sydney
+                    - button "Why this ad?" [ref=e253] [cursor=pointer]:
+                      - img [ref=e255]
+                  - generic [ref=e260]:
+                    - text: Find low priced
+                    - emphasis [ref=e261]: hotels in Sydney
+                    - text: on Trip.com and book at discounted prices. We...
+                  - generic [ref=e263]:
+                    - img "Rated4.4out of5" [ref=e265]
+                    - generic [ref=e267]:
+                      - link "Rating" [ref=e268] [cursor=pointer]:
+                        - /url: https://www.google.com/shopping/ratings/account/metrics?q=trip.com&c=SG&v=19
+                      - text: "for trip.com: 4.4 - 5,275 reviews"
+                  - generic [ref=e270]:
+                    - text: ‎
+                    - link "900+ Sydney Hotels" [ref=e271] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQERoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAyAEEgJE7_D_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_71&sig=AOD64_013PmUNr1lSrZt634I5AhsVfr8VQ&adurl=&q=
+                    - text: · ‎
+                    - link "Hotels in Sydney with Central Locations" [ref=e272] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAEQExoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAAYAyAFEgLKcPD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_71&sig=AOD64_0EuU43yy7O7NBqA7fVJvF0Xm1iMg&adurl=&q=
+                    - text: · ‎
+                    - link "Exclusive Hotel Deals" [ref=e273] [cursor=pointer]:
+                      - /url: https://sg.trip.com/hotels?allianceid=30074&sid=4062039
+                    - text: · ‎
+                    - link "Flight Deals" [ref=e274] [cursor=pointer]:
+                      - /url: https://sg.trip.com/flights?allianceid=30074&sid=4062039
+                - generic [ref=e280]:
+                  - generic [ref=e281]:
+                    - link "16 Best Hotels in Sydney. Hotels from S$ 46/night - KAYAK KAYAK https://www.kayak.sg" [ref=e282] [cursor=pointer]:
+                      - /url: https://www.kayak.sg/Sydney-Hotels.2258.hotel.ksp
+                      - heading "16 Best Hotels in Sydney. Hotels from S$ 46/night - KAYAK" [level=3] [ref=e283]
+                      - generic [ref=e289]:
+                        - generic [ref=e291]: KAYAK
+                        - generic [ref=e292]: https://www.kayak.sg
+                    - button "Why this ad?" [ref=e295] [cursor=pointer]:
+                      - img [ref=e297]
+                  - generic [ref=e302]:
+                    - text: Search, Compare & Find Amazing
+                    - emphasis [ref=e303]: Hotel
+                    - text: Rates In Seconds. Book with Confidence! Create a
+                    - emphasis [ref=e304]: Hotel
+                    - text: Price Alert and Monitor Room Rates for Specific Travel Dates.
+                  - generic [ref=e306]:
+                    - text: ‎
+                    - link "Hotels in Kuala Lumpur." [ref=e307] [cursor=pointer]:
+                      - /url: https://www.kayak.sg/Kuala-Lumpur-Hotels.4723.hotel.ksp
+                    - text: · ‎
+                    - link "KAYAK Hotel Search" [ref=e308] [cursor=pointer]:
+                      - /url: https://www.kayak.sg/hotels
+              - button "Hide sponsored results" [ref=e309] [cursor=pointer]:
+                - separator [ref=e310]
+                - generic [ref=e311]:
+                  - generic [ref=e312]: Hide sponsored results
+                  - img [ref=e314]
+        - generic [ref=e325]:
+          - generic [ref=e327]:
+            - heading "Hotels | Sydney NSW, Australia" [level=2] [ref=e328]
+            - button "More info" [ref=e331] [cursor=pointer]:
+              - generic "More info" [ref=e332]:
+                - img [ref=e333]
+          - generic [ref=e335]:
+            - generic [ref=e338]:
+              - status
+              - button "Select check-in date. Current check-in date is Sat, 18 Apr" [ref=e340] [cursor=pointer]:
+                - img [ref=e342]
+                - generic [ref=e344]: Sat, 18 Apr
+              - button "Select check-out date. Current check-out date is Sun, 19 Apr" [ref=e346] [cursor=pointer]:
+                - img [ref=e348]
+                - generic [ref=e350]: Sun, 19 Apr
+            - button "Select number of guests. Current selection is 2 guests" [ref=e355] [cursor=pointer]:
+              - generic [ref=e357]:
+                - img [ref=e360]
+                - generic [ref=e362]: "2"
+                - img [ref=e365]
+            - generic [ref=e368]:
+              - list [ref=e371]:
+                - link "Under $100" [ref=e372] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:64160
+                  - listitem [ref=e373]:
+                    - generic [ref=e375]:
+                      - img [ref=e377]
+                      - generic [ref=e379]: Under $100
+                - link "For tonight" [ref=e380] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:75346
+                  - listitem [ref=e381]:
+                    - generic [ref=e383]:
+                      - img [ref=e385]
+                      - generic [ref=e387]: For tonight
+                - link "Top-rated" [ref=e388] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDwoFOgNTR0QiBBICEGQoCA&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:54362
+                  - listitem [ref=e389]:
+                    - generic [ref=e392]: Top-rated
+                - link "Budget options" [ref=e393] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDgoFOgNTR0QiBRIDEJYB&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:54363
+                  - listitem [ref=e394]:
+                    - generic [ref=e397]: Budget options
+                - link "Luxury stays" [ref=e398] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqEQoJEgIEBToDU0dEIgQSAhBk&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:54364
+                  - listitem [ref=e399]:
+                    - generic [ref=e402]: Luxury stays
+                - link "Free cancellation" [ref=e403] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDwoHIAE6A1NHRCIEEgIQZA&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:104374
+                  - listitem [ref=e404]:
+                    - generic [ref=e407]: Free cancellation
+                - link "Deals" [ref=e408] [cursor=pointer]:
+                  - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDwoFOgNTR0QiBBICEGQwAQ&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:64157
+                  - listitem [ref=e409]:
+                    - generic [ref=e412]: Deals
+              - button [ref=e413] [cursor=pointer]:
+                - img [ref=e416]
+          - generic [ref=e421]:
+            - generic [ref=e422]:
+              - generic "Hotel suggestions" [ref=e423]:
+                - generic [ref=e424]:
+                  - link "Darling Harbour $74 4.3 out of 5 stars from 7 reviews, Free Wi-Fi · Free breakfast" [ref=e427] [cursor=pointer]:
+                    - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAEyE0Nnb0kxTG5yNUtTUHlyaEVFQUU4CkIJETsKcqaqmAzCQgkRfd3Kt1DxY4tCCRHoaeKaIAATWVpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188
+                    - generic [ref=e428]:
+                      - generic [ref=e430]:
+                        - button "Previous" [ref=e431]:
+                          - img [ref=e434]
+                        - generic [ref=e436]:
+                          - generic:
+                            - list:
+                              - listitem [ref=e437]:
+                                - img "Darling Harbour image 1 of 6" [ref=e440]
+                              - listitem [ref=e441]:
+                                - img [ref=e444]
+                              - listitem [ref=e445]:
+                                - img [ref=e448]
+                        - button "Next" [ref=e449]:
+                          - img [ref=e452]
+                      - generic [ref=e454]:
+                        - generic [ref=e455]:
+                          - generic [ref=e457]: Darling Harbour
+                          - generic [ref=e459]: $74
+                        - link "4.3 out of 5 stars from 7 reviews," [ref=e461]:
+                          - img "Rated 4.3 out of 5, 7 user reviews" [ref=e462]:
+                            - text: "4.3"
+                            - img [ref=e463]
+                            - text: (7)
+                        - generic [ref=e469]:
+                          - generic [ref=e471]:
+                            - img [ref=e474]
+                            - generic [ref=e476]: Free Wi-Fi
+                          - generic [ref=e477]: ·
+                          - generic [ref=e479]:
+                            - img [ref=e482]
+                            - generic [ref=e484]: Free breakfast
+                  - link "Azzurro Pod Hotel - City Darling Harbour $61 4.2 out of 5 stars from 497 reviews, Great deal 34% less than usual Free Wi-Fi · Free breakfast" [ref=e488] [cursor=pointer]:
+                    - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAEyE0Nnb0k1T21Ldi1lb3ZvdDdFQUU4CkIJETsKcqaqmAzCQgkRfd3Kt1DxY4tCCRHoaeKaIAATWVpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188
+                    - generic [ref=e489]:
+                      - generic [ref=e491]:
+                        - button "Previous" [ref=e492]:
+                          - img [ref=e495]
+                        - generic [ref=e497]:
+                          - generic:
+                            - list:
+                              - listitem [ref=e498]:
+                                - img "Azzurro Pod Hotel - City Darling Harbour image 1 of 6" [ref=e501]
+                              - listitem [ref=e502]:
+                                - img [ref=e505]
+                              - listitem [ref=e506]:
+                                - img [ref=e509]
+                        - button "Next" [ref=e510]:
+                          - img [ref=e513]
+                      - generic [ref=e515]:
+                        - generic [ref=e516]:
+                          - generic [ref=e518]: Azzurro Pod Hotel - City Darling Harbour
+                          - generic [ref=e520]: $61
+                        - link "4.2 out of 5 stars from 497 reviews," [ref=e522]:
+                          - img "Rated 4.2 out of 5, 497 user reviews" [ref=e523]:
+                            - text: "4.2"
+                            - img [ref=e524]
+                            - text: (497)
+                        - generic [ref=e528]:
+                          - generic [ref=e530]:
+                            - generic [ref=e532]:
+                              - generic:
+                                - generic: Great deal
+                            - generic [ref=e533]: 34% less than usual
+                          - generic [ref=e536]:
+                            - generic [ref=e538]:
+                              - img [ref=e541]
+                              - generic [ref=e543]: Free Wi-Fi
+                            - generic [ref=e544]: ·
+                            - generic [ref=e546]:
+                              - img [ref=e549]
+                              - generic [ref=e551]: Free breakfast
+                  - link "Summer House Sydney City $69 4.0 out of 5 stars from 861 reviews, 3-star hotel Great price for a three-star hotel Relaxed hostel with complimentary Wi-Fi" [ref=e555] [cursor=pointer]:
+                    - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAEyE0Nnb0lxS09ucy12anU1aEZFQUU4CkIJETsKcqaqmAzCQgkRfd3Kt1DxY4tCCRHoaeKaIAATWVpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188
+                    - generic [ref=e556]:
+                      - generic [ref=e558]:
+                        - button "Previous" [ref=e559]:
+                          - img [ref=e562]
+                        - generic [ref=e564]:
+                          - generic:
+                            - list:
+                              - listitem [ref=e565]:
+                                - img "Summer House Sydney City image 1 of 6" [ref=e568]
+                              - listitem [ref=e569]:
+                                - img [ref=e572]
+                              - listitem [ref=e573]:
+                                - img [ref=e576]
+                        - button "Next" [ref=e577]:
+                          - img [ref=e580]
+                      - generic [ref=e582]:
+                        - generic [ref=e583]:
+                          - generic [ref=e585]: Summer House Sydney City
+                          - generic [ref=e587]: $69
+                        - link "4.0 out of 5 stars from 861 reviews, 3-star hotel" [ref=e589]:
+                          - img "Rated 4.0 out of 5, 861 user reviews" [ref=e590]:
+                            - text: "4.0"
+                            - img [ref=e591]
+                            - text: (861)
+                          - text: ·
+                          - generic [ref=e594]: 3-star hotel
+                        - generic [ref=e596]:
+                          - generic [ref=e598]:
+                            - generic [ref=e600]:
+                              - generic:
+                                - generic: Great price
+                            - generic [ref=e601]: for a three-star hotel
+                          - generic [ref=e604]: Relaxed hostel with complimentary Wi-Fi
+              - link "See more" [ref=e606] [cursor=pointer]:
+                - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAE4BkIJETsKcqaqmAzCQgkRfd3Kt1DxY4tCCRHoaeKaIAATWVpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=aAE&ictx=111&ved=1t:195904
+                - separator [ref=e607]
+                - generic [ref=e608]:
+                  - generic [ref=e609]: See more
+                  - img [ref=e611]
+            - link "View larger map" [ref=e615] [cursor=pointer]:
+              - generic [ref=e616]:
+                - generic:
+                  - generic [ref=e618]:
+                    - img [ref=e620]
+                    - text: $118
+                  - img [ref=e623]
+                  - generic [ref=e627]:
+                    - img [ref=e629]
+                    - text: $121
+                  - img [ref=e632]
+                  - generic [ref=e636]:
+                    - img [ref=e638]
+                    - text: $67
+                  - img [ref=e641]
+                  - generic [ref=e645]:
+                    - img [ref=e647]
+                    - text: $195
+                  - img [ref=e650]
+                  - generic [ref=e654]:
+                    - img [ref=e656]
+                    - text: $94
+                  - img [ref=e659]
+                  - generic [ref=e663]:
+                    - img [ref=e665]
+                    - text: $69
+                  - img [ref=e668]
+                  - generic [ref=e672]:
+                    - img [ref=e674]
+                    - text: $61
+                  - img [ref=e677]
+                  - generic [ref=e681]:
+                    - img [ref=e683]
+                    - text: $74
+                  - img [ref=e686]
+              - link [ref=e690]:
+                - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=SAFoAQ&ictx=111&ved=1t:206005
+                - link [ref=e691]
+              - link "View larger map" [ref=e696]:
+                - /url: /travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,72958624,73059275,73064764,121529350&hl=en-SG&gl=sg&ssta=1&q=hotels+in+Sydney+under+100+dollars+per+night&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAEGBISBwjqDxAEGBMYATICCAEqDQoFOgNTR0QiBBICEGQ&qs=CAE4BlpmMmSqAWEQASoKIgZob3RlbHMoADIfEAEiG5GuLoiDe7au-CT8C9vNBH33FKucXeHNPDPHSDIwEAIiLGhvdGVscyBpbiBzeWRuZXkgdW5kZXIgMTAwIGRvbGxhcnMgcGVyIG5pZ2h0&ap=SAFoAQ&ictx=111&ved=1t:159633
+                - img [ref=e698]
+                - generic: View larger map
+      - main [ref=e700]:
+        - generic [ref=e704]:
+          - generic [ref=e707]:
+            - heading "Web results" [level=2] [ref=e708]
+            - generic [ref=e709]:
+              - generic [ref=e712]:
+                - link "16 Best Hotels in Sydney. Hotels from S$ 46/night KAYAK https://www.kayak.sg › ... › Hotels in Blue Mountains" [ref=e714] [cursor=pointer]:
+                  - /url: https://www.kayak.sg/Sydney-Hotels.2258.hotel.ksp
+                  - heading "16 Best Hotels in Sydney. Hotels from S$ 46/night" [level=3] [ref=e715]
+                  - generic [ref=e720]:
+                    - generic [ref=e722]: KAYAK
+                    - generic [ref=e724]: https://www.kayak.sg › ... › Hotels in Blue Mountains
+                - button "About this result" [ref=e725] [cursor=pointer]:
+                  - img [ref=e728]
+              - generic [ref=e732]:
+                - text: Looking for
+                - emphasis [ref=e733]: Sydney
+                - text: Hotel? 2-star hotels from S$ 46, 3 stars from S$ 79 and 4 stars+ from S$ 50. Stay at ibis budget Sydney Airport from S$ 99/night, ...
+          - generic [ref=e737]:
+            - generic [ref=e740]:
+              - link "Sydney hotels with rates starting from $69 | Skyscanner skyscanner.com.sg https://www.skyscanner.com.sg › ... › New South Wales" [ref=e742] [cursor=pointer]:
+                - /url: https://www.skyscanner.com.sg/hotels/australia/sydney-hotels/ci-27547097
+                - heading "Sydney hotels with rates starting from $69 | Skyscanner" [level=3] [ref=e743]
+                - generic [ref=e748]:
+                  - generic [ref=e750]: skyscanner.com.sg
+                  - generic [ref=e752]: https://www.skyscanner.com.sg › ... › New South Wales
+              - button "About this result" [ref=e753] [cursor=pointer]:
+                - img [ref=e756]
+            - generic [ref=e760]:
+              - text: Find the best deals on
+              - emphasis [ref=e761]: hotels
+              - text: in
+              - emphasis [ref=e762]: Sydney
+              - text: from $69. Compare
+              - emphasis [ref=e763]: accommodation
+              - text: from all the top providers in one search to find your ideal
+              - emphasis [ref=e764]: hotel
+              - text: .
+            - generic [ref=e766]: Starting from $69.00
+          - generic [ref=e770]:
+            - generic [ref=e773]:
+              - link "Hotels in Sydney from $20 - Find Cheap Hotels with momondo momondo.com.au https://www.momondo.com.au › hotels › sydney" [ref=e775] [cursor=pointer]:
+                - /url: https://www.momondo.com.au/hotels/sydney
+                - heading "Hotels in Sydney from $20 - Find Cheap Hotels with momondo" [level=3] [ref=e776]
+                - generic [ref=e781]:
+                  - generic [ref=e783]: momondo.com.au
+                  - generic [ref=e785]: https://www.momondo.com.au › hotels › sydney
+              - button "About this result" [ref=e786] [cursor=pointer]:
+                - img [ref=e789]
+            - generic [ref=e793]:
+              - emphasis [ref=e794]: Search and compare 686 hotels in Sydney
+              - text: for the best hotel deals at momondo. Find the cheapest prices for luxury, boutique, or budget hotels in Sydney.
+          - generic [ref=e798]:
+            - generic [ref=e801]:
+              - link "Find Sydney Budget Hotels from S$99 Expedia https://www.expedia.com.sg › ... › New South Wales" [ref=e803] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney-Hotels-Budget-Hotels.0-0-d178312-tBudgetHotels.Travel-Guide-Filter-Hotels
+                - heading "Find Sydney Budget Hotels from S$99" [level=3] [ref=e804]
+                - generic [ref=e809]:
+                  - generic [ref=e811]: Expedia
+                  - generic [ref=e813]: https://www.expedia.com.sg › ... › New South Wales
+              - button "About this result" [ref=e814] [cursor=pointer]:
+                - img [ref=e817]
+            - generic [ref=e820]:
+              - generic [ref=e821]:
+                - text: Our top choices for Sydney cheap hotels ·
+                - emphasis [ref=e822]: Holiday Inn Express Sydney Airport by IHG
+                - text: · Rydges Sydney Airport Hotel · Moxy Sydney Airport · ibis budget Sydney Airport.
+              - link "Read more" [ref=e823] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney-Hotels-Budget-Hotels.0-0-d178312-tBudgetHotels.Travel-Guide-Filter-Hotels#:~:text=Our%20top%20choices%20for%20Sydney,cheap%20hotels&text=Holiday%20Inn%20Express%20Sydney%20Airport,by%20IHG&text=Rydges%20Sydney%20Airport%20Hotel&text=Moxy%20Sydney%20Airport&text=ibis%20budget%20Sydney%20Airport
+          - generic [ref=e827]:
+            - heading "Sponsored results" [level=2] [ref=e833]
+            - generic [ref=e834]:
+              - generic [ref=e840]:
+                - generic [ref=e845]:
+                  - generic [ref=e846]:
+                    - link "Sydney Hotel Rooms | Filter by Good Ratings Booking.com https://www.booking.com" [ref=e847] [cursor=pointer]:
+                      - /url: https://www.booking.com/luxury/city/au/sydney.en-gb.html
+                      - heading "Sydney Hotel Rooms | Filter by Good Ratings" [level=3] [ref=e848]
+                      - generic [ref=e854]:
+                        - generic [ref=e856]: Booking.com
+                        - generic [ref=e857]: https://www.booking.com
+                    - button "Why this ad?" [ref=e860] [cursor=pointer]:
+                      - img [ref=e862]
+                  - generic [ref=e866]: Choose from a wide range of properties which Booking.com offers. Choose From a Wide Range of...
+                  - generic [ref=e871]: 1M+ visits in past month
+                - generic [ref=e876]:
+                  - generic [ref=e877]:
+                    - link "11 Best Hotels in Sydney CBD - Cheap Hotel Rates on Agoda Agoda.com https://www.agoda.com › sydney › accommodation" [ref=e878] [cursor=pointer]:
+                      - /url: https://www.agoda.com/
+                      - heading "11 Best Hotels in Sydney CBD - Cheap Hotel Rates on Agoda" [level=3] [ref=e879]
+                      - generic [ref=e885]:
+                        - generic [ref=e887]: Agoda.com
+                        - generic [ref=e888]: https://www.agoda.com › sydney › accommodation
+                    - button "Why this ad?" [ref=e891] [cursor=pointer]:
+                      - img [ref=e893]
+                  - generic [ref=e898]:
+                    - emphasis [ref=e899]: Sydney
+                    - text: CBD
+                    - emphasis [ref=e900]: Hotel
+                    - text: With Free Parking - Best Prices Guaranteed with Deals, Special Member Prices
+                  - generic [ref=e902]:
+                    - text: ‎
+                    - link "Hotels in Sydney Cbd" [ref=e903] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAIQBRoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAMYAiAEEgKvNfD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_35&sig=AOD64_0q9oKbtWP-BUOxAjjMlCJVoc6rfQ&adurl=&q=
+                    - text: · ‎
+                    - link "2026 Updated Prices & Deals" [ref=e904] [cursor=pointer]:
+                      - /url: /aclk?sa=L&ai=DChsSEwiTooH1s_eTAxVZswMAHe_lNvwYACICCAIQBhoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIk6KB9bP3kwMVWbMDAB3v5Tb8EAMYAiAFEgI7bPD_BwE&cid=CAASuwHkaH8LP9u6L7Eak8Oqflc0gYYUTd08WeZaFQM1GzFyoGMf2nxaNMK2ES4M87XDz9j0ySd1vEXyiimRaZf4jfQUL93yBMIZrfttuxRdEaDbX4dgWu3gM2nSxnq5wwJPT_YG1x5fNAVWUgwWdOMSrLN7gNFTmhQ4gsx1EAR0XsuCNjQeLtyfVh1fkjdbAkwGju2lRpElMZd7YsD6gUWirrUEQksv_v7dAW-tVkbw66mTTx2rWHdWff9Ng7Rs&cce=2&category=acrcp_v1_35&sig=AOD64_1qxwYeJiqB05xFPii8kqKIW_ygJw&adurl=&q=
+                    - text: · ‎
+                    - link "Last Minute Deals" [ref=e905] [cursor=pointer]:
+                      - /url: https://www.agoda.com/en-us/index.html
+                    - text: · ‎
+                    - link "Kuala Lumpur" [ref=e906] [cursor=pointer]:
+                      - /url: https://www.agoda.com/en-us/pages/agoda/default/DestinationSearchResult.aspx?city=14524
+                    - text: · ‎
+                    - link "Japan" [ref=e907] [cursor=pointer]:
+                      - /url: https://www.agoda.com/country/japan.html
+              - button "Hide sponsored results" [ref=e908] [cursor=pointer]:
+                - separator [ref=e909]
+                - generic [ref=e910]:
+                  - generic [ref=e911]: Hide sponsored results
+                  - img [ref=e913]
+          - generic [ref=e919]:
+            - heading "People also ask" [level=2] [ref=e921]
+            - generic [ref=e922]:
+              - button "What is the best area to stay in Sydney on a budget?" [ref=e928] [cursor=pointer]:
+                - generic [ref=e930]: What is the best area to stay in Sydney on a budget?
+                - img [ref=e933]
+              - button "How much is a hotel room in Sydney, Australia?" [ref=e942] [cursor=pointer]:
+                - generic [ref=e944]: How much is a hotel room in Sydney, Australia?
+                - img [ref=e947]
+              - button "How much is a hotel per night in Australia?" [ref=e956] [cursor=pointer]:
+                - generic [ref=e958]: How much is a hotel per night in Australia?
+                - img [ref=e961]
+              - button "What is the cheapest month to stay in Sydney?" [ref=e970] [cursor=pointer]:
+                - generic [ref=e972]: What is the cheapest month to stay in Sydney?
+                - img [ref=e975]
+          - generic [ref=e980]:
+            - heading "Web results" [level=2] [ref=e981]
+            - generic [ref=e982]:
+              - generic [ref=e985]:
+                - link "THE 10 BEST Cheap Hotels in Sydney (with Prices) Tripadvisor https://www.tripadvisor.com.sg › ... › Sydney Hotels" [ref=e987] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.com.sg/HotelsList-Sydney-Cheap-Hotels-zfp7304.html
+                  - heading "THE 10 BEST Cheap Hotels in Sydney (with Prices)" [level=3] [ref=e988]
+                  - generic [ref=e993]:
+                    - generic [ref=e995]: Tripadvisor
+                    - generic [ref=e997]: https://www.tripadvisor.com.sg › ... › Sydney Hotels
+                - button "About this result" [ref=e998] [cursor=pointer]:
+                  - img [ref=e1001]
+              - generic [ref=e1004]:
+                - generic [ref=e1005]:
+                  - text: Cheap Hotels in Sydney ·
+                  - emphasis [ref=e1006]: 1. Song Hotel Sydney
+                  - text: · 2. The Darling · 3. The Sydney Boulevard Hotel · 4. YEHS Hotel - Sydney CBD · 5. ibis Sydney ...
+                - link "Read more" [ref=e1007] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.com.sg/HotelsList-Sydney-Cheap-Hotels-zfp7304.html#:~:text=Cheap%20Hotels%20in%20Sydney&text=1.%20Song%20Hotel%20Sydney&text=2.%20The%20Darling&text=3.%20The%20Sydney%20Boulevard%20Hotel&text=4.%20YEHS%20Hotel%20%2D%20Sydney,CBD&text=5.%20ibis%20Sydney%20Darling%20Harbour
+              - link "hotels in Sydney under 100 dollars per night from www.tripadvisor.com.sg" [ref=e1010] [cursor=pointer]:
+                - /url: https://www.tripadvisor.com.sg/HotelsList-Sydney-Cheap-Hotels-zfp7304.html
+                - img "hotels in Sydney under 100 dollars per night from www.tripadvisor.com.sg" [ref=e1012]
+          - generic [ref=e1016]:
+            - generic [ref=e1019]:
+              - link "9 budget stays in Sydney that are surprisingly stylish Sydney Tourism Website https://www.sydney.com › articles › best-budget-accom..." [ref=e1021] [cursor=pointer]:
+                - /url: https://www.sydney.com/articles/best-budget-accommodation-in-sydney
+                - heading "9 budget stays in Sydney that are surprisingly stylish" [level=3] [ref=e1022]
+                - generic [ref=e1027]:
+                  - generic [ref=e1029]: Sydney Tourism Website
+                  - generic [ref=e1031]: https://www.sydney.com › articles › best-budget-accom...
+              - button "About this result" [ref=e1032] [cursor=pointer]:
+                - img [ref=e1035]
+            - generic [ref=e1038]:
+              - generic [ref=e1039]: 30 Jun 2025 —
+              - generic [ref=e1040]:
+                - text: Here's our guide to
+                - emphasis [ref=e1041]: nine great-value Sydney hotels
+                - text: that offer bang for your buck, style, location and convenience.
+              - link "Read more" [ref=e1042] [cursor=pointer]:
+                - /url: https://www.sydney.com/articles/best-budget-accommodation-in-sydney#:~:text=Here's%20our%20guide%20to%20nine,buck%2C%20style%2C%20location%20and%20convenience.
+          - generic [ref=e1046]:
+            - generic [ref=e1049]:
+              - link "Sydney Hotels from AU$167! - Cheapest Accommodation ... Lastminute.com.au https://www.lastminute.com.au › ... › New South Wales" [ref=e1051] [cursor=pointer]:
+                - /url: https://www.lastminute.com.au/Sydney-Hotels.d178312.Travel-Guide-Hotels
+                - heading "Sydney Hotels from AU$167! - Cheapest Accommodation ..." [level=3] [ref=e1052]
+                - generic [ref=e1057]:
+                  - generic [ref=e1059]: Lastminute.com.au
+                  - generic [ref=e1061]: https://www.lastminute.com.au › ... › New South Wales
+              - button "About this result" [ref=e1062] [cursor=pointer]:
+                - img [ref=e1065]
+            - generic [ref=e1069]:
+              - text: Love Last Minute Deals on Sydney Hotels?
+              - emphasis [ref=e1070]: Find Cheap Sydney Accommodation from AU$167
+              - text: ", backed by our Best Price Pledge. FREE cancellation on select hotels."
+          - generic [ref=e1074]:
+            - generic [ref=e1077]:
+              - 'link "Best Budget & Cheap Hotels Sydney: Affordable Stays from ... Sydney Expert https://sydneyexpert.com › Accommodation" [ref=e1079] [cursor=pointer]':
+                - /url: https://sydneyexpert.com/budget-hotels-sydney/
+                - 'heading "Best Budget & Cheap Hotels Sydney: Affordable Stays from ..." [level=3] [ref=e1080]'
+                - generic [ref=e1085]:
+                  - generic [ref=e1087]: Sydney Expert
+                  - generic [ref=e1089]: https://sydneyexpert.com › Accommodation
+              - button "About this result" [ref=e1090] [cursor=pointer]:
+                - img [ref=e1093]
+            - generic [ref=e1096]:
+              - generic [ref=e1097]: 4 Feb 2026 —
+              - generic [ref=e1098]:
+                - emphasis [ref=e1099]: Find the best cheap and affordable hotels in Sydney from $130/night
+                - text: . Local picks for CBD, harbour views, beaches and eastern suburbs.
+          - generic [ref=e1103]:
+            - generic [ref=e1106]:
+              - 'link "Help: Looking for cheapish accommodation : r/sydney Reddit · r/sydney 30+ comments · 2 years ago" [ref=e1108] [cursor=pointer]':
+                - /url: https://www.reddit.com/r/sydney/comments/181swg3/help_looking_for_cheapish_accommodation/
+                - 'heading "Help: Looking for cheapish accommodation : r/sydney" [level=3] [ref=e1109]'
+                - generic [ref=e1114]:
+                  - generic [ref=e1116]: Reddit · r/sydney
+                  - generic [ref=e1118]: 30+ comments · 2 years ago
+              - button "About this result" [ref=e1119] [cursor=pointer]:
+                - img [ref=e1122]
+            - generic [ref=e1125]:
+              - generic [ref=e1126]:
+                - emphasis [ref=e1127]: The Grand Hotel at the corner of Hunter & Pitt in the CBD
+                - text: is less than $150/night believe it or not. Or private rooms in any number of hostels ...
+              - link "Read more" [ref=e1128] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/sydney/comments/181swg3/help_looking_for_cheapish_accommodation/#:~:text=The%20Grand%20Hotel%20at%20the,convenient%20to%20Camperdown%20by%20bus.
+          - generic [ref=e1132]:
+            - generic [ref=e1135]:
+              - link "Best Budget Hotels in Sydney from S$ 85 KAYAK https://www.kayak.sg › ... › Hotels in Sydney" [ref=e1137] [cursor=pointer]:
+                - /url: https://www.kayak.sg/Sydney-Hotels_Budget.Hbu.2258.hotel.ksp
+                - heading "Best Budget Hotels in Sydney from S$ 85" [level=3] [ref=e1138]
+                - generic [ref=e1143]:
+                  - generic [ref=e1145]: KAYAK
+                  - generic [ref=e1147]: https://www.kayak.sg › ... › Hotels in Sydney
+              - button "About this result" [ref=e1148] [cursor=pointer]:
+                - img [ref=e1151]
+            - generic [ref=e1155]:
+              - text: Find & book from
+              - emphasis [ref=e1156]: 1227 budget hotels in Sydney
+              - text: with KAYAK. See the latest prices and availability to find the best deal for you | KAYAK.
+            - link "hotels in Sydney under 100 dollars per night from www.kayak.sg" [ref=e1159] [cursor=pointer]:
+              - /url: https://www.kayak.sg/Sydney-Hotels_Budget.Hbu.2258.hotel.ksp
+              - img "hotels in Sydney under 100 dollars per night from www.kayak.sg" [ref=e1161]
+        - generic [ref=e1163]:
+          - generic [ref=e1168]:
+            - heading "People also search for" [level=2] [ref=e1170]
+            - generic [ref=e1172]:
+              - generic [ref=e1173]:
+                - link "Cheap hotels in sydney under 100 dollars per night" [ref=e1177] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+hotels+in+sydney+under+100+dollars+per+night&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhdEAE
+                  - generic [ref=e1178]:
+                    - generic [ref=e1183]: Cheap hotels in sydney under 100 dollars per night
+                    - img [ref=e1187]
+                - link "Best hotels in sydney under 100 dollars per night" [ref=e1192] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Best+hotels+in+sydney+under+100+dollars+per+night&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhmEAE
+                  - generic [ref=e1193]:
+                    - generic [ref=e1198]: Best hotels in sydney under 100 dollars per night
+                    - img [ref=e1202]
+                - link "Cheap hotels Sydney under $100" [ref=e1207] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+hotels+Sydney+under+%24100&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhhEAE
+                  - generic [ref=e1208]:
+                    - generic [ref=e1213]: Cheap hotels Sydney under $100
+                    - img [ref=e1217]
+                - link "Cheapest accommodation in Sydney for international students" [ref=e1222] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheapest+accommodation+in+Sydney+for+international+students&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhoEAE
+                  - generic [ref=e1223]:
+                    - generic [ref=e1228]: Cheapest accommodation in Sydney for international students
+                    - img [ref=e1232]
+              - generic [ref=e1234]:
+                - link "Cheap hotels Sydney Darling Harbour" [ref=e1238] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+hotels+Sydney+Darling+Harbour&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhjEAE
+                  - generic [ref=e1239]:
+                    - generic [ref=e1244]: Cheap hotels Sydney Darling Harbour
+                    - img [ref=e1248]
+                - link "Cheap hotels in Sydney, Australia" [ref=e1253] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+hotels+in+Sydney,+Australia&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhiEAE
+                  - generic [ref=e1254]:
+                    - generic [ref=e1259]: Cheap hotels in Sydney, Australia
+                    - img [ref=e1263]
+                - link "Airbnb Sydney" [ref=e1268] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Airbnb+Sydney&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhlEAE
+                  - generic [ref=e1269]:
+                    - generic [ref=e1274]: Airbnb Sydney
+                    - img [ref=e1278]
+                - link "Cheap accommodation Sydney Airport" [ref=e1283] [cursor=pointer]:
+                  - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+accommodation+Sydney+Airport&sa=X&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q1QJ6BAhgEAE
+                  - generic [ref=e1284]:
+                    - generic [ref=e1289]: Cheap accommodation Sydney Airport
+                    - img [ref=e1293]
+          - navigation [ref=e1295]:
+            - heading "Page navigation" [level=1] [ref=e1296]
+            - text: "1"
+            - link "Page 2" [ref=e1299] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=10&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAE
+              - text: "2"
+            - link "Page 3" [ref=e1301] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=20&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAG
+              - text: "3"
+            - link "Page 4" [ref=e1303] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=30&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAI
+              - text: "4"
+            - link "Page 5" [ref=e1305] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=40&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAK
+              - text: "5"
+            - link "Page 6" [ref=e1307] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=50&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAM
+              - text: "6"
+            - link "Page 7" [ref=e1309] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=60&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAO
+              - text: "7"
+            - link "Page 8" [ref=e1311] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=70&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAQ
+              - text: "8"
+            - link "Page 9" [ref=e1313] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=80&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAS
+              - text: "9"
+            - link "Page 10" [ref=e1315] [cursor=pointer]:
+              - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=90&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8tMDegQITxAU
+              - text: "10"
+            - heading "Next" [level=2] [ref=e1317]:
+              - link "Next" [ref=e1318] [cursor=pointer]:
+                - /url: /search?q=hotels+in+Sydney+under+100+dollars+per+night&sca_esv=c5f7ccd55e595ca8&ei=oHnjaezhEP65wN4PherT8Ak&start=10&sa=N&sstk=Af77f_cPn0imKG1ZmCeyBROR7fn2fNfTUr7_BipQDR36QahdNTF_st0zGP6LB2ZLTpdmuze4907rYFHhQpIB1eGVjmCJ-uYYDH1e3Q&ved=2ahUKEwjssff0s_eTAxX-HNAFHQX1FJ4Q8NMDegQITxAW
+                - generic [ref=e1320]: Next
+        - navigation
+    - contentinfo [ref=e1321]:
+      - heading "Footer links" [level=1] [ref=e1322]
+      - generic [ref=e1326]:
+        - generic [ref=e1328]:
+          - text: Singapore
+          - generic [ref=e1330]:
+            - button "Bedok - From your IP address" [ref=e1332] [cursor=pointer]:
+              - generic [ref=e1333]: Bedok
+              - generic [ref=e1335]:
+                - text: "-"
+                - generic [ref=e1336]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e1338] [cursor=pointer]: Update location
+        - generic [ref=e1341]:
+          - link "Help" [ref=e1342] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-SG&fg=1
+          - link "Send feedback" [ref=e1343] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1344] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-SG&fg=1
+          - link "Terms" [ref=e1345] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-SG&fg=1

@@ -1,0 +1,9 @@
+[    1155ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.skyscanner.com.sg/g/banana/api/context?previousCultureSource=COOKIE&redirectedFrom=www.skyscanner.com&path=/:0
+[    1248ms] [LOG] %c EvalError
+    at oU (https://www.skyscanner.com.sg/rf8vapwA/init.js:2:72224)
+    at qW (https://www.skyscanner.com.sg/rf8vapwA/init.js:2:77757)
+    at KS (https://www.skyscanner.com.sg/rf8vapwA/init.js:2:233738)
+    at KQ (https://www.skyscanner.com.sg/rf8vapwA/init.js:2:233358)
+    at https://www.skyscanner.com.sg/rf8vapwA/init.js:2:235076
+    at https://www.skyscanner.com.sg/rf8vapwA/init.js:2:235082
+    at https://www.skyscanner.com.sg/rf8vapwA/init.js:2:235547 @ https://www.skyscanner.com.sg/rf8vapwA/init.js:1

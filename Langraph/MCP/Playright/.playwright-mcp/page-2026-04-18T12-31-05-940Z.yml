@@ -1,0 +1,975 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-SG
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0QPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: flights from Singapore to Sydney flights from Singapore to Sydney
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dflights%2Bfrom%2BSingapore%2Bto%2BSydney&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&aep=1&ntc=1&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q2J8OegQIChAI
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Flights" [ref=e89] [cursor=pointer]:
+              - /url: /travel/flights?sca_esv=c5f7ccd55e595ca8&output=search&q=flights+from+Singapore+to+Sydney&source=lnms&mode_promoted=true&impression_in_search=true&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&ved=1t:200715&ictx=111
+              - generic [ref=e91]: Flights
+          - listitem [ref=e92]:
+            - link "News" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&q=flights+from+Singapore+to+Sydney&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q0pQJegQIEhAB
+              - generic [ref=e95]: News
+          - listitem [ref=e96]:
+            - link "Images" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&q=flights+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0QtKgLegQIGxAB
+              - generic [ref=e99]: Images
+          - listitem [ref=e100]:
+            - link "Forums" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&q=flights+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Qs6gLegQIEBAB
+              - generic [ref=e103]: Forums
+          - listitem [ref=e104]:
+            - link "Shopping" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFjzKPapEgCPgp5FnkHrr22I5zutvz3vWeNQbmpz0YdnVLvITuSboblxQQj5ifxYdbAuZQHeouPCq-CY01R9On50LrznW352LWZNwQwvKGzfvWHqc2o2U2NuaEYkMpQiARzcezhMs9PvbPD-LLhbjM-iXX2kMg7p9wtK_7OnpVmp2-lZaxYqKYJD3GMH915jIfceszQ&q=flights+from+Singapore+to+Sydney&ved=1t:220175&ictx=111
+              - generic [ref=e107]: Shopping
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e124]
+    - generic [ref=e129]:
+      - region "Ads" [ref=e132]:
+        - generic [ref=e133]:
+          - heading "Sponsored results" [level=2] [ref=e139]
+          - generic [ref=e140]:
+            - generic [ref=e146]:
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - link "Compare cheap flights for Singapore Changi Airport to Sydney Airport Skyscanner https://www.skyscanner.com.sg" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.skyscanner.com.sg/routes/sin/syd/singapore-changi-to-sydney.html
+                    - heading "Compare cheap flights for Singapore Changi Airport to Sydney Airport" [level=3] [ref=e155]
+                    - generic [ref=e161]:
+                      - generic [ref=e163]: Skyscanner
+                      - generic [ref=e164]: https://www.skyscanner.com.sg
+                  - button "Why this ad?" [ref=e167] [cursor=pointer]:
+                    - img [ref=e169]
+                - generic [ref=e174]:
+                  - text: Find cheap
+                  - emphasis [ref=e175]: flights
+                  - text: for
+                  - emphasis [ref=e176]: Singapore
+                  - text: Changi to
+                  - emphasis [ref=e177]: Sydney
+                  - text: starting from $233. Search and compare from hundreds of airlines to find the best time to
+                  - emphasis [ref=e178]: fly
+                  - text: and the best route, all with no added fees.
+                - generic [ref=e180]:
+                  - img "Rated4.5out of5" [ref=e182]
+                  - generic [ref=e184]:
+                    - link "Rating" [ref=e185] [cursor=pointer]:
+                      - /url: https://www.google.com/shopping/ratings/account/metrics?q=skyscanner.com.sg&c=SG&v=19
+                    - text: "for skyscanner.com.sg: 4.5 - 260 reviews"
+                - generic [ref=e190]: 1M+ visits in past month
+              - generic [ref=e196]:
+                - link "Image from singaporeair.com" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAEQDxoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAAYAiAEEgK25PD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_71&sig=AOD64_0dktNd3UBIHqSJGNzFuSukMRYMNA&q=&nis=4&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Qh78CegQICxAB&adurl=
+                  - img "Image from singaporeair.com" [ref=e200]
+                - generic [ref=e201]:
+                  - link "Singapore to Sydney Flights | Book Early For Greater Savings Singapore Airlines™ https://www.singaporeair.com › booknow" [ref=e202] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en_UK/us/home
+                    - heading "Singapore to Sydney Flights | Book Early For Greater Savings" [level=3] [ref=e204]
+                    - generic [ref=e210]:
+                      - generic [ref=e212]: Singapore Airlines™
+                      - generic [ref=e213]: https://www.singaporeair.com › booknow
+                  - button "Why this ad?" [ref=e216] [cursor=pointer]:
+                    - img [ref=e218]
+                - generic [ref=e223]:
+                  - text: Enjoy all-in fares with
+                  - emphasis [ref=e224]: Singapore
+                  - text: Airlines to over 120 destinations. Book now. Explore the best
+                  - emphasis [ref=e225]: flights
+                  - text: to
+                  - emphasis [ref=e226]: Sydney
+                  - text: ", redefined with world-class service. Exclusive Privileges. Impeccable Service."
+                - generic [ref=e228]:
+                  - text: ‎
+                  - link "Fly Singapore to Sydney" [ref=e229] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en_UK/sg/home%7Bignore%7D?gclsrc=aw.ds&%7B_dsmrktparam%7D#/book/bookflight
+                  - text: · ‎
+                  - link "Book Flights to Sydney" [ref=e230] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAEQEBoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAAYAiAFEgJyaPD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_71&sig=AOD64_2GQAqsqVknLOCmmo1FNAfKKsME0w&adurl=&q=
+                  - text: · ‎
+                  - link "Be a Registered Customer" [ref=e231] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en_UK/plan-travel/promotions/registered-customers?campaign=RUSEM121&utm_source=sem&utm_medium=adwords-sitelink&utm_campaign=sq-ho-ru-ru-always-on&utm_term=english&utm_content=generic
+                  - text: · ‎
+                  - link "Free Unlimited Wi-Fi" [ref=e232] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en_UK/sg/flying-withus/entertainment/inflight-connectivity/
+              - generic [ref=e238]:
+                - generic [ref=e239]:
+                  - link "Cheap Flights to Sydney (SYD) Trip.com https://sg.trip.com › flight-deals › sin-syd" [ref=e240] [cursor=pointer]:
+                    - /url: https://sg.trip.com/flights/singapore-to-sydney/airfares-sin-syd/
+                    - heading "Cheap Flights to Sydney (SYD)" [level=3] [ref=e241]
+                    - generic [ref=e247]:
+                      - generic [ref=e249]: Trip.com
+                      - generic [ref=e250]: https://sg.trip.com › flight-deals › sin-syd
+                  - button "Why this ad?" [ref=e253] [cursor=pointer]:
+                    - img [ref=e255]
+                - generic [ref=e260]:
+                  - emphasis [ref=e261]: Singapore to Sydney
+                  - text: Deals — Go on epic nature escapades and meet new furry friends in
+                  - emphasis [ref=e262]: Sydney
+                  - text: and New South Wales. Limited...
+                - generic [ref=e264]:
+                  - img "Rated4.4out of5" [ref=e266]
+                  - generic [ref=e268]:
+                    - link "Rating" [ref=e269] [cursor=pointer]:
+                      - /url: https://www.google.com/shopping/ratings/account/metrics?q=trip.com&c=SG&v=19
+                    - text: "for trip.com: 4.4 - 5,275 reviews"
+                - generic [ref=e271]:
+                  - text: ‎
+                  - link "Get up to 50%* off" [ref=e272] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAEQChoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAAYAyADEgJl0_D_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_2norTSn_00p17Kb9NBoGvpywvp-w&adurl=&q=
+                  - text: · ‎
+                  - link "Perth To Sydney Flights" [ref=e273] [cursor=pointer]:
+                    - /url: https://sg.trip.com/flights/perth-to-sydney/airfares-per-syd/
+                  - text: · ‎
+                  - link "Find the cheapest flights" [ref=e274] [cursor=pointer]:
+                    - /url: https://sg.trip.com/sale/w/16788/flight-evergreen.html?locale=en-SG&allianceid=30074&sid=4142177
+                  - text: · ‎
+                  - link "Flights to Sydney" [ref=e275] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAEQDBoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAAYAyAEEgJOMPD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_2y8VK-m8uDGUvz8VhmaaVI1SM6eQ&adurl=&q=
+              - generic [ref=e281]:
+                - generic [ref=e282]:
+                  - link "Fly to Singapore | SIA's Low-Cost Airline flyscoot.com https://www.flyscoot.com" [ref=e283] [cursor=pointer]:
+                    - /url: https://www.flyscoot.com/en/
+                    - heading "Fly to Singapore | SIA's Low-Cost Airline" [level=3] [ref=e284]
+                    - generic [ref=e286]:
+                      - img [ref=e291]
+                      - generic [ref=e293]:
+                        - generic [ref=e295]: flyscoot.com
+                        - generic [ref=e296]: https://www.flyscoot.com
+                  - button "Why this ad?" [ref=e299] [cursor=pointer]:
+                    - img [ref=e301]
+                - generic [ref=e306]:
+                  - text: Great value fares to over 80 destinations. More comfort on every journey.
+                  - emphasis [ref=e307]: Fly
+                  - text: with Scoot. Book direct. Earn KrisFlyer miles. Travel in comfort.
+                - generic [ref=e309]:
+                  - text: ‎
+                  - link "Fly in Comfort on ScootPlus" [ref=e310] [cursor=pointer]:
+                    - /url: https://www.flyscoot.com/en/%7Bignore%7D?gclsrc=aw.ds&%7B_dsmrktparam%7D
+                  - text: · ‎
+                  - link "SQ Budget Airline" [ref=e311] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAEQDhoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAAYBCAEEgKIHvD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_71&sig=AOD64_1H-5shYSiRx0GQNCNi-1lmonkE7g&adurl=&q=
+                  - text: · ‎
+                  - link "The Award-Winning LCC" [ref=e312] [cursor=pointer]:
+                    - /url: https://www.flyscoot.com/en/discover/about-scoot/flying-confidently
+                  - text: · ‎
+                  - link "KrisFlyer" [ref=e313] [cursor=pointer]:
+                    - /url: https://www.flyscoot.com/en/discover/escape-with-scoot/krisflyer
+            - button "Hide sponsored results" [ref=e314] [cursor=pointer]:
+              - separator [ref=e315]
+              - generic [ref=e316]:
+                - generic [ref=e317]: Hide sponsored results
+                - img [ref=e319]
+      - generic [ref=e325]:
+        - generic [ref=e330]:
+          - heading "Flights to Sydney" [level=2] [ref=e332]
+          - button "More options for Flights to Sydney" [ref=e338] [cursor=pointer]:
+            - img "More options for Flights to Sydney" [ref=e339]:
+              - img [ref=e341]
+        - navigation [ref=e346]:
+          - tab "Flight Status" [ref=e347] [cursor=pointer]:
+            - generic [ref=e348]:
+              - generic: Flight Status
+          - tab "Flights" [selected] [ref=e349] [cursor=pointer]:
+            - generic [ref=e350]:
+              - generic: Flights
+          - tab "Airports" [ref=e351] [cursor=pointer]:
+            - generic [ref=e352]:
+              - generic: Airports
+      - main [ref=e354]:
+        - tabpanel [ref=e368]:
+          - generic [ref=e372]:
+            - generic [ref=e376]:
+              - heading "Flight prices" [level=2] [ref=e379]
+              - generic [ref=e384]:
+                - generic [ref=e387]:
+                  - generic [ref=e389]:
+                    - img [ref=e391]
+                    - combobox "Singapore (SIN),Enter an origin" [ref=e393]: Singapore (SIN)
+                  - generic [ref=e396]:
+                    - img [ref=e398]
+                    - combobox "Sydney, Australia (SYD),Enter a destination" [ref=e401]: Sydney, Australia (SYD)
+                - generic [ref=e403]:
+                  - generic [ref=e404]:
+                    - img [ref=e406]
+                    - textbox "Departure date . Enter a date or use the arrow keys to change the current date." [ref=e409]:
+                      - /placeholder: "Departure date "
+                      - text: Fri, 15 May
+                    - img [ref=e412] [cursor=pointer]
+                    - img [ref=e416] [cursor=pointer]
+                  - generic [ref=e418]:
+                    - img [ref=e420]
+                    - textbox "Return date . Enter a date or use the arrow keys to change the current date." [ref=e423]:
+                      - /placeholder: "Return date "
+                      - text: Sun, 24 May
+                    - img [ref=e426] [cursor=pointer]
+                    - img [ref=e430] [cursor=pointer]
+                - generic [ref=e435]:
+                  - combobox "Change seating class." [ref=e438] [cursor=pointer]:
+                    - generic [ref=e440]:
+                      - generic [ref=e441]: Economy
+                      - img [ref=e443]
+                  - combobox "Change ticket type." [ref=e447] [cursor=pointer]:
+                    - generic [ref=e449]:
+                      - generic [ref=e450]: Round trip
+                      - img [ref=e452]
+                  - button "Nonstop" [ref=e454] [cursor=pointer]:
+                    - generic [ref=e456]: Nonstop
+                  - button "Less emissions" [ref=e457] [cursor=pointer]:
+                    - generic [ref=e459]: Less emissions
+                - menu "Compare prices for 9-day trips by departure date" [ref=e461] [cursor=pointer]:
+                  - generic [ref=e463]: from $466
+                  - generic [ref=e466]: Apr
+                  - menuitem "Prices from $627. Depart Sunday, 19 April. Return Tuesday, 28 April." [ref=e469]
+                  - generic [ref=e471]: "19"
+                  - generic [ref=e472]: S
+                  - menuitem "Prices from $530. Depart Monday, 20 April. Return Wednesday, 29 April." [ref=e473]
+                  - generic [ref=e475]: "20"
+                  - generic [ref=e476]: M
+                  - menuitem "Prices from $749. Depart Tuesday, 21 April. Return Thursday, 30 April." [ref=e477]
+                  - generic [ref=e479]: "21"
+                  - generic [ref=e480]: T
+                  - menuitem "Prices from $691. Depart Wednesday, 22 April. Return Friday, 1 May." [ref=e481]
+                  - generic [ref=e483]: "22"
+                  - generic [ref=e484]: W
+                  - menuitem "Prices from $835. Depart Thursday, 23 April. Return Saturday, 2 May." [ref=e485]
+                  - generic [ref=e487]: "23"
+                  - generic [ref=e488]: T
+                  - menuitem "Prices from $835. Depart Friday, 24 April. Return Sunday, 3 May." [ref=e489]
+                  - generic [ref=e491]: "24"
+                  - generic [ref=e492]: F
+                  - menuitem "Prices from $650. Depart Saturday, 25 April. Return Monday, 4 May." [ref=e493]
+                  - generic [ref=e495]: "25"
+                  - generic [ref=e496]: S
+                  - menuitem "Prices from $691. Depart Sunday, 26 April. Return Tuesday, 5 May." [ref=e497]
+                  - generic [ref=e499]: "26"
+                  - generic [ref=e500]: S
+                  - menuitem "Prices from $553. Depart Monday, 27 April. Return Wednesday, 6 May." [ref=e501]
+                  - generic [ref=e503]: "27"
+                  - generic [ref=e504]: M
+                  - menuitem "Prices from $553. Depart Tuesday, 28 April. Return Thursday, 7 May." [ref=e505]
+                  - generic [ref=e507]: "28"
+                  - generic [ref=e508]: T
+                  - menuitem "Prices from $899. Depart Wednesday, 29 April. Return Friday, 8 May." [ref=e509]
+                  - generic [ref=e511]: "29"
+                  - generic [ref=e512]: W
+                  - menuitem "Prices from $835. Depart Thursday, 30 April. Return Saturday, 9 May." [ref=e513]
+                  - generic [ref=e515]: "30"
+                  - generic [ref=e516]: T
+                  - generic [ref=e517]: May
+                  - menuitem "Prices from $710. Depart Friday, 1 May. Return Sunday, 10 May." [ref=e519]
+                  - generic [ref=e521]: "1"
+                  - generic [ref=e522]: F
+                  - menuitem "Prices from $660. Depart Saturday, 2 May. Return Monday, 11 May." [ref=e523]
+                  - generic [ref=e525]: "2"
+                  - generic [ref=e526]: S
+                  - menuitem "Prices from $649. Depart Sunday, 3 May. Return Tuesday, 12 May." [ref=e527]
+                  - generic [ref=e529]: "3"
+                  - generic [ref=e530]: S
+                  - menuitem "Prices from $577. Depart Monday, 4 May. Return Wednesday, 13 May." [ref=e531]
+                  - generic [ref=e533]: "4"
+                  - generic [ref=e534]: M
+                  - menuitem "Prices from $555. Depart Tuesday, 5 May. Return Thursday, 14 May." [ref=e535]
+                  - generic [ref=e537]: "5"
+                  - generic [ref=e538]: T
+                  - menuitem "Prices from $530. Depart Wednesday, 6 May. Return Friday, 15 May." [ref=e539]
+                  - generic [ref=e541]: "6"
+                  - generic [ref=e542]: W
+                  - menuitem "Prices from $530. Depart Thursday, 7 May. Return Saturday, 16 May." [ref=e543]
+                  - generic [ref=e545]: "7"
+                  - generic [ref=e546]: T
+                  - menuitem "Prices from $489. Depart Friday, 8 May. Return Sunday, 17 May." [ref=e547]
+                  - generic [ref=e549]: "8"
+                  - generic [ref=e550]: F
+                  - menuitem "Prices from $554. Depart Saturday, 9 May. Return Monday, 18 May." [ref=e551]
+                  - generic [ref=e553]: "9"
+                  - generic [ref=e554]: S
+                  - menuitem "Prices from $553. Depart Sunday, 10 May. Return Tuesday, 19 May." [ref=e555]
+                  - generic [ref=e557]: "10"
+                  - generic [ref=e558]: S
+                  - menuitem "Prices from $554. Depart Monday, 11 May. Return Wednesday, 20 May." [ref=e559]
+                  - generic [ref=e561]: "11"
+                  - generic [ref=e562]: M
+                  - menuitem "Prices from $553. Depart Tuesday, 12 May. Return Thursday, 21 May." [ref=e563]
+                  - generic [ref=e565]: "12"
+                  - generic [ref=e566]: T
+                  - menuitem "Prices from $553. Depart Wednesday, 13 May. Return Friday, 22 May." [ref=e567]
+                  - generic [ref=e569]: "13"
+                  - generic [ref=e570]: W
+                  - menuitem "Prices from $530. Depart Thursday, 14 May. Return Saturday, 23 May." [ref=e571]
+                  - generic [ref=e573]: "14"
+                  - generic [ref=e574]: T
+                  - menuitem "Prices from $466. Depart Friday, 15 May. Return Sunday, 24 May." [ref=e575]
+                  - generic [ref=e577]: "15"
+                  - generic [ref=e578]: F
+                  - menuitem "Prices from $489. Depart Saturday, 16 May. Return Monday, 25 May." [ref=e579]
+                  - generic [ref=e581]: "16"
+                  - generic [ref=e582]: S
+                  - menuitem "Prices from $491. Depart Sunday, 17 May. Return Tuesday, 26 May." [ref=e583]
+                  - generic [ref=e585]: "17"
+                  - generic [ref=e586]: S
+                  - menuitem "Prices from $466. Depart Monday, 18 May. Return Wednesday, 27 May." [ref=e587]
+                  - generic [ref=e589]: "18"
+                  - generic [ref=e590]: M
+                  - menuitem "Prices from $495. Depart Tuesday, 19 May. Return Thursday, 28 May." [ref=e591]
+                  - generic [ref=e593]: "19"
+                  - generic [ref=e594]: T
+                  - menuitem "Prices from $554. Depart Wednesday, 20 May. Return Friday, 29 May." [ref=e595]
+                  - generic [ref=e597]: "20"
+                  - generic [ref=e598]: W
+                  - menuitem "Prices from $530. Depart Thursday, 21 May. Return Saturday, 30 May." [ref=e599]
+                  - generic [ref=e601]: "21"
+                  - generic [ref=e602]: T
+                  - menuitem "Prices from $609. Depart Friday, 22 May. Return Sunday, 31 May." [ref=e603]
+                  - generic [ref=e605]: "22"
+                  - generic [ref=e606]: F
+                  - menuitem "Prices from $697. Depart Saturday, 23 May. Return Monday, 1 June." [ref=e607]
+                  - generic [ref=e609]: "23"
+                  - generic [ref=e610]: S
+                  - menuitem "Prices from $514. Depart Sunday, 24 May. Return Tuesday, 2 June." [ref=e611]
+                  - generic [ref=e613]: "24"
+                  - generic [ref=e614]: S
+                  - menuitem "Prices from $466. Depart Monday, 25 May. Return Wednesday, 3 June." [ref=e615]
+                  - generic [ref=e617]: "25"
+                  - generic [ref=e618]: M
+                  - menuitem "Prices from $495. Depart Tuesday, 26 May. Return Thursday, 4 June." [ref=e619]
+                  - generic [ref=e621]: "26"
+                  - generic [ref=e622]: T
+                  - menuitem "Prices from $554. Depart Wednesday, 27 May. Return Friday, 5 June." [ref=e623]
+                  - generic [ref=e625]: "27"
+                  - generic [ref=e626]: W
+                  - menuitem "Prices from $555. Depart Thursday, 28 May. Return Saturday, 6 June." [ref=e627]
+                  - generic [ref=e629]: "28"
+                  - generic [ref=e630]: T
+                  - menuitem "Prices from $520. Depart Friday, 29 May. Return Sunday, 7 June." [ref=e631]
+                  - generic [ref=e633]: "29"
+                  - generic [ref=e634]: F
+                  - menuitem "Prices from $553. Depart Saturday, 30 May. Return Monday, 8 June." [ref=e635]
+                  - generic [ref=e637]: "30"
+                  - generic [ref=e638]: S
+                  - menuitem "Prices from $530. Depart Sunday, 31 May. Return Tuesday, 9 June." [ref=e639]
+                  - generic [ref=e641]: "31"
+                  - generic [ref=e642]: S
+                  - generic [ref=e643]: Jun
+                  - menuitem "Prices from $491. Depart Monday, 1 June. Return Wednesday, 10 June." [ref=e645]
+                  - generic [ref=e647]: "1"
+                  - generic [ref=e648]: M
+                  - menuitem "Prices from $466. Depart Tuesday, 2 June. Return Thursday, 11 June." [ref=e649]
+                  - generic [ref=e651]: "2"
+                  - generic [ref=e652]: T
+                  - menuitem "Prices from $497. Depart Wednesday, 3 June. Return Friday, 12 June." [ref=e653]
+                  - generic [ref=e655]: "3"
+                  - generic [ref=e656]: W
+                  - menuitem "Prices from $530. Depart Thursday, 4 June. Return Saturday, 13 June." [ref=e657]
+                  - generic [ref=e659]: "4"
+                  - generic [ref=e660]: T
+                  - menuitem "Prices from $584. Depart Friday, 5 June. Return Sunday, 14 June." [ref=e661]
+                  - generic [ref=e663]: "5"
+                  - generic [ref=e664]: F
+                  - menuitem "Prices from $559. Depart Saturday, 6 June. Return Monday, 15 June." [ref=e665]
+                  - generic [ref=e667]: "6"
+                  - generic [ref=e668]: S
+                  - menuitem "Prices from $489. Depart Sunday, 7 June. Return Tuesday, 16 June." [ref=e669]
+                  - generic [ref=e671]: "7"
+                  - generic [ref=e672]: S
+                  - menuitem "Prices from $514. Depart Monday, 8 June. Return Wednesday, 17 June." [ref=e673]
+                  - generic [ref=e675]: "8"
+                  - generic [ref=e676]: M
+                  - menuitem "Prices from $530. Depart Tuesday, 9 June. Return Thursday, 18 June." [ref=e677]
+                  - generic [ref=e679]: "9"
+                  - generic [ref=e680]: T
+                  - menuitem "Prices from $530. Depart Wednesday, 10 June. Return Friday, 19 June." [ref=e681]
+                  - generic [ref=e683]: "10"
+                  - generic [ref=e684]: W
+                  - menuitem "Prices from $584. Depart Thursday, 11 June. Return Saturday, 20 June." [ref=e685]
+                  - generic [ref=e687]: "11"
+                  - generic [ref=e688]: T
+                  - menuitem "Prices from $584. Depart Friday, 12 June. Return Sunday, 21 June." [ref=e689]
+                  - generic [ref=e691]: "12"
+                  - generic [ref=e692]: F
+                  - menuitem "Prices from $609. Depart Saturday, 13 June. Return Monday, 22 June." [ref=e693]
+                  - generic [ref=e695]: "13"
+                  - generic [ref=e696]: S
+                  - menuitem "Prices from $584. Depart Sunday, 14 June. Return Tuesday, 23 June." [ref=e697]
+                  - generic [ref=e699]: "14"
+                  - generic [ref=e700]: S
+                  - menuitem "Prices from $584. Depart Monday, 15 June. Return Wednesday, 24 June." [ref=e701]
+                  - generic [ref=e703]: "15"
+                  - generic [ref=e704]: M
+                  - menuitem "Prices from $652. Depart Tuesday, 16 June. Return Thursday, 25 June." [ref=e705]
+                  - generic [ref=e707]: "16"
+                  - generic [ref=e708]: T
+                  - menuitem "Prices from $652. Depart Wednesday, 17 June. Return Friday, 26 June." [ref=e709]
+                  - generic [ref=e711]: "17"
+                  - generic [ref=e712]: W
+                  - menuitem "Prices from $755. Depart Thursday, 18 June. Return Saturday, 27 June." [ref=e713]
+                  - generic [ref=e715]: "18"
+                  - generic [ref=e716]: T
+                  - menuitem "Prices from $755. Depart Friday, 19 June. Return Sunday, 28 June." [ref=e717]
+                  - generic [ref=e719]: "19"
+                  - generic [ref=e720]: F
+                  - menuitem "Prices from $686. Depart Saturday, 20 June. Return Monday, 29 June." [ref=e721]
+                  - generic [ref=e723]: "20"
+                  - generic [ref=e724]: S
+                  - menuitem "Prices from $686. Depart Sunday, 21 June. Return Tuesday, 30 June." [ref=e725]
+                  - generic [ref=e727]: "21"
+                  - generic [ref=e728]: S
+                  - menuitem "Prices from $686. Depart Monday, 22 June. Return Wednesday, 1 July." [ref=e729]
+                  - generic [ref=e731]: "22"
+                  - generic [ref=e732]: M
+                  - menuitem "Prices from $634. Depart Tuesday, 23 June. Return Thursday, 2 July." [ref=e733]
+                  - generic [ref=e735]: "23"
+                  - generic [ref=e736]: T
+                  - menuitem "Prices from $686. Depart Wednesday, 24 June. Return Friday, 3 July." [ref=e737]
+                  - generic [ref=e739]: "24"
+                  - generic [ref=e740]: W
+                  - menuitem "Prices from $666. Depart Thursday, 25 June. Return Saturday, 4 July." [ref=e741]
+                  - generic [ref=e743]: "25"
+                  - generic [ref=e744]: T
+                  - menuitem "Prices from $686. Depart Friday, 26 June. Return Sunday, 5 July." [ref=e745]
+                  - generic [ref=e747]: "26"
+                  - generic [ref=e748]: F
+                  - menuitem "Prices from $671. Depart Saturday, 27 June. Return Monday, 6 July." [ref=e749]
+                  - generic [ref=e751]: "27"
+                  - generic [ref=e752]: S
+                  - menuitem "Prices from $584. Depart Sunday, 28 June. Return Tuesday, 7 July." [ref=e753]
+                  - generic [ref=e755]: "28"
+                  - generic [ref=e756]: S
+                  - menuitem "Prices from $530. Depart Monday, 29 June. Return Wednesday, 8 July." [ref=e757]
+                  - generic [ref=e759]: "29"
+                  - generic [ref=e760]: M
+                  - menuitem "Prices from $513. Depart Tuesday, 30 June. Return Thursday, 9 July." [ref=e761]
+                  - generic [ref=e763]: "30"
+                  - generic [ref=e764]: T
+                  - generic [ref=e765]: Jul
+                  - menuitem "Prices from $555. Depart Wednesday, 1 July. Return Friday, 10 July." [ref=e767]
+                  - generic [ref=e769]: "1"
+                  - generic [ref=e770]: W
+                  - menuitem "Prices from $613. Depart Thursday, 2 July. Return Saturday, 11 July." [ref=e771]
+                  - generic [ref=e773]: "2"
+                  - generic [ref=e774]: T
+                  - menuitem "Prices from $553. Depart Friday, 3 July. Return Sunday, 12 July." [ref=e775]
+                  - generic [ref=e777]: "3"
+                  - generic [ref=e778]: F
+                  - menuitem "Prices from $643. Depart Saturday, 4 July. Return Monday, 13 July." [ref=e779]
+                  - generic [ref=e781]: "4"
+                  - generic [ref=e782]: S
+                  - menuitem "Prices from $495. Depart Sunday, 5 July. Return Tuesday, 14 July." [ref=e783]
+                  - generic [ref=e785]: "5"
+                  - generic [ref=e786]: S
+                  - menuitem "Prices from $495. Depart Monday, 6 July. Return Wednesday, 15 July." [ref=e787]
+                  - generic [ref=e789]: "6"
+                  - generic [ref=e790]: M
+                  - menuitem "Prices from $495. Depart Tuesday, 7 July. Return Thursday, 16 July." [ref=e791]
+                  - generic [ref=e793]: "7"
+                  - generic [ref=e794]: T
+                  - menuitem "Prices from $495. Depart Wednesday, 8 July. Return Friday, 17 July." [ref=e795]
+                  - generic [ref=e797]: "8"
+                  - generic [ref=e798]: W
+                  - menuitem "Prices from $518. Depart Thursday, 9 July. Return Saturday, 18 July." [ref=e799]
+                  - generic [ref=e801]: "9"
+                  - generic [ref=e802]: T
+                  - menuitem "Prices from $581. Depart Friday, 10 July. Return Sunday, 19 July." [ref=e803]
+                  - generic [ref=e805]: "10"
+                  - generic [ref=e806]: F
+                  - menuitem "Prices from $596. Depart Saturday, 11 July. Return Monday, 20 July." [ref=e807]
+                  - generic [ref=e809]: "11"
+                  - generic [ref=e810]: S
+                  - menuitem "Prices from $596. Depart Sunday, 12 July. Return Tuesday, 21 July." [ref=e811]
+                  - generic [ref=e813]: "12"
+                  - generic [ref=e814]: S
+                  - menuitem "Prices from $596. Depart Monday, 13 July. Return Wednesday, 22 July." [ref=e815]
+                  - generic [ref=e817]: "13"
+                  - generic [ref=e818]: M
+                  - menuitem "Prices from $596. Depart Tuesday, 14 July. Return Thursday, 23 July." [ref=e819]
+                  - generic [ref=e821]: "14"
+                  - generic [ref=e822]: T
+                  - menuitem "Prices from $752. Depart Wednesday, 15 July. Return Friday, 24 July." [ref=e823]
+                  - generic [ref=e825]: "15"
+                  - generic [ref=e826]: W
+                  - menuitem "Prices from $631. Depart Thursday, 16 July. Return Saturday, 25 July." [ref=e827]
+                  - generic [ref=e829]: "16"
+                  - generic [ref=e830]: T
+                  - menuitem "Prices from $771. Depart Friday, 17 July. Return Sunday, 26 July." [ref=e831]
+                  - generic [ref=e833]: "17"
+                  - generic [ref=e834]: F
+                  - menuitem "Prices from $790. Depart Saturday, 18 July. Return Monday, 27 July." [ref=e835]
+                  - generic [ref=e837]: "18"
+                  - generic [ref=e838]: S
+                  - menuitem "Prices from $764. Depart Sunday, 19 July. Return Tuesday, 28 July." [ref=e839]
+                  - generic [ref=e841]: "19"
+                  - generic [ref=e842]: S
+                  - button [ref=e844]:
+                    - img [ref=e847]
+                  - button [ref=e849]:
+                    - img [ref=e852]
+                - generic [ref=e856]:
+                  - link "Scoot 7h 35m Nonstop from $466" [ref=e857] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=c5f7ccd55e595ca8&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJUUmoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMDZ5NTcaLBIKMjAyNi0wNS0yNDICVFJqDAgCEggvbS8wNnk1N3IMCAISCC9tLzA2dDJ0emhDalJJVDNORFZXd3dhV0pZWDFGQlNXOHlZVkZDUnkwdExTMHRMUzB0TFc5clkzUXlOVUZCUVVGQlIyNXFaVmxqU0VwalpsVkJFZ051VkZJYUN3aUk3QUlRQWhvRFUwZEVPREJ3MHA0Qw&ved=1t:2773&ictx=111
+                    - generic [ref=e859]: Scoot
+                    - generic [ref=e860]: 7h 35m
+                    - generic [ref=e861]: Nonstop
+                    - generic [ref=e862]: from $466
+                  - link "Jetstar 16h 50m+ Connecting from $801" [ref=e863] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=c5f7ccd55e595ca8&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJKUWoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMDZ5NTcaLBIKMjAyNi0wNS0yNDICSlFqDAgCEggvbS8wNnk1N3IMCAISCC9tLzA2dDJ0emhDalJJVDNORFZXd3dhV0pZWDFGQlNXOHlZVkZDUnkwdExTMHRMUzB0TFc5clkzUXlOVUZCUVVGQlIyNXFaVmxqU0VwalpsVkJFZ05qU2xFYUN3ams4UVFRQWhvRFUwZEVPREJ3MnV3RA&ved=1t:2773&ictx=111
+                    - generic [ref=e865]: Jetstar
+                    - generic [ref=e866]: 16h 50m+
+                    - generic [ref=e867]: Connecting
+                    - generic [ref=e868]: from $801
+                  - link "Qantas 7h 40m Nonstop from $918" [ref=e869] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=c5f7ccd55e595ca8&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJRRmoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMDZ5NTcaLBIKMjAyNi0wNS0yNDICUUZqDAgCEggvbS8wNnk1N3IMCAISCC9tLzA2dDJ0emhDalJJVDNORFZXd3dhV0pZWDFGQlNXOHlZVkZDUnkwdExTMHRMUzB0TFc5clkzUXlOVUZCUVVGQlIyNXFaVmxqU0VwalpsVkJFZ051VVVZYUN3aVl6UVVRQWhvRFUwZEVPREJ3MXJRRQ&ved=1t:2773&ictx=111
+                    - generic [ref=e871]: Qantas
+                    - generic [ref=e872]: 7h 40m
+                    - generic [ref=e873]: Nonstop
+                    - generic [ref=e874]: from $918
+                  - link "British Airways 7h 45m Nonstop from $991" [ref=e875] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights?sca_esv=c5f7ccd55e595ca8&source=flun&uitype=cuAA&hl=en&gl=sg&curr=SGD&ep=CAE&tfs=CAEQAhosEgoyMDI2LTA1LTE1MgJCQWoMCAISCC9tLzA2dDJ0cgwIAhIIL20vMDZ5NTcaLBIKMjAyNi0wNS0yNDICQkFqDAgCEggvbS8wNnk1N3IMCAISCC9tLzA2dDJ0emhDalJJVDNORFZXd3dhV0pZWDFGQlNXOHlZVkZDUnkwdExTMHRMUzB0TFc5clkzUXlOVUZCUVVGQlIyNXFaVmxqU0VwalpsVkJFZ051UWtFYUN3aWNoZ1lRQWhvRFUwZEVPREJ3eWVFRQ&ved=1t:2773&ictx=111
+                    - generic [ref=e877]: British Airways
+                    - generic [ref=e878]: 7h 45m
+                    - generic [ref=e879]: Nonstop
+                    - generic [ref=e880]: from $991
+                - link "Show flights on Google Flights" [ref=e883] [cursor=pointer]:
+                  - separator [ref=e884]
+                  - generic [ref=e885]:
+                    - generic [ref=e886]: Show flights
+                    - img [ref=e888]
+            - generic [ref=e891]:
+              - heading "Web results" [level=2] [ref=e892]
+              - generic [ref=e893]:
+                - generic [ref=e896]:
+                  - link "Flights from Singapore to Sydney Singapore Airlines https://www.singaporeair.com › ... › Flights to Australia" [ref=e898] [cursor=pointer]:
+                    - /url: https://www.singaporeair.com/en-sg/flights-from-singapore-to-sydney
+                    - heading "Flights from Singapore to Sydney" [level=3] [ref=e899]
+                    - generic [ref=e904]:
+                      - generic [ref=e906]: Singapore Airlines
+                      - generic [ref=e908]: https://www.singaporeair.com › ... › Flights to Australia
+                  - button "About this result" [ref=e909] [cursor=pointer]:
+                    - img [ref=e912]
+                - generic [ref=e916]:
+                  - emphasis [ref=e917]: Book your flights from Singapore to Sydney
+                  - text: . Discover the best flight rates and explore the Opera House, Harbour Bridge, vibrant Bondi Beach, ...
+                - generic [ref=e919]: Starting from $808.50
+            - generic [ref=e922]:
+              - generic [ref=e925]:
+                - link "Cheap flights to Sydney (SYD) airport from ... - Skyscanner skyscanner.com.sg https://www.skyscanner.com.sg › ... › New South Wales" [ref=e927] [cursor=pointer]:
+                  - /url: https://www.skyscanner.com.sg/flights-to/syd/cheap-flights-to-sydney-airport.html
+                  - heading "Cheap flights to Sydney (SYD) airport from ... - Skyscanner" [level=3] [ref=e928]
+                  - generic [ref=e933]:
+                    - generic [ref=e935]: skyscanner.com.sg
+                    - generic [ref=e937]: https://www.skyscanner.com.sg › ... › New South Wales
+                - button "About this result" [ref=e938] [cursor=pointer]:
+                  - img [ref=e941]
+              - generic [ref=e945]:
+                - emphasis [ref=e946]: Search cheap flights from Singapore to Sydney airport
+                - text: ", starting from $233*. Search and compare from hundreds of airlines to find the best time to fly and ..."
+              - generic [ref=e948]: Starting from $233.00
+            - generic [ref=e951]:
+              - generic [ref=e954]:
+                - link "Flights from Singapore to Sydney Flyscoot https://www.flyscoot.com › ... › Flights › To Australia" [ref=e956] [cursor=pointer]:
+                  - /url: https://www.flyscoot.com/flights/en-sg/flights-from-singapore-to-sydney
+                  - heading "Flights from Singapore to Sydney" [level=3] [ref=e957]
+                  - generic [ref=e962]:
+                    - generic [ref=e964]: Flyscoot
+                    - generic [ref=e966]: https://www.flyscoot.com › ... › Flights › To Australia
+                - button "About this result" [ref=e967] [cursor=pointer]:
+                  - img [ref=e970]
+              - generic [ref=e973]:
+                - generic [ref=e974]:
+                  - emphasis [ref=e975]: Flights from Singapore (SIN) to Sydney (SYD) on Scoot from SGD478
+                  - text: "* · Accommodation in Sydney Whether for work or leisure, complete your trip by booking your ..."
+                - link "Read more" [ref=e976] [cursor=pointer]:
+                  - /url: https://www.flyscoot.com/flights/en-sg/flights-from-singapore-to-sydney#:~:text=Flights%20from%20Singapore%20(SIN)%20to,(SYD)%20on%20Scoot%20from%20SGD478*&text=Accommodation%20in%20Sydney,booking%20your%20hotel%20in%20Sydney.
+              - generic [ref=e978]: Starting from $477.60
+            - generic [ref=e981]:
+              - generic [ref=e984]:
+                - link "Flights from Singapore (SIN) to Sydney (SYD) Qantas https://www.qantas.com › sin › syd › economy" [ref=e986] [cursor=pointer]:
+                  - /url: https://www.qantas.com/sg/en/flight-deals/flights-from-singapore-to-sydney.html/sin/syd/economy
+                  - heading "Flights from Singapore (SIN) to Sydney (SYD)" [level=3] [ref=e987]
+                  - generic [ref=e992]:
+                    - generic [ref=e994]: Qantas
+                    - generic [ref=e996]: https://www.qantas.com › sin › syd › economy
+                - button "About this result" [ref=e997] [cursor=pointer]:
+                  - img [ref=e1000]
+              - generic [ref=e1004]:
+                - text: Looking for flight deals from Singapore to Sydney? Find
+                - emphasis [ref=e1005]: available flights
+                - text: ", exclusive sales and book your all-inclusive airline ticket!"
+              - link "flights from Singapore to Sydney from www.qantas.com" [ref=e1008] [cursor=pointer]:
+                - /url: https://www.qantas.com/sg/en/flight-deals/flights-from-singapore-to-sydney.html/sin/syd/economy
+                - img "flights from Singapore to Sydney from www.qantas.com" [ref=e1010]
+            - generic [ref=e1014]:
+              - heading "Flight Status" [level=2] [ref=e1017]
+              - tabpanel [ref=e1021]:
+                - generic [ref=e1022]:
+                  - tablist [ref=e1023]:
+                    - tab "Fri, 17 Apr" [ref=e1024]: Fri, 17 Apr
+                    - tab "Sat, 18 Apr" [selected] [ref=e1025]
+                    - tab "Sun, 19 Apr" [ref=e1026]
+                    - tab "Mon, 20 Apr" [ref=e1027]: Mon, 20 Apr
+                  - generic:
+                    - button
+                  - generic:
+                    - button
+                - tabpanel "Sat, 18 Apr"
+                - generic [ref=e1033]:
+                  - generic [ref=e1035]:
+                    - button "7:30 pm QF 2 to Sydney SYD On time" [ref=e1042] [cursor=pointer]:
+                      - generic [ref=e1045]:
+                        - generic [ref=e1046]:
+                          - generic [ref=e1047]: 7:30 pm
+                          - generic [ref=e1048]: QF 2
+                        - generic [ref=e1049]:
+                          - generic [ref=e1050]: to Sydney SYD
+                          - generic [ref=e1052]: On time
+                      - img [ref=e1055]
+                    - button "8:20 pm BA 15 to Sydney SYD On runway" [ref=e1064] [cursor=pointer]:
+                      - generic [ref=e1067]:
+                        - generic [ref=e1068]:
+                          - generic [ref=e1069]: 8:20 pm
+                          - generic [ref=e1070]: BA 15
+                        - generic [ref=e1071]:
+                          - generic [ref=e1072]: to Sydney SYD
+                          - generic [ref=e1074]: On runway
+                      - img [ref=e1077]
+                  - link "Show all flight updates" [ref=e1082] [cursor=pointer]:
+                    - generic [ref=e1084]:
+                      - separator [ref=e1085]
+                      - generic [ref=e1086]:
+                        - generic [ref=e1087]: Show all flight updates
+                        - img [ref=e1089]
+            - generic [ref=e1092]:
+              - heading "Web results" [level=2] [ref=e1093]
+              - generic [ref=e1094]:
+                - generic [ref=e1097]:
+                  - link "Flights from Singapore (SIN) to Sydney (SYD) | Where we fly Emirates https://www.emirates.com › ... › Australia › Sydney" [ref=e1099] [cursor=pointer]:
+                    - /url: https://www.emirates.com/english/destinations/sin/syd/flights-from-singapore-to-sydney/
+                    - heading "Flights from Singapore (SIN) to Sydney (SYD) | Where we fly" [level=3] [ref=e1100]
+                    - generic [ref=e1105]:
+                      - generic [ref=e1107]: Emirates
+                      - generic [ref=e1109]: https://www.emirates.com › ... › Australia › Sydney
+                  - button "About this result" [ref=e1110] [cursor=pointer]:
+                    - img [ref=e1113]
+                - generic [ref=e1117]:
+                  - emphasis [ref=e1118]: Book flights from Singapore to Sydney today
+                  - text: . Comfortable seats, gourmet meals and award-winning entertainment.
+                - link "flights from Singapore to Sydney from www.emirates.com" [ref=e1121] [cursor=pointer]:
+                  - /url: https://www.emirates.com/english/destinations/sin/syd/flights-from-singapore-to-sydney/
+                  - img "flights from Singapore to Sydney from www.emirates.com" [ref=e1123]
+            - generic [ref=e1126]:
+              - generic [ref=e1129]:
+                - link "Flight Finder ✈ Singapore Changi (WSSS) - Sydney (YSSY) FlightAware https://www.flightaware.com › live › findflight › YSSY" [ref=e1131] [cursor=pointer]:
+                  - /url: https://www.flightaware.com/live/findflight/WSSS/YSSY
+                  - heading "Flight Finder ✈ Singapore Changi (WSSS) - Sydney (YSSY)" [level=3] [ref=e1132]
+                  - generic [ref=e1137]:
+                    - generic [ref=e1139]: FlightAware
+                    - generic [ref=e1141]: https://www.flightaware.com › live › findflight › YSSY
+                - button "About this result" [ref=e1142] [cursor=pointer]:
+                  - img [ref=e1145]
+              - generic [ref=e1149]:
+                - emphasis [ref=e1150]: Singapore Changi (WSSS) - Sydney (YSSY
+                - text: ) - Flight Finder - Find and track any flight (airline or private) -- search by origin and destination.
+            - generic [ref=e1153]:
+              - generic [ref=e1156]:
+                - link "Find Cheap Flights from Singapore to Sydney (SIN - SYD) Google https://www.google.com › travel › flights-from-singapo..." [ref=e1158] [cursor=pointer]:
+                  - /url: https://www.google.com/travel/flights/flights-from-singapore-to-sydney.html?gl=SG&hl=en
+                  - heading "Find Cheap Flights from Singapore to Sydney (SIN - SYD)" [level=3] [ref=e1159]
+                  - generic [ref=e1164]:
+                    - generic [ref=e1166]: Google
+                    - generic [ref=e1168]: https://www.google.com › travel › flights-from-singapo...
+                - button "About this result" [ref=e1169] [cursor=pointer]:
+                  - img [ref=e1172]
+              - generic [ref=e1176]:
+                - text: Use
+                - emphasis [ref=e1177]: Google Flights
+                - text: to find cheap flights from Singapore to Sydney, and book tickets for your next trip.
+            - generic [ref=e1180]:
+              - generic [ref=e1183]:
+                - link "Cheap flights from Singapore Changi to Sydney - Skyscanner skyscanner.com.sg https://www.skyscanner.com.sg › ... › Singapore Changi" [ref=e1185] [cursor=pointer]:
+                  - /url: https://www.skyscanner.com.sg/routes/sin/syd/singapore-changi-to-sydney.html
+                  - heading "Cheap flights from Singapore Changi to Sydney - Skyscanner" [level=3] [ref=e1186]
+                  - generic [ref=e1191]:
+                    - generic [ref=e1193]: skyscanner.com.sg
+                    - generic [ref=e1195]: https://www.skyscanner.com.sg › ... › Singapore Changi
+                - button "About this result" [ref=e1196] [cursor=pointer]:
+                  - img [ref=e1199]
+              - generic [ref=e1202]:
+                - generic [ref=e1203]:
+                  - text: $233 is the lowest price for a one-way Changi International Airport to
+                  - emphasis [ref=e1204]: Sydney
+                  - text: (Kingsford Smith) Airport
+                  - emphasis [ref=e1205]: flight
+                  - text: . A return
+                  - emphasis [ref=e1206]: flight
+                  - text: starts at $431. These fares may ...
+                - link "Read more" [ref=e1207] [cursor=pointer]:
+                  - /url: https://www.skyscanner.com.sg/routes/sin/syd/singapore-changi-to-sydney.html#:~:text=%24233%20is%20the%20lowest%20price,based%20on%20availability%20and%20demand.
+              - generic [ref=e1209]: Starting from $232.00
+            - generic [ref=e1212]:
+              - generic [ref=e1215]:
+                - link "Flights from Singapore to Sydney | (SIN - SYD) Cathay Pacific https://flights.cathaypacific.com › ... › To Australia" [ref=e1217] [cursor=pointer]:
+                  - /url: https://flights.cathaypacific.com/destinations/en_SG/flights-from-singapore-to-sydney
+                  - heading "Flights from Singapore to Sydney | (SIN - SYD)" [level=3] [ref=e1218]
+                  - generic [ref=e1223]:
+                    - generic [ref=e1225]: Cathay Pacific
+                    - generic [ref=e1227]: https://flights.cathaypacific.com › ... › To Australia
+                - button "About this result" [ref=e1228] [cursor=pointer]:
+                  - img [ref=e1231]
+              - generic [ref=e1234]:
+                - generic [ref=e1235]:
+                  - text: How long is the flight from Singapore to Sydney?
+                  - emphasis [ref=e1236]: Flights from Singapore (SIN) to Sydney (SYD) take around 14 hours
+                  - text: ", including the layover in Hong Kong."
+                - link "Read more" [ref=e1237] [cursor=pointer]:
+                  - /url: https://flights.cathaypacific.com/destinations/en_SG/flights-from-singapore-to-sydney#:~:text=How%20long%20is%20the%20flight,from%20Singapore%20to%20Sydney%3F
+              - generic [ref=e1239]: Starting from $1,265.20
+            - generic [ref=e1242]:
+              - heading "People also ask" [level=2] [ref=e1244]
+              - generic [ref=e1245]:
+                - button "Which month is the cheapest to fly to Sydney?" [ref=e1251] [cursor=pointer]:
+                  - generic [ref=e1253]: Which month is the cheapest to fly to Sydney?
+                  - img [ref=e1256]
+                - button "How long is the flight from Sydney to Singapore today?" [ref=e1265] [cursor=pointer]:
+                  - generic [ref=e1267]: How long is the flight from Sydney to Singapore today?
+                  - img [ref=e1270]
+                - button "What's the cheapest time to fly to Sydney?" [ref=e1279] [cursor=pointer]:
+                  - generic [ref=e1281]: What's the cheapest time to fly to Sydney?
+                  - img [ref=e1284]
+                - button "Which part of Australia is the cheapest to fly to from Singapore?" [ref=e1293] [cursor=pointer]:
+                  - generic [ref=e1295]: Which part of Australia is the cheapest to fly to from Singapore?
+                  - img [ref=e1298]
+            - generic [ref=e1302]:
+              - heading "Web results" [level=2] [ref=e1303]
+              - generic [ref=e1304]:
+                - generic [ref=e1307]:
+                  - link "S$ 239 CHEAP FLIGHTS from Singapore to Sydney (SIN KAYAK https://www.kayak.sg › ... › South Pacific › Australia" [ref=e1309] [cursor=pointer]:
+                    - /url: https://www.kayak.sg/flight-routes/Singapore-Changi-SIN/Sydney-Kingsford-Smith-SYD
+                    - heading "S$ 239 CHEAP FLIGHTS from Singapore to Sydney (SIN" [level=3] [ref=e1310]
+                    - generic [ref=e1315]:
+                      - generic [ref=e1317]: KAYAK
+                      - generic [ref=e1319]: https://www.kayak.sg › ... › South Pacific › Australia
+                  - button "About this result" [ref=e1320] [cursor=pointer]:
+                    - img [ref=e1323]
+                - generic [ref=e1326]:
+                  - generic [ref=e1327]:
+                    - text: Looking for a cheap flight? 25% of our users found flights on this route for
+                    - emphasis [ref=e1328]: S$ 286 or less one-way
+                    - text: and S$ 513 or less round-trip.
+                  - link "Read more" [ref=e1329] [cursor=pointer]:
+                    - /url: https://www.kayak.sg/flight-routes/Singapore-Changi-SIN/Sydney-Kingsford-Smith-SYD#:~:text=Looking%20for%20a%20cheap%20flight%3F,S%24%20513%20or%20less%20round%2Dtrip.
+                - generic [ref=e1331]: Starting from $239.11
+            - generic [ref=e1339]:
+              - heading "People also search for" [level=2] [ref=e1341]
+              - generic [ref=e1343]:
+                - generic [ref=e1344]:
+                  - link "Flights from singapore to sydney today" [ref=e1348] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Flights+from+singapore+to+sydney+today&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAg7EAE
+                    - generic [ref=e1349]:
+                      - generic [ref=e1354]: Flights from singapore to sydney today
+                      - img [ref=e1358]
+                  - link "Singapore to Sydney flights schedule" [ref=e1363] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Singapore+to+Sydney+flights+schedule&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhWEAE
+                    - generic [ref=e1364]:
+                      - generic [ref=e1369]: Singapore to Sydney flights schedule
+                      - img [ref=e1373]
+                  - link "Cheap flights from singapore to sydney" [ref=e1378] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheap+flights+from+singapore+to+sydney&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhVEAE
+                    - generic [ref=e1379]:
+                      - generic [ref=e1384]: Cheap flights from singapore to sydney
+                      - img [ref=e1388]
+                  - link "Flights from singapore to sydney price" [ref=e1393] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Flights+from+singapore+to+sydney+price&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhUEAE
+                    - generic [ref=e1394]:
+                      - generic [ref=e1399]: Flights from singapore to sydney price
+                      - img [ref=e1403]
+                - generic [ref=e1405]:
+                  - link "Singapore to Sydney flight time" [ref=e1409] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Singapore+to+Sydney+flight+time&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhQEAE
+                    - generic [ref=e1410]:
+                      - generic [ref=e1415]: Singapore to Sydney flight time
+                      - img [ref=e1419]
+                  - link "Singapore to Sydney scoot flight status today" [ref=e1424] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Singapore+to+Sydney+scoot+flight+status+today&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhIEAE
+                    - generic [ref=e1425]:
+                      - generic [ref=e1430]: Singapore to Sydney scoot flight status today
+                      - img [ref=e1434]
+                  - link "Flights from Singapore to Sydney arriving today" [ref=e1439] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Flights+from+Singapore+to+Sydney+arriving+today&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAhBEAE
+                    - generic [ref=e1440]:
+                      - generic [ref=e1445]: Flights from Singapore to Sydney arriving today
+                      - img [ref=e1449]
+                  - link "Singapore to Sydney flights schedule tomorrow" [ref=e1454] [cursor=pointer]:
+                    - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Singapore+to+Sydney+flights+schedule+tomorrow&sa=X&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q1QJ6BAg8EAE
+                    - generic [ref=e1455]:
+                      - generic [ref=e1460]: Singapore to Sydney flights schedule tomorrow
+                      - img [ref=e1464]
+            - region "Ads" [ref=e1468]:
+              - generic [ref=e1469]:
+                - heading "Sponsored results" [level=2] [ref=e1475]
+                - generic [ref=e1476]:
+                  - generic [ref=e1482]:
+                    - generic [ref=e1487]:
+                      - generic [ref=e1488]:
+                        - link "Cheap Flights to Sydney - Compare airlines and prices Booking.com https://www.booking.com" [ref=e1489] [cursor=pointer]:
+                          - /url: https://www.booking.com/flights/route/city-to-city/sg-singapore-to-au-sydney.html
+                          - heading "Cheap Flights to Sydney - Compare airlines and prices" [level=3] [ref=e1490]
+                          - generic [ref=e1496]:
+                            - generic [ref=e1498]: Booking.com
+                            - generic [ref=e1499]: https://www.booking.com
+                        - button "Why this ad?" [ref=e1502] [cursor=pointer]:
+                          - img [ref=e1504]
+                      - generic [ref=e1509]:
+                        - text: We combine
+                        - emphasis [ref=e1510]: flights
+                        - text: from different airlines to build the best itinerary for you. Book everything you...
+                      - generic [ref=e1512]:
+                        - text: ‎
+                        - link "Singapore - Sydney" [ref=e1513] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAIQBRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAMYASACEgLhQfD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_0T22DK89hKUHULny42iWBRdECblA&adurl=&q=
+                        - text: · ‎
+                        - link "Search Flights From Singapore (Sin) To Sydney (Syd)" [ref=e1514] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAIQBxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAMYASADEgIIdPD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_3LIaPEU9bWmE1oD78_MK33WFqiAg&adurl=&q=
+                        - text: · ‎
+                        - link "Find a Good Deal" [ref=e1515] [cursor=pointer]:
+                          - /url: https://www.booking.com/flights/index.html?slc=en3&aid=2442496&label=
+                    - generic [ref=e1520]:
+                      - generic [ref=e1521]:
+                        - link "Sydney - Singapore | Cheap Flights Today Agoda.com https://www.agoda.com › flights › deals" [ref=e1522] [cursor=pointer]:
+                          - /url: https://www.agoda.com/flights
+                          - heading "Sydney - Singapore | Cheap Flights Today" [level=3] [ref=e1523]
+                          - generic [ref=e1529]:
+                            - generic [ref=e1531]: Agoda.com
+                            - generic [ref=e1532]: https://www.agoda.com › flights › deals
+                        - button "Why this ad?" [ref=e1535] [cursor=pointer]:
+                          - img [ref=e1537]
+                      - generic [ref=e1542]:
+                        - text: More
+                        - emphasis [ref=e1543]: flight
+                        - text: choices, clear prices, no hidden fees. Book now and start your next trip. Compare...
+                      - generic [ref=e1545]:
+                        - text: ‎
+                        - link "Last Minute Deals" [ref=e1546] [cursor=pointer]:
+                          - /url: https://www.agoda.com/en-us/flights
+                        - text: · ‎
+                        - link "Find cheap flights" [ref=e1547] [cursor=pointer]:
+                          - /url: https://www.agoda.com/flights
+                        - text: · ‎
+                        - link "Book Flights to Sydney" [ref=e1548] [cursor=pointer]:
+                          - /url: https://www.agoda.com/en-us/flights
+                        - text: · ‎
+                        - link "Cheap Flights on Agoda" [ref=e1549] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAIQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAMYAiAFEgLYavD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_25vHhsQ9Mgb5wC-Z6ROBeBC2mjxw&adurl=&q=
+                      - generic [ref=e1551]:
+                        - generic [ref=e1552]: "Deal:"
+                        - link "Up to 8% off First Flight Booking" [ref=e1553] [cursor=pointer]:
+                          - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiyiI3ps_eTAxW_CdQBHbSjDT8YACICCAIQCBoCb2E&co=1&ase=2&gclid=EAIaIQobChMIsoiN6bP3kwMVvwnUAR20ow0_EAMYAiAEEgLbqPD_BwE&cid=CAASuwHkaKY5WdqtYzzouH5Z6fzinOFo4PolNiGjv95O2_jeNvIYH3GWiCVI56r8kbLTdlzP0foGgqAo1MPHwgu3lNXIOjfMxzzLXyCjFLz5hS1rr1-iEYkLc5En_wamlj6iadbMc2SAAAGRe-UJKJEyglsGYX3uyh-y6TIe6DofzSKTlSORSoBSqmlWktRukSJPbvqCuzJP5u0QSxVq5vgZ6wzvjXivJNWZTwSeBJYZkqIvLs1f4Dl1oGuqxNeD&cce=2&category=acrcp_v1_32&sig=AOD64_3A0C0XDE6qJeGd3HuR3_Vwgnwr6w&nis=4&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0QgtsBegQIbxAV&adurl=
+                  - button "Hide sponsored results" [ref=e1554] [cursor=pointer]:
+                    - separator [ref=e1555]
+                    - generic [ref=e1556]:
+                      - generic [ref=e1557]: Hide sponsored results
+                      - img [ref=e1559]
+        - navigation [ref=e1563]:
+          - heading "Page navigation" [level=1] [ref=e1564]
+          - text: "1"
+          - link "Page 2" [ref=e1567] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=10&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAE
+            - text: "2"
+          - link "Page 3" [ref=e1569] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=20&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAG
+            - text: "3"
+          - link "Page 4" [ref=e1571] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=30&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAI
+            - text: "4"
+          - link "Page 5" [ref=e1573] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=40&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAK
+            - text: "5"
+          - link "Page 6" [ref=e1575] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=50&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAM
+            - text: "6"
+          - link "Page 7" [ref=e1577] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=60&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAO
+            - text: "7"
+          - link "Page 8" [ref=e1579] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=70&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAQ
+            - text: "8"
+          - link "Page 9" [ref=e1581] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=80&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAS
+            - text: "9"
+          - link "Page 10" [ref=e1583] [cursor=pointer]:
+            - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=90&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8tMDegQIMhAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e1585]:
+            - link "Next" [ref=e1586] [cursor=pointer]:
+              - /url: /search?q=flights+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=h3njadv0FczSp84PtfTK6QM&start=10&sa=N&sstk=Af77f_dJg_CGSfS8_VJO1yXEJGaZCFxoZu0EATLz5CopkuCL5iW_akdL9aQIMw2E9atwBWfDfzuB-XH7sfPPSy2pIHX7tt5-zI5KBg&ved=2ahUKEwib1Ibps_eTAxVM6ckDHTW6Mj0Q8NMDegQIMhAW
+              - generic [ref=e1588]: Next
+        - navigation
+    - contentinfo [ref=e1590]:
+      - heading "Footer links" [level=1] [ref=e1591]
+      - generic [ref=e1595]:
+        - generic [ref=e1597]:
+          - text: Singapore
+          - generic [ref=e1599]:
+            - button "Bedok - From your IP address" [ref=e1601] [cursor=pointer]:
+              - generic [ref=e1602]: Bedok
+              - generic [ref=e1604]:
+                - text: "-"
+                - generic [ref=e1605]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e1607] [cursor=pointer]: Update location
+        - generic [ref=e1610]:
+          - link "Help" [ref=e1611] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-SG&fg=1
+          - link "Send feedback" [ref=e1612] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1613] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-SG&fg=1
+          - link "Terms" [ref=e1614] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-SG&fg=1

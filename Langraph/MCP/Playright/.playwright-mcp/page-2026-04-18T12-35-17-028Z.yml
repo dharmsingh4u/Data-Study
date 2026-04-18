@@ -1,0 +1,346 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-SG
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: flight and hotel packages from Singapore to Sydney flight and hotel packages from Singapore to Sydney
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dflight%2Band%2Bhotel%2Bpackages%2Bfrom%2BSingapore%2Bto%2BSydney&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&aep=1&ntc=1&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ2J8OegQIDxAI
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Forums" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&q=flight+and+hotel+packages+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQs6gLegQIFBAB
+              - generic [ref=e91]: Forums
+          - listitem [ref=e92]:
+            - link "Images" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&q=flight+and+hotel+packages+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQtKgLegQIFRAB
+              - generic [ref=e95]: Images
+          - listitem [ref=e96]:
+            - link "Short videos" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&q=flight+and+hotel+packages+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQs6gLegQIExAB
+              - generic [ref=e99]: Short videos
+          - listitem [ref=e100]:
+            - link "Shopping" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&q=flight+and+hotel+packages+from+Singapore+to+Sydney&ved=1t:220175&ictx=111
+              - generic [ref=e103]: Shopping
+          - listitem [ref=e104]:
+            - link "News" [ref=e105] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&q=flight+and+hotel+packages+from+Singapore+to+Sydney&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8EMlqEiHspSYihYiQG6o1SppoYJA65Rk1q7guuM9A7l3VbW3YjgUe68pgxMWDtMy_zx_eh1zojdYYkvSmCNaQyM7ta6fIU5ptmrbJmaLhBg617qGXbsXfWcq_hORwpOk1SNFMcQqeaWqUmSkxEIVhLjJ8V0AcNDt5FKkhzEYgCNbwKN9cg&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ0pQJegQIERAB
+              - generic [ref=e107]: News
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e124]
+    - main [ref=e130]:
+      - generic [ref=e134]:
+        - generic [ref=e137]:
+          - heading "Web results" [level=2] [ref=e138]
+          - generic [ref=e139]:
+            - generic [ref=e142]:
+              - link "Save on Sydney Flight & Hotel | Expedia.com.sg Expedia https://www.expedia.com.sg › ... › New South Wales" [ref=e144] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney.d178312.Destination-Travel-Guides
+                - heading "Save on Sydney Flight & Hotel | Expedia.com.sg" [level=3] [ref=e145]
+                - generic [ref=e150]:
+                  - generic [ref=e152]: Expedia
+                  - generic [ref=e154]: https://www.expedia.com.sg › ... › New South Wales
+              - button "About this result" [ref=e155] [cursor=pointer]:
+                - img [ref=e158]
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - text: Plan, book, travel with confidence · Better together.
+                - emphasis [ref=e163]: Save up to S$134 when you book a flight and hotel together
+                - text: "* · Find the right fit. With over 300,000 hotels ..."
+              - link "Read more" [ref=e164] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney.d178312.Destination-Travel-Guides#:~:text=Plan%2C%20book%2C%20travel%20with%20confidence&text=Better%20together,a%20flight%20and%20hotel%20together*&text=Find%20the%20right%20fit,to%20create%20a%20perfect%20package
+            - link "flight and hotel packages from Singapore to Sydney from www.expedia.com.sg" [ref=e167] [cursor=pointer]:
+              - /url: https://www.expedia.com.sg/Sydney.d178312.Destination-Travel-Guides
+              - img "flight and hotel packages from Singapore to Sydney from www.expedia.com.sg" [ref=e169]
+        - generic [ref=e180]:
+          - heading "Thinking" [level=2] [ref=e184]:
+            - generic [ref=e185]: Thinking
+          - progressbar [ref=e186]
+        - generic [ref=e190]:
+          - heading "Web results" [level=2] [ref=e191]
+          - generic [ref=e192]:
+            - generic [ref=e195]:
+              - link "Save on Sydney Flight & Hotel | Expedia.com.sg Expedia https://www.expedia.com.sg › ... › Canada › Nova Scotia" [ref=e197] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney.d4057.Destination-Travel-Guides
+                - heading "Save on Sydney Flight & Hotel | Expedia.com.sg" [level=3] [ref=e198]
+                - generic [ref=e203]:
+                  - generic [ref=e205]: Expedia
+                  - generic [ref=e207]: https://www.expedia.com.sg › ... › Canada › Nova Scotia
+              - button "About this result" [ref=e208] [cursor=pointer]:
+                - img [ref=e211]
+            - generic [ref=e214]:
+              - generic [ref=e215]:
+                - emphasis [ref=e216]: Save up to S$134 when you book a flight and hotel together
+                - text: "*. Find the right fit. With over 300,000 hotels worldwide, it's easy to create a perfect package ..."
+              - link "Read more" [ref=e217] [cursor=pointer]:
+                - /url: https://www.expedia.com.sg/Sydney.d4057.Destination-Travel-Guides#:~:text=Save%20up%20to%20S%24134%20when,to%20create%20a%20perfect%20package
+        - generic [ref=e221]:
+          - generic [ref=e224]:
+            - link "Singapore Holiday Packages Qantas https://www.qantas.com › holidays › singapore" [ref=e226] [cursor=pointer]:
+              - /url: https://www.qantas.com/holidays/singapore
+              - heading "Singapore Holiday Packages" [level=3] [ref=e227]
+              - generic [ref=e232]:
+                - generic [ref=e234]: Qantas
+                - generic [ref=e236]: https://www.qantas.com › holidays › singapore
+            - button "About this result" [ref=e237] [cursor=pointer]:
+              - img [ref=e240]
+          - generic [ref=e244]:
+            - emphasis [ref=e245]: Book flights + accommodation in one easy package
+            - text: for your next Singapore trip with Qantas Holidays, plus earn and use Qantas Points. Find the best Singapore ...
+          - link "flight and hotel packages from Singapore to Sydney from www.qantas.com" [ref=e248] [cursor=pointer]:
+            - /url: https://www.qantas.com/holidays/singapore
+            - img "flight and hotel packages from Singapore to Sydney from www.qantas.com" [ref=e250]
+        - generic [ref=e254]:
+          - generic [ref=e257]:
+            - link "Sydney Package | Singapore Airlines Holidays 新航假期 https://www.singaporeair-holidays.com › index.php › s..." [ref=e259] [cursor=pointer]:
+              - /url: https://www.singaporeair-holidays.com/en/index.php/sydney-package/?srsltid=AfmBOoprgXhaFnVAvZZDWhjHItVRi72zIjpZuig_2HpGFDMNMvLjUJGc
+              - heading "Sydney Package | Singapore Airlines Holidays" [level=3] [ref=e260]
+              - generic [ref=e265]:
+                - generic [ref=e267]: 新航假期
+                - generic [ref=e269]: https://www.singaporeair-holidays.com › index.php › s...
+            - button "About this result" [ref=e270] [cursor=pointer]:
+              - img [ref=e273]
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - emphasis [ref=e278]: Sydney Package
+              - text: . Singapore Stopover Holiday【 Special offer of +HK$138 per person】Include one night hotel accommodation & value added in Singapore.
+            - link "Read more" [ref=e279] [cursor=pointer]:
+              - /url: https://www.singaporeair-holidays.com/en/index.php/sydney-package/?srsltid=AfmBOoprgXhaFnVAvZZDWhjHItVRi72zIjpZuig_2HpGFDMNMvLjUJGc#:~:text=Sydney%20Package,%26%20value%20added%20in%20Singapore
+          - link "flight and hotel packages from Singapore to Sydney from www.singaporeair-holidays.com" [ref=e282] [cursor=pointer]:
+            - /url: https://www.singaporeair-holidays.com/en/index.php/sydney-package/?srsltid=AfmBOoprgXhaFnVAvZZDWhjHItVRi72zIjpZuig_2HpGFDMNMvLjUJGc
+            - img "flight and hotel packages from Singapore to Sydney from www.singaporeair-holidays.com" [ref=e284]
+          - generic [ref=e286]:
+            - text: "Missing: flight ‎| Show results with:"
+            - link "flight" [ref=e287] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&q=%22flight%22+and+hotel+packages+from+Singapore+to+Sydney&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ5t4CegQIOxAB
+        - generic [ref=e293]:
+          - generic [ref=e296]:
+            - link "Singapore to Sydney — 21 Nights All-Inclusive with Flights ... Facebook · Travelzoo 9 reactions · 1 month ago" [ref=e298] [cursor=pointer]:
+              - /url: https://www.facebook.com/TravelzooAU/videos/singapore-to-sydney-21-nights-all-inclusive-with-flights-from-6999pp-%EF%B8%8Fhttpswwwtr/4692198854362600/
+              - heading "Singapore to Sydney — 21 Nights All-Inclusive with Flights ..." [level=3] [ref=e299]
+              - generic [ref=e304]:
+                - generic [ref=e306]: Facebook · Travelzoo
+                - generic [ref=e308]: 9 reactions · 1 month ago
+            - button "About this result" [ref=e309] [cursor=pointer]:
+              - img [ref=e312]
+          - generic [ref=e314]:
+            - link "Singapore to Sydney — 21 Nights All-Inclusive with Flights ... by Travelzoo on Facebook. Play on Facebook. 0:35" [ref=e315] [cursor=pointer]:
+              - /url: https://www.facebook.com/TravelzooAU/videos/singapore-to-sydney-21-nights-all-inclusive-with-flights-from-6999pp-%EF%B8%8Fhttpswwwtr/4692198854362600/
+              - generic [ref=e317]:
+                - img [ref=e320]
+                - generic [ref=e324]: 0:35
+            - generic [ref=e326]: Singapore to Sydney in style — 21 nights all- inclusive aboard Azamara Pursuit from $6,999pp! Cruise via Bali's temples, Darwin's tropical ...
+        - generic [ref=e330]:
+          - generic [ref=e333]:
+            - link "Singapore Stopover Singapore Airlines https://www.singaporeair.com › plan-travel › privileges" [ref=e335] [cursor=pointer]:
+              - /url: https://www.singaporeair.com/en_UK/ch/plan-travel/privileges/singapore-stopover/
+              - heading "Singapore Stopover" [level=3] [ref=e336]
+              - generic [ref=e341]:
+                - generic [ref=e343]: Singapore Airlines
+                - generic [ref=e345]: https://www.singaporeair.com › plan-travel › privileges
+            - button "About this result" [ref=e346] [cursor=pointer]:
+              - img [ref=e349]
+          - generic [ref=e352]:
+            - generic [ref=e353]:
+              - emphasis [ref=e354]: Make your booking via the Multi-city/Stopovers booking page
+              - text: ". If your stopover in Singapore is on your way to your destination, search for: Flight 1: Origin ..."
+            - link "Read more" [ref=e355] [cursor=pointer]:
+              - /url: https://www.singaporeair.com/en_UK/ch/plan-travel/privileges/singapore-stopover/#:~:text=Make%20your%20booking%20via%20the,1%3A%20Origin%20airport%20to%20Singapore
+        - generic [ref=e359]:
+          - generic [ref=e362]:
+            - link "6N Chill'n Sydney New Shan Travel https://www.newshan.com › tour › 6n-chill-n-sydney" [ref=e364] [cursor=pointer]:
+              - /url: https://www.newshan.com/tour/6n-chill-n-sydney/74
+              - heading "6N Chill'n Sydney" [level=3] [ref=e365]
+              - generic [ref=e370]:
+                - generic [ref=e372]: New Shan Travel
+                - generic [ref=e374]: https://www.newshan.com › tour › 6n-chill-n-sydney
+            - button "About this result" [ref=e375] [cursor=pointer]:
+              - img [ref=e378]
+          - generic [ref=e382]:
+            - text: Looking for a great holiday travel package? We offer a wide variety of
+            - emphasis [ref=e383]: great Tour Packages, Hotels, Flights
+            - text: . Search online and book with us now!
+        - generic [ref=e387]:
+          - generic [ref=e390]:
+            - link "Best Sydney Tours 2026 WTS Travel https://www.wtstravel.com.sg › sydney-tours" [ref=e392] [cursor=pointer]:
+              - /url: https://www.wtstravel.com.sg/sydney-tours/
+              - heading "Best Sydney Tours 2026" [level=3] [ref=e393]
+              - generic [ref=e398]:
+                - generic [ref=e400]: WTS Travel
+                - generic [ref=e402]: https://www.wtstravel.com.sg › sydney-tours
+            - button "About this result" [ref=e403] [cursor=pointer]:
+              - img [ref=e406]
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - text: From $1,418 · 5 x Daily Breakfast · 5N
+              - emphasis [ref=e411]: Hotel Accommodation
+              - text: of your choice · Sea Life
+              - emphasis [ref=e412]: Sydney
+              - text: Aquarium, Madame Tussauds
+              - emphasis [ref=e413]: Sydney
+              - text: ","
+              - emphasis [ref=e414]: Sydney
+              - text: Opera House Tour & Dine, ...
+            - link "Read more" [ref=e415] [cursor=pointer]:
+              - /url: https://www.wtstravel.com.sg/sydney-tours/#:~:text=From%20%241%2C418&text=5%20x%20Daily%20Breakfast&text=5N%20Hotel%20Accommodation%20of%20your,choice&text=Sea%20Life%20Sydney%20Aquarium%2C%20Madame,OR%20Hunter%20Valley%20Wine%20Tour
+        - generic [ref=e419]:
+          - generic [ref=e422]:
+            - link "Save on Australia Flight & Hotel | Expedia.com.sg Expedia https://www.expedia.com.sg › Australia.d10.Destination-..." [ref=e424] [cursor=pointer]:
+              - /url: https://www.expedia.com.sg/Australia.d10.Destination-Travel-Guides
+              - heading "Save on Australia Flight & Hotel | Expedia.com.sg" [level=3] [ref=e425]
+              - generic [ref=e430]:
+                - generic [ref=e432]: Expedia
+                - generic [ref=e434]: https://www.expedia.com.sg › Australia.d10.Destination-...
+            - button "About this result" [ref=e435] [cursor=pointer]:
+              - img [ref=e438]
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - text: First, take your pick of
+              - emphasis [ref=e443]: 83,407 hotels starting at S$199 a night
+              - text: . Next, add your flight bookings and car rental and bundle them all into an Australia Holiday ...
+            - link "Read more" [ref=e444] [cursor=pointer]:
+              - /url: https://www.expedia.com.sg/Australia.d10.Destination-Travel-Guides#:~:text=First%2C%20take%20your%20pick%20of,into%20an%20Australia%20Holiday%20Package.
+        - generic [ref=e448]:
+          - generic [ref=e451]:
+            - link "Cheap flights from Singapore Changi to Sydney - Skyscanner skyscanner.com.sg https://www.skyscanner.com.sg › ... › Singapore Changi" [ref=e453] [cursor=pointer]:
+              - /url: https://www.skyscanner.com.sg/routes/sin/syd/singapore-changi-to-sydney.html
+              - heading "Cheap flights from Singapore Changi to Sydney - Skyscanner" [level=3] [ref=e454]
+              - generic [ref=e459]:
+                - generic [ref=e461]: skyscanner.com.sg
+                - generic [ref=e463]: https://www.skyscanner.com.sg › ... › Singapore Changi
+            - button "About this result" [ref=e464] [cursor=pointer]:
+              - img [ref=e467]
+          - generic [ref=e471]:
+            - text: Find cheap
+            - emphasis [ref=e472]: flights
+            - text: for
+            - emphasis [ref=e473]: Singapore
+            - text: Changi (SIN) to
+            - emphasis [ref=e474]: Sydney
+            - text: (SYD) starting from $233. Search and compare from hundreds of airlines to find the best time to
+            - emphasis [ref=e475]: fly
+            - text: ...
+          - generic [ref=e477]: Starting from $232.00
+      - generic [ref=e479]:
+        - generic [ref=e484]:
+          - heading "People also search for" [level=2] [ref=e486]
+          - generic [ref=e488]:
+            - generic [ref=e489]:
+              - link "Flight and hotel packages from singapore to sydney price" [ref=e493] [cursor=pointer]:
+                - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Flight+and+hotel+packages+from+singapore+to+sydney+price&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ1QJ6BAgfEAE
+                - generic [ref=e494]:
+                  - generic [ref=e499]: Flight and hotel packages from singapore to sydney price
+                  - img [ref=e503]
+              - link "Flight and hotel packages from singapore to sydney including" [ref=e508] [cursor=pointer]:
+                - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Flight+and+hotel+packages+from+singapore+to+sydney+including&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ1QJ6BAghEAE
+                - generic [ref=e509]:
+                  - generic [ref=e514]: Flight and hotel packages from singapore to sydney including
+                  - img [ref=e518]
+            - link "Cheapest flight and hotel packages from singapore to sydney" [ref=e524] [cursor=pointer]:
+              - /url: /search?sca_esv=c5f7ccd55e595ca8&q=Cheapest+flight+and+hotel+packages+from+singapore+to+sydney&sa=X&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ1QJ6BAggEAE
+              - generic [ref=e525]:
+                - generic [ref=e530]: Cheapest flight and hotel packages from singapore to sydney
+                - img [ref=e534]
+        - navigation [ref=e536]:
+          - heading "Page navigation" [level=1] [ref=e537]
+          - text: "1"
+          - link "Page 2" [ref=e540] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=10&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAE
+            - text: "2"
+          - link "Page 3" [ref=e542] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=20&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAG
+            - text: "3"
+          - link "Page 4" [ref=e544] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=30&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAI
+            - text: "4"
+          - link "Page 5" [ref=e546] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=40&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAK
+            - text: "5"
+          - link "Page 6" [ref=e548] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=50&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAM
+            - text: "6"
+          - link "Page 7" [ref=e550] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=60&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAO
+            - text: "7"
+          - link "Page 8" [ref=e552] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=70&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAQ
+            - text: "8"
+          - link "Page 9" [ref=e554] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=80&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAS
+            - text: "9"
+          - link "Page 10" [ref=e556] [cursor=pointer]:
+            - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=90&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8tMDegQIKRAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e558]:
+            - link "Next" [ref=e559] [cursor=pointer]:
+              - /url: /search?q=flight+and+hotel+packages+from+Singapore+to+Sydney&sca_esv=c5f7ccd55e595ca8&ei=gnrjacqeN73Cp84P-fGZsAk&start=10&sa=N&sstk=Af77f_dDjicC73oC8C-QI6Uncv9PvMYBVguEyIlp2wzsiE7q9yE-F4ZplNY5m5IMXrg43VOGoHoLutOdZyyekInDMhUuxpE2ps8Gjg&ved=2ahUKEwjK5__gtPeTAxU94ckDHfl4BpYQ8NMDegQIKRAW
+              - generic [ref=e561]: Next
+      - navigation
+    - contentinfo [ref=e562]:
+      - heading "Footer links" [level=1] [ref=e563]
+      - generic [ref=e567]:
+        - generic [ref=e569]:
+          - text: Singapore
+          - generic [ref=e571]:
+            - button "Bedok - From your IP address" [ref=e573] [cursor=pointer]:
+              - generic [ref=e574]: Bedok
+              - generic [ref=e576]:
+                - text: "-"
+                - generic [ref=e577]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e579] [cursor=pointer]: Update location
+        - generic [ref=e582]:
+          - link "Help" [ref=e583] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-SG&fg=1
+          - link "Send feedback" [ref=e584] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e585] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-SG&fg=1
+          - link "Terms" [ref=e586] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-SG&fg=1
